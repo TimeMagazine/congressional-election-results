@@ -1,0 +1,42 @@
+{
+	"2012": { 
+		"filename": "2012congresults.xls", 
+		"results":  "2012 US House & Senate Resuts",
+		"parties":  "2012 Party Labels",
+		"district": "D",
+		"fullname": "CANDIDATE NAME",
+		"general":  "GENERAL VOTES"
+	},
+	"2010": { 
+		"filename": "results10.xls", 
+		"results":  "2010 US House & Senate Results", 
+		"parties":  "2010 Party Labels",
+		"district": "DISTRICT",
+		"fullname": "CANDIDATE NAME (Last, First)",
+		"general":  "GENERAL"
+	},
+	"2008":  { 
+		"filename": "2008congresults.xls",
+		"results":  "2008 House and Senate Results",
+		"parties":  "2008 Party Labels",
+		"fullname": "CANDIDATE NAME",
+		"district": "DISTRICT",
+		"general":  "GENERAL"
+	},
+	"2006": { 
+		"filename": "results06.xls",
+		"results":  "2006 US House & Senate Results",
+		"parties":  "2006 Party Labels",
+		"fullname": "LAST NAME, FIRST",
+		"district": "DISTRICT",
+		"general":  "GENERAL"
+	},
+	"2004": { 
+		"filename": "2004congresults.xls",
+		"results":  "2004 US HOUSE & SENATE RESULTS",
+		"parties":  "2004 Party Labels",
+		"fullname": "LAST NAME, FIRST",
+		"district": "DISTRICT",
+		"general":  "GENERAL"
+	}
+}
