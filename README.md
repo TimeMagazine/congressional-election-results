@@ -1,4 +1,4 @@
-Sane Congressional Election Results
+Congressional Election Results as JSON
 =======
 
 The FEC maintains a [record of official election results](http://www.fec.gov/pubrec/electionresults.shtml) for presidential and congressional elections. Unsurprisingly, the format changes frequently. The repo attempts to tame that insanity and produce clear results in a clean format. Our pain should not be your pain.
@@ -8,7 +8,7 @@ If using this data, please spot check any figures against the original FEC docum
 
 ## Fine, fine -- Give me the data
 
-There's a JSON field organized by race and then candidate for each Congressional election from 2004 to 2012 in the [data](/data) directory. A given election looks like this:
+There's a JSON file organized by race and then candidate for each Congressional election from 2004 to 2012 in the [data](/data) directory. A given election looks like this:
 
 	  "2008_AL_02": {
 	    "Bright, Bobby": {
@@ -35,10 +35,10 @@ There's a JSON field organized by race and then candidate for each Congressional
 
 There is also a single file with all five cycles at [data/elections.json](data/elections.json).
 
-## A brief tour
+## A brief tour behind the scenes
 The unmodified Excel files from the FEC live in the [fec](/fec) directory. You're welcome to replace them any time if you have reason to suspect there have been any modifications. 
 
-Since the format changes each year, [fields.json](fields.json) stores the various field names we'll need. There's also a file called [missing_parties.json](missing_parties.json) with a few party names that the FEC forgot to include. 
+Since the format changes each cycle, [fields.json](fields.json) stores the various field names we'll need. There's also a file called [missing_parties.json](missing_parties.json) with a few party names that the FEC forgot to include. 
 
 If you want to rerun the script to produce the JSON from the FEC's files, go right ahead:
 
