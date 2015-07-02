@@ -13,6 +13,7 @@ There's a JSON file organized by race and then candidate for each Congressional 
 	  "2008_AL_02": {
 	    "Bright, Bobby": {
 	      "id": "2008_AL_02",
+	      "year": 2008,
 	      "name": "Bright, Bobby",
 	      "state": "AL",
 	      "district": "02",
@@ -23,6 +24,7 @@ There's a JSON file organized by race and then candidate for each Congressional 
 	    },
 	    "Love, Jay": {
 	      "id": "2008_AL_02",
+	      "year": 2008,
 	      "name": "Love, Jay",
 	      "state": "AL",
 	      "district": "02",
@@ -33,7 +35,7 @@ There's a JSON file organized by race and then candidate for each Congressional 
 	    }
 	  }
 
-There is also a single file with all five cycles at [data/elections.json](data/elections.json).
+The same information is also output in CSV files. There is also a single file with all five cycles at [data/elections.json](data/elections.json).
 
 ## A brief tour behind the scenes
 The unmodified Excel files from the FEC live in the [fec](/fec) directory. You're welcome to replace them any time if you have reason to suspect there have been any modifications. 
