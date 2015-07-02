@@ -1,14 +1,14 @@
 {
   "name": "congressional-election-results",
   "version": "0.0.1",
-  "description": "Clean data on Congressional elections from 2004 to 2014",
+  "description": "Clean data on Congressional elections from 2004 to 2012",
   "main": "index.js",
   "scripts": {
-    "test": "echo \"Error: no test specified\" && exit 1"
+    "test": "./index.js --year=all"
   },
   "repository": {
     "type": "git",
-    "url": "git@git.time-sandbox.com:tools/congressional-election-results.git"
+    "url": "https://github.com/TimeMagazine/congressional-election-results.git"
   },
   "keywords": [
     "congress",
@@ -17,7 +17,7 @@
   "author": "Chris Wilson",
   "license": "MIT",
   "dependencies": {
-    "downcache": "0.0.8",
+    "fast-csv": "^0.6.0",
     "minimist": "^1.1.1",
     "xlsjs": "^0.7.5"
   }

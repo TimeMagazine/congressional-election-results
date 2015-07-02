@@ -1,0 +1,1352 @@
+id,year,name,state,district,votes,parties
+2004_AL_01,2004,"Bonner, Jo",AL,01,161067,Republican
+2004_AL_01,2004,"Belk, Judy",AL,01,93938,Democratic
+2004_AL_02,2004,"Everett, Terry",AL,02,177086,Republican
+2004_AL_02,2004,"James, Charles D. (Chuck)",AL,02,70562,Democratic
+2004_AL_03,2004,"Rogers, Mike",AL,03,150411,Republican
+2004_AL_03,2004,"Fuller, Bill",AL,03,95240,Democratic
+2004_AL_04,2004,"Aderholt, Robert",AL,04,191110,Republican
+2004_AL_04,2004,"Cole, Carl",AL,04,64278,Democratic
+2004_AL_05,2004,"Cramer, Bud",AL,05,200999,Democratic
+2004_AL_05,2004,"Wallace, Gerald (Gerry)",AL,05,74145,Republican
+2004_AL_06,2004,"Bachus, Spencer",AL,06,264819,Republican
+2004_AL_07,2004,"Davis, Artur",AL,07,183408,Democratic
+2004_AL_07,2004,"Cameron, Steve F.",AL,07,61019,Republican
+2004_AL_S,2004,"Shelby, Richard",AL,S,1242200,Republican
+2004_AL_S,2004,"Sowell, Wayne",AL,S,595018,Democratic
+2004_AK_00,2004,"Young, Don E.",AK,00,213216,Republican
+2004_AK_00,2004,"Higgins, Thomas M.",AK,00,67074,Democratic
+2004_AK_00,2004,"Feller, Timothy A.",AK,00,11434,Green
+2004_AK_00,2004,"Anders, Alvin A.",AK,00,7157,Libertarian
+2004_AK_S,2004,"Murkowski, Lisa",AK,S,149773,Republican
+2004_AK_S,2004,"Knowles, Tony",AK,S,140424,Democratic
+2004_AK_S,2004,"Millican, Marc J.",AK,S,8885,Nonpartisan
+2004_AK_S,2004,"Sanders, Jerry",AK,S,3785,Alaskan Independence
+2004_AK_S,2004,"Sykes, Jim",AK,S,3053,Green
+2004_AK_S,2004,"Kohlhaas, Scott A.",AK,S,1240,Libertarian
+2004_AK_S,2004,"Gianoutsos, Ted ""Big""",AK,S,732,Nonpartisan
+2004_AZ_01,2004,"Renzi, Rick",AZ,01,148315,Republican
+2004_AZ_01,2004,"Babbitt, Paul",AZ,01,91776,Democratic
+2004_AZ_01,2004,"Crockett, John",AZ,01,13260,Libertarian
+2004_AZ_02,2004,"Franks, Trent",AZ,02,165260,Republican
+2004_AZ_02,2004,"Camacho, Randy",AZ,02,107406,Democratic
+2004_AZ_02,2004,"Gammill, Powell",AZ,02,6625,Libertarian
+2004_AZ_02,2004,"Crum, William",AZ,02,12,Write-In
+2004_AZ_03,2004,"Shadegg, John",AZ,03,181012,Republican
+2004_AZ_03,2004,"Yannone, Mark",AZ,03,44962,Libertarian
+2004_AZ_04,2004,"Pastor, Ed",AZ,04,77150,Democratic
+2004_AZ_04,2004,"Karg, Don",AZ,04,28238,Republican
+2004_AZ_04,2004,"Fallon, Gary",AZ,04,4639,Libertarian
+2004_AZ_05,2004,"Hayworth, J. D.",AZ,05,159455,Republican
+2004_AZ_05,2004,"Rogers, Elizabeth",AZ,05,102363,Democratic
+2004_AZ_05,2004,"Kielsky, Michael",AZ,05,6189,Libertarian
+2004_AZ_06,2004,"Flake, Jeff",AZ,06,202882,Republican
+2004_AZ_06,2004,"Stritar, Craig",AZ,06,52695,Libertarian
+2004_AZ_07,2004,"Grijalva, Raúl",AZ,07,108868,Democratic
+2004_AZ_07,2004,"Sweeney, Joseph",AZ,07,59066,Republican
+2004_AZ_07,2004,"Kaplan, Dave",AZ,07,7503,Libertarian
+2004_AZ_08,2004,"Kolbe, Jim",AZ,08,183363,Republican
+2004_AZ_08,2004,"Bacal, Eva",AZ,08,109963,Democratic
+2004_AZ_08,2004,"Anderson, Robert",AZ,08,10443,Libertarian
+2004_AZ_S,2004,"McCain, John",AZ,S,1505372,Republican
+2004_AZ_S,2004,"Starky, Stuart",AZ,S,404507,Democratic
+2004_AZ_S,2004,"Hancock, Ernest",AZ,S,51798,Libertarian
+2004_AR_01,2004,"Berry, Marion",AR,01,162388,Democratic
+2004_AR_01,2004,"Humphrey, Vernon",AR,01,81556,Republican
+2004_AR_02,2004,"Synder, Vic",AR,02,160834,Democratic
+2004_AR_02,2004,"Parks, Marvin",AR,02,115655,Republican
+2004_AR_02,2004,"Gabriel, William",AR,02,4,Write-In
+2004_AR_03,2004,"Boozman, John",AR,03,160629,Republican
+2004_AR_03,2004,"Judy, Jan",AR,03,103158,Democratic
+2004_AR_03,2004,"Morfey, Dale",AR,03,7016,Independent
+2004_AR_04,2004,"Ross, Mike",AR,04,Unopposed,Democratic
+2004_AR_S,2004,"Lincoln, Blanche L.",AR,S,580973,Democratic
+2004_AR_S,2004,"Holt, Jim",AR,S,458036,Republican
+2004_AR_S,2004,"Schwarz, Glenn",AR,S,212,Write-In
+2004_AR_S,2004,"Mason, Gene",AR,S,128,Write-In
+2004_CA_01,2004,"Thompson, Mike",CA,01,189366,Democratic
+2004_CA_01,2004,"Wiesner, Lawrence R.",CA,01,79970,Republican
+2004_CA_01,2004,"Elizondo, Pamela",CA,01,13635,Green
+2004_CA_02,2004,"Herger, Wally",CA,02,182119,Republican
+2004_CA_02,2004,"Johnson, Mike",CA,02,90310,Democratic
+2004_CA_03,2004,"Lungren, Dan",CA,03,177738,Republican
+2004_CA_03,2004,"Castillo, Gabe",CA,03,100025,Democratic
+2004_CA_03,2004,"Tuma, Douglas Arthur",CA,03,9310,Libertarian
+2004_CA_04,2004,"Doolittle, John T.",CA,04,221926,Republican
+2004_CA_04,2004,"Winters, David I.",CA,04,117443,Democratic
+2004_CA_05,2004,"Matsui, Robert T.",CA,05,138004,Democratic
+2004_CA_05,2004,"Dugas, Mike",CA,05,45120,Republican
+2004_CA_05,2004,"Driscoll, Pat",CA,05,6593,Green
+2004_CA_05,2004,"Reiger, John C.",CA,05,3670,Peace And Freedom
+2004_CA_06,2004,"Woolsey, Lynn",CA,06,226423,Democratic
+2004_CA_06,2004,"Erickson, Paul L.",CA,06,85244,Republican
+2004_CA_07,2004,"Miller, George",CA,07,166831,Democratic
+2004_CA_07,2004,"Hargrave, Charles",CA,07,52446,Republican
+2004_CA_08,2004,"Pelosi, Nancy",CA,08,224017,Democratic
+2004_CA_08,2004,"DePalma, Jennifer",CA,08,31074,Republican
+2004_CA_08,2004,"Dowell, Leilani",CA,08,9527,Peace And Freedom
+2004_CA_08,2004,"Baum, Terry",CA,08,5446,"Write-In,Green"
+2004_CA_09,2004,"Lee, Barbara",CA,09,215630,Democratic
+2004_CA_09,2004,"Bermudez, Claudia",CA,09,31278,Republican
+2004_CA_09,2004,"Eyer, Jim",CA,09,8131,Libertarian
+2004_CA_10,2004,"Tauscher, Ellen O.",CA,10,182750,Democratic
+2004_CA_10,2004,"Ketelson, Jeff",CA,10,95349,Republican
+2004_CA_11,2004,"Pombo, Richard",CA,11,163582,Republican
+2004_CA_11,2004,"McNerney, Gerald (Jerry) M.",CA,11,103587,"Write-In,Democratic,Democratic"
+2004_CA_12,2004,"Lantos, Tom",CA,12,171852,Democratic
+2004_CA_12,2004,"Garza, Mike",CA,12,52593,Republican
+2004_CA_12,2004,"Gray, Pat",CA,12,23038,Green
+2004_CA_12,2004,"Harrison, Harland",CA,12,5116,Libertarian
+2004_CA_13,2004,"Stark, Fortney Pete",CA,13,144605,Democratic
+2004_CA_13,2004,"Bruno, George I.",CA,13,48439,Republican
+2004_CA_13,2004,"Stroberg, Mark W.",CA,13,8877,Libertarian
+2004_CA_14,2004,"Eshoo, Anna G.",CA,14,182712,Democratic
+2004_CA_14,2004,"Haugen, Chris",CA,14,69564,Republican
+2004_CA_14,2004,"Holtz, Brian",CA,14,9588,Libertarian
+2004_CA_14,2004,"Mitrzyk, Dennis",CA,14,24,Write-In
+2004_CA_15,2004,"Honda, Mike",CA,15,154385,Democratic
+2004_CA_15,2004,"Chukwu, Raymond L.",CA,15,59953,Republican
+2004_CA_16,2004,"Lofgren, Zoe",CA,16,129222,Democratic
+2004_CA_16,2004,"McNea, Douglas Adams",CA,16,47992,Republican
+2004_CA_16,2004,"Welch, Markus",CA,16,5067,Libertarian
+2004_CA_17,2004,"Farr, Sam",CA,17,148958,Democratic
+2004_CA_17,2004,"Risley, Mark",CA,17,65117,Republican
+2004_CA_17,2004,"Glock-Grueneich, Ray",CA,17,3645,Green
+2004_CA_17,2004,"Williams, Joe",CA,17,2823,Peace And Freedom
+2004_CA_17,2004,"Smolen, Joel",CA,17,2607,Libertarian
+2004_CA_17,2004,"Munoz, David Mauricio",CA,17,75,Write-In
+2004_CA_18,2004,"Cardoza, Dennis A.",CA,18,103732,Democratic
+2004_CA_18,2004,"Pringle, Charles F., Sr.",CA,18,49973,Republican
+2004_CA_19,2004,"Radanovich, George",CA,19,155354,Republican
+2004_CA_19,2004,"Bufford, James Lex",CA,19,64047,Democratic
+2004_CA_19,2004,"Mullen, Larry R.",CA,19,15863,Green
+2004_CA_20,2004,"Costa, Jim",CA,20,61005,Democratic
+2004_CA_20,2004,"Ashburn, Roy",CA,20,53231,Republican
+2004_CA_21,2004,"Nunes, Devin G.",CA,21,140721,Republican
+2004_CA_21,2004,"Davis, Fred B.",CA,21,51594,Democratic
+2004_CA_22,2004,"Thomas, Bill",CA,22,209384,Republican
+2004_CA_23,2004,"Capps, Lois",CA,23,153980,Democratic
+2004_CA_23,2004,"Regan, Don",CA,23,83926,Republican
+2004_CA_23,2004,"Favorite, Michael",CA,23,6391,Libertarian
+2004_CA_24,2004,"Gallegly, Elton",CA,24,178660,Republican
+2004_CA_24,2004,"Wagner, Brett",CA,24,96397,Democratic
+2004_CA_24,2004,"Bechman, Stuart A.",CA,24,9321,Green
+2004_CA_25,2004,"McKeon, Howard P. ""Buck""",CA,25,145575,Republican
+2004_CA_25,2004,"Willoughby, Fred ""Tim""",CA,25,80395,Democratic
+2004_CA_26,2004,"Dreier, David",CA,26,134596,Republican
+2004_CA_26,2004,"Matthews, Cynthia M.",CA,26,107522,Democratic
+2004_CA_26,2004,"Weissbuch, Randall",CA,26,9089,Libertarian
+2004_CA_27,2004,"Sherman, Brad",CA,27,125296,Democratic
+2004_CA_27,2004,"Levy, Robert M.",CA,27,66946,Republican
+2004_CA_27,2004,"Carter, Eric J.",CA,27,8956,Green
+2004_CA_28,2004,"Berman, Howard L.",CA,28,115303,Democratic
+2004_CA_28,2004,"Hernandez, David",CA,28,37868,Republican
+2004_CA_28,2004,"Ross, Kelley L.",CA,28,9339,Libertarian
+2004_CA_29,2004,"Schiff, Adam B.",CA,29,133670,Democratic
+2004_CA_29,2004,"Scolinos, Harry Frank",CA,29,62871,Republican
+2004_CA_29,2004,"Koebel, Philip",CA,29,5715,Green
+2004_CA_29,2004,"Brown, Ted",CA,29,4570,Libertarian
+2004_CA_29,2004,"Burton, John Christopher",CA,29,6,Write-In
+2004_CA_30,2004,"Waxman, Henry A.",CA,30,216682,Democratic
+2004_CA_30,2004,"Elizalde, Victor",CA,30,87465,Republican
+2004_CA_31,2004,"Becerra, Xavier",CA,31,89363,Democratic
+2004_CA_31,2004,"Vega, Luis",CA,31,22048,Republican
+2004_CA_32,2004,"Solis, Hilda L.",CA,32,119144,Democratic
+2004_CA_32,2004,"Faegre, Leland",CA,32,21002,Libertarian
+2004_CA_33,2004,"Watson, Diane E.",CA,33,166801,Democratic
+2004_CA_33,2004,"Weber, Robert G., Jr.",CA,33,21513,Libertarian
+2004_CA_34,2004,"Royball-Allard, Lucille",CA,34,82282,Democratic
+2004_CA_34,2004,"Miller, Wayne",CA,34,28175,Republican
+2004_CA_35,2004,"Waters, Maxine",CA,35,125949,Democratic
+2004_CA_35,2004,"Moen, Ross",CA,35,23591,Republican
+2004_CA_35,2004,"Mego, Gordon Michael",CA,35,3440,American Independent
+2004_CA_35,2004,"Tate, Charles",CA,35,3427,Libertarian
+2004_CA_36,2004,"Harman, Jane",CA,36,151208,Democratic
+2004_CA_36,2004,"Whitehead, Paul",CA,36,81666,Republican
+2004_CA_36,2004,"Stek, Alice",CA,36,6105,Peace And Freedom
+2004_CA_36,2004,"Binkley, Mike",CA,36,5065,Libertarian
+2004_CA_37,2004,"Millender-McDonald, Juanita",CA,37,118823,Democratic
+2004_CA_37,2004,"Van, Vernon",CA,37,31960,Republican
+2004_CA_37,2004,"Peters, Herb",CA,37,7535,Libertarian
+2004_CA_38,2004,"Napolitano, Grace Flores",CA,38,116851,Democratic
+2004_CA_39,2004,"Sanchez, Linda T.",CA,39,100132,Democratic
+2004_CA_39,2004,"Escobar, Tim",CA,39,64832,Republican
+2004_CA_40,2004,"Royce, Ed",CA,40,147617,Republican
+2004_CA_40,2004,"Williams, J. Tilman",CA,40,69684,Democratic
+2004_CA_41,2004,"Lewis, Jerry",CA,41,181605,Republican
+2004_CA_41,2004,"Mottahedek, Peymon",CA,41,37332,Libertarian
+2004_CA_42,2004,"Miller, Gary G.",CA,42,167632,Republican
+2004_CA_42,2004,"Myers, Lewis",CA,42,78393,Democratic
+2004_CA_43,2004,"Baca, Joe",CA,43,86830,Democratic
+2004_CA_43,2004,"Laning, Ed",CA,43,44004,Republican
+2004_CA_44,2004,"Calvert, Ken",CA,44,138768,Republican
+2004_CA_44,2004,"Vandenberg, Louis",CA,44,78796,Democratic
+2004_CA_44,2004,"Akin, Kevin",CA,44,7559,Peace And Freedom
+2004_CA_45,2004,"Bono, Mary",CA,45,153523,Republican
+2004_CA_45,2004,"Meyer, Richard J.",CA,45,76967,Democratic
+2004_CA_46,2004,"Rohrabacher, Dana",CA,46,171318,Republican
+2004_CA_46,2004,"Brandt, Jim",CA,46,90129,Democratic
+2004_CA_46,2004,"Lash, Tom",CA,46,10238,Green
+2004_CA_46,2004,"Gann, Keith",CA,46,5005,Libertarian
+2004_CA_47,2004,"Sanchez, Loretta",CA,47,65684,Democratic
+2004_CA_47,2004,"Coronado, Alexandria A. ""Alex""",CA,47,43099,Republican
+2004_CA_48,2004,"Cox, Christopher",CA,48,189004,Republican
+2004_CA_48,2004,"Graham, John",CA,48,93525,Democratic
+2004_CA_48,2004,"Cohen, Bruce",CA,48,8343,Libertarian
+2004_CA_49,2004,"Issa, Darrell E.",CA,49,141658,Republican
+2004_CA_49,2004,"Byron, Mike",CA,49,79057,Democratic
+2004_CA_49,2004,"Grossmith, Lars R.",CA,49,5751,Libertarian
+2004_CA_50,2004,"Cunningham, Randy ""Duke""",CA,50,169025,Republican
+2004_CA_50,2004,"Busby, Francine P.",CA,50,105590,Democratic
+2004_CA_50,2004,"Osborne, Brandon C.",CA,50,3486,Libertarian
+2004_CA_50,2004,"Waayers, Gary M.",CA,50,6504,Green
+2004_CA_50,2004,"Templin, Diane",CA,50,4723,American Independent
+2004_CA_51,2004,"Filner, Bob",CA,51,111441,Democratic
+2004_CA_51,2004,"Giorgino, Michael",CA,51,63526,Republican
+2004_CA_51,2004,"Metti, Michael S.",CA,51,5912,Libertarian
+2004_CA_52,2004,"Hunter, Duncan",CA,52,187799,Republican
+2004_CA_52,2004,"Keliher, Brian S.",CA,52,74857,Democratic
+2004_CA_52,2004,"Benoit, Michael",CA,52,8782,Libertarian
+2004_CA_53,2004,"Davis, Susan A.",CA,53,146449,Democratic
+2004_CA_53,2004,"Hunzeker, Darin",CA,53,63897,Republican
+2004_CA_53,2004,"Rockwood, Lawrence P.",CA,53,7523,Green
+2004_CA_53,2004,"Van Susteren, Adam",CA,53,3567,Libertarian
+2004_CA_S,2004,"Boxer, Barbara",CA,S,6955728,Democratic
+2004_CA_S,2004,"Jones, Bill",CA,S,4555922,Republican
+2004_CA_S,2004,"Feinland, Marsha",CA,S,243846,Peace And Freedom
+2004_CA_S,2004,"Gray, James P. ""Jim""",CA,S,216522,Libertarian
+2004_CA_S,2004,"Grundmann, Don J.",CA,S,81224,American Independent
+2004_CA_S,2004,"Richter, Dennis",CA,S,43,Write-In
+2004_CA_S,2004,"Johnson, Howard",CA,S,8,Write-In
+2004_CA_S,2004,"Jones, John Emery",CA,S,2,Write-In
+2004_CO_01,2004,"DeGette, Diana",CO,01,177077,Democratic
+2004_CO_01,2004,"Chicas, Roland",CO,01,58659,Republican
+2004_CO_01,2004,"Lilly, George C.",CO,01,5193,American Constitution Party
+2004_CO_02,2004,"Udall, Mark",CO,02,207900,Democratic
+2004_CO_02,2004,"Hackman, Stephen M.",CO,02,94160,Republican
+2004_CO_02,2004,"Olsen, Norm",CO,02,7304,Libertarian
+2004_CO_03,2004,"Salazar, John",CO,03,153500,Democratic
+2004_CO_03,2004,"Walcher, Greg",CO,03,141376,Republican
+2004_CO_03,2004,"Krug, Jim",CO,03,8770,Unaffiliated
+2004_CO_04,2004,"Musgrave, Marilyn N.",CO,04,155958,Republican
+2004_CO_04,2004,"Matsunaka, Stan",CO,04,136812,Democratic
+2004_CO_04,2004,"Kinsey, Bob",CO,04,12739,Green
+2004_CO_05,2004,"Hefley, Joel",CO,05,193333,Republican
+2004_CO_05,2004,"Hardee, Fred",CO,05,74098,Democratic
+2004_CO_05,2004,"Roberts, Arthur ""Rob""",CO,05,6627,Libertarian
+2004_CO_06,2004,"Tancredo, Tom",CO,06,212778,Republican
+2004_CO_06,2004,"Conti, Joanna L.",CO,06,139870,Democratic
+2004_CO_06,2004,"Woehr, Jack J.",CO,06,3857,Libertarian
+2004_CO_06,2004,"Shevchuck, Peter",CO,06,1236,American Constitution Party
+2004_CO_07,2004,"Beauprez, Bob",CO,07,135571,Republican
+2004_CO_07,2004,"Thomas, Dave",CO,07,106026,Democratic
+2004_CO_07,2004,"Harkins, Clyde J.",CO,07,6167,American Constitution Party
+2004_CO_S,2004,"Salazar, Ken",CO,S,1081188,Democratic
+2004_CO_S,2004,"Coors, Pete",CO,S,980668,Republican
+2004_CO_S,2004,"Campbell, Douglas ""Dayhorse""",CO,S,18783,American Constitution Party
+2004_CO_S,2004,"Randall, Richard",CO,S,10160,Libertarian
+2004_CO_S,2004,"Harris, John R.",CO,S,8442,Independent
+2004_CO_S,2004,"Good, Victor",CO,S,6481,Colorado Reform Party
+2004_CO_S,2004,"Gotaas, Finn",CO,S,1750,Unaffiliated
+2004_CO_S,2004,"Acosta, Raul",CO,S,46,Write-In
+2004_CO_S,2004,"Broughton, Joyce Cumbie",CO,S,17,Write-In
+2004_CO_S,2004,"Masia-s, Daniel ""Muh Sigh Uh""",CO,S,7,Write-In
+2004_CO_S,2004,"Walker, George",CO,S,5,Write-In
+2004_CO_S,2004,"Barnett, Daniel James",CO,S,3,Write-In
+2004_CO_S,2004,"Greenheck, Robert ""Doc""",CO,S,2,Write-In
+2004_CO_S,2004,"Cooper, Gary",CO,S,1,Write-In
+2004_CO_S,2004,"Henson, Dwight",CO,S,1,Write-In
+2004_CT_01,2004,"Larson, John B.",CT,01,198802,Democratic
+2004_CT_01,2004,"Halstead, John M.",CT,01,73601,Republican
+2004_CT_02,2004,"Simmons, Rob",CT,02,166412,Republican
+2004_CT_02,2004,"Sullivan, Jim",CT,02,140536,Democratic
+2004_CT_02,2004,"Lyon, David R.",CT,02,130,Write-In
+2004_CT_03,2004,"DeLauro, Rosa L.",CT,03,200638,Democratic
+2004_CT_03,2004,"Elser, Richter",CT,03,69160,Republican
+2004_CT_03,2004,"Ferrucci, Ralph",CT,03,7182,Green
+2004_CT_04,2004,"Shays, Christopher",CT,04,152493,Republican
+2004_CT_04,2004,"Farrell, Diane",CT,04,138333,Democratic
+2004_CT_04,2004,"Vassar, Carl E.",CT,04,4,Write-In
+2004_CT_05,2004,"Johnson, Nancy L.",CT,05,168268,Republican
+2004_CT_05,2004,"Gerratana, Theresa B.",CT,05,107438,Democratic
+2004_CT_05,2004,"Ramirez, Fernando",CT,05,3196,Working Families
+2004_CT_05,2004,"Moore, Wildey J.",CT,05,2545,Concerned Citizens
+2004_CT_S,2004,"Dodd, Chris",CT,S,945347,Democratic
+2004_CT_S,2004,"Orchulli, Jack C.",CT,S,457749,Republican
+2004_CT_S,2004,"Knibbs, Timothy A.",CT,S,12442,Concerned Citizens
+2004_CT_S,2004,"Rasch, Leonard H.",CT,S,9188,Libertarian
+2004_DE_00,2004,"Castle, Michael N.",DE,00,245978,Republican
+2004_DE_00,2004,"Donnelly, Paul",DE,00,105716,Democratic
+2004_DE_00,2004,"Barros, Maurice J.",DE,00,2337,Independent Party Of Delaware
+2004_DE_00,2004,"Morris, William E.",DE,00,2014,Libertarian
+2004_FL_01,2004,"Miller, Jeff",FL,01,236604,Republican
+2004_FL_01,2004,"Coutu, Mark S.",FL,01,72506,Democratic
+2004_FL_02,2004,"Boyd, Allen",FL,02,201577,Democratic
+2004_FL_02,2004,"Kilmer, Bev",FL,02,125399,Republican
+2004_FL_02,2004,"Frederick, T.A.",FL,02,11,Write-In
+2004_FL_03,2004,"Brown, Corrine",FL,03,172833,Democratic
+2004_FL_03,2004,"Brown, Johnny M.",FL,03,1323,Write-In
+2004_FL_04,2004,"Crenshaw, Ander",FL,04,256157,Republican
+2004_FL_04,2004,"Grayson, Richard",FL,04,1170,Write-In
+2004_FL_05,2004,"Brown-Waite, Virginia ""Ginny""",FL,05,240315,Republican
+2004_FL_05,2004,"Whittel, Robert G.",FL,05,124140,Democratic
+2004_FL_05,2004,Werder,FL,05,33,Write-In
+2004_FL_06,2004,"Stearns, Clifford (Cliff) B.",FL,06,211137,Republican
+2004_FL_06,2004,"Bruderly, David E.",FL,06,116680,Democratic
+2004_FL_06,2004,"O'Brien, N.W.",FL,06,36,Write-In
+2004_FL_07,2004,"Mica, John L.",FL,07,Unopposed,Republican
+2004_FL_08,2004,"Keller, Ric",FL,08,172232,Republican
+2004_FL_08,2004,"Murray, Stephen",FL,08,112343,Democratic
+2004_FL_09,2004,"Bilirakis, Michael",FL,09,284035,Republican
+2004_FL_09,2004,"Pasayan, Andrew",FL,09,243,Write-In
+2004_FL_10,2004,"Young, C.W. Bill",FL,10,207175,Republican
+2004_FL_10,2004,"Derry, Robert D. ""Bob""",FL,10,91658,Democratic
+2004_FL_11,2004,"Davis, Jim",FL,11,191780,Democratic
+2004_FL_11,2004,"Johnson, Robert Edward",FL,11,31579,Libertarian
+2004_FL_11,2004,"Butts, Karl M.",FL,11,122,Write-In
+2004_FL_12,2004,"Putnam, Adam H.",FL,12,179204,Republican
+2004_FL_12,2004,"Hagenmaier, Bob",FL,12,96965,Democratic
+2004_FL_13,2004,"Harris, Katherine",FL,13,190477,Republican
+2004_FL_13,2004,"Schneider, Jan",FL,13,153961,Democratic
+2004_FL_14,2004,"Mack, Connie",FL,14,226662,Republican
+2004_FL_14,2004,"Neeld, Robert M.",FL,14,108672,Democratic
+2004_FL_15,2004,"Weldon, Dave",FL,15,210388,Republican
+2004_FL_15,2004,"Pristoop, Simon",FL,15,111538,Democratic
+2004_FL_16,2004,"Foley, Mark",FL,16,215563,Republican
+2004_FL_16,2004,"Fisher, Jeff",FL,16,101247,Democratic
+2004_FL_17,2004,"Meek, Kendrick B.",FL,17,178690,Democratic
+2004_FL_17,2004,"Musa, Omari",FL,17,734,Write-In
+2004_FL_18,2004,"Ros-Lehtinen, Ileana",FL,18,143647,Republican
+2004_FL_18,2004,"Sheldon, Sam",FL,18,78281,Democratic
+2004_FL_19,2004,"Wexler, Robert",FL,19,Unopposed,Democratic
+2004_FL_20,2004,"Schultz, Debbie Wasserman",FL,20,191195,Democratic
+2004_FL_20,2004,"Hostetter, Margaret",FL,20,81213,Republican
+2004_FL_21,2004,"Diaz-Balart, Lincoln",FL,21,146507,Republican
+2004_FL_21,2004,"Gonzalez, Frank J.",FL,21,54736,Libertarian
+2004_FL_22,2004,"Shaw, Clay",FL,22,192581,Republican
+2004_FL_22,2004,"Rorapaugh, Robin",FL,22,108258,Democratic
+2004_FL_22,2004,"McLain, Jack",FL,22,5260,Constitution Party Of Florida
+2004_FL_22,2004,"Kennedy, Don",FL,22,627,Write-In
+2004_FL_23,2004,"Hastings, Alcee L.",FL,23,Unopposed,Democratic
+2004_FL_24,2004,"Feeney, Tom",FL,24,Unopposed,Republican
+2004_FL_25,2004,"Diaz-Balart, Mario",FL,25,Unopposed,Republican
+2004_FL_S,2004,"Martinez, Mel",FL,S,3672864,Republican
+2004_FL_S,2004,"Castor, Betty",FL,S,3590201,Democratic
+2004_FL_S,2004,"Bradley, Dennis F.",FL,S,166642,Veterans Party
+2004_FL_S,2004,"Stufft, Mark",FL,S,119,Write-In
+2004_FL_S,2004,"Travis, Nancy",FL,S,27,Write-In
+2004_FL_S,2004,"Fruit, Rachele",FL,S,25,Write-In
+2004_FL_S,2004,"Blass, Peter",FL,S,16,Write-In
+2004_GA_01,2004,"Kingston, Jack",GA,01,188347,Republican
+2004_GA_02,2004,"Bishop, Sanford",GA,02,129984,Democratic
+2004_GA_02,2004,"Eversman, Dave",GA,02,64645,Republican
+2004_GA_03,2004,"Marshall, Jim",GA,03,136273,Democratic
+2004_GA_03,2004,"Clay, Calder",GA,03,80435,Republican
+2004_GA_04,2004,"McKinney, Cynthia",GA,04,157461,Democratic
+2004_GA_04,2004,"Davis, Catherine",GA,04,89509,Republican
+2004_GA_05,2004,"Lewis, John",GA,05,201773,Democratic
+2004_GA_06,2004,"Price, Tom",GA,06,267542,Republican
+2004_GA_06,2004,"Pelphrey, Gary ""Bats""",GA,06,77,Write-In
+2004_GA_07,2004,"Linder, John",GA,07,258982,Republican
+2004_GA_08,2004,"Westmoreland, Lynn",GA,08,227524,Republican
+2004_GA_08,2004,"Delamar, Silvia",GA,08,73632,Democratic
+2004_GA_09,2004,"Norwood, Charlie",GA,09,197869,Republican
+2004_GA_09,2004,"Ellis, Bob",GA,09,68462,Democratic
+2004_GA_10,2004,"Deal, Nathan",GA,10,219136,Republican
+2004_GA_11,2004,"Gingrey, Phil",GA,11,120696,Republican
+2004_GA_11,2004,"Crawford, Rick",GA,11,89591,Democratic
+2004_GA_12,2004,"Barrow, John",GA,12,113036,Democratic
+2004_GA_12,2004,"Burns, Max",GA,12,105132,Republican
+2004_GA_13,2004,"Scott, David",GA,13,170657,Democratic
+2004_GA_S,2004,"Isakson, Johnny",GA,S,1864202,Republican
+2004_GA_S,2004,"Majette, Denise L.",GA,S,1267690,Democratic
+2004_GA_S,2004,"Buckley, Allen",GA,S,69051,Libertarian
+2004_GA_S,2004,"Bartell, Al",GA,S,31,Write-In
+2004_GA_S,2004,"Jamison, Matthew",GA,S,7,Write-In
+2004_HI_01,2004,"Abercrombie, Neil",HI,01,128567,Democratic
+2004_HI_01,2004,"Tanonaka, Dalton",HI,01,69371,Republican
+2004_HI_01,2004,"Young, Elyssa (Erin O'Bryn)",HI,01,6243,Libertarian
+2004_HI_02,2004,"Case, Ed",HI,02,133317,Democratic
+2004_HI_02,2004,"Gabbard, Mike",HI,02,79072,Republican
+2004_HI_S,2004,"Inouye, Daniel K.",HI,S,313629,Democratic
+2004_HI_S,2004,"Cavasso, Cam",HI,S,87172,Republican
+2004_HI_S,2004,"Brewer, Jim",HI,S,9269,Nonpartisan
+2004_HI_S,2004,"Mallan, Jeff",HI,S,5277,Libertarian
+2004_ID_01,2004,"Otter, C.L. ""Butch""",ID,01,207662,Republican
+2004_ID_01,2004,"Preston, Naomi",ID,01,90927,Democratic
+2004_ID_02,2004,"Simpson, Mike",ID,02,193704,Republican
+2004_ID_02,2004,"Whitworth, Lin",ID,02,80133,Democratic
+2004_ID_S,2004,"Crapo, Mike",ID,S,499796,Republican
+2004_ID_S,2004,"McClure, Scott F.",ID,S,4136,"Write-In,Democratic"
+2004_IL_01,2004,"Rush, Bobby L.",IL,01,212109,Democratic
+2004_IL_01,2004,"Wardingley, Raymond G.",IL,01,37840,Republican
+2004_IL_02,2004,"Jackson, Jesse L., Jr.",IL,02,207535,Democratic
+2004_IL_02,2004,"Sailor, Stephanie",IL,02,26990,Libertarian
+2004_IL_03,2004,"Lipinski, Daniel William",IL,03,167034,Democratic
+2004_IL_03,2004,"Chlada, Ryan",IL,03,57845,Republican
+2004_IL_03,2004,"Grimm, Krista",IL,03,5077,Write-In
+2004_IL_04,2004,"Gutierrez, Luis V.",IL,04,104761,Democratic
+2004_IL_04,2004,"Cisneros, Tony",IL,04,15536,Republican
+2004_IL_04,2004,"Witmer, Jake",IL,04,4845,Libertarian
+2004_IL_05,2004,"Emanuel, Rahm",IL,05,158400,Democratic
+2004_IL_05,2004,"Best, Bruce",IL,05,49530,Republican
+2004_IL_06,2004,"Hyde, Henry J.",IL,06,139627,Republican
+2004_IL_06,2004,"Cegelis, Christine",IL,06,110470,Democratic
+2004_IL_07,2004,"Davis, Danny K.",IL,07,221133,Democratic
+2004_IL_07,2004,"Davis-Fairman, Antonio",IL,07,35603,Republican
+2004_IL_08,2004,"Bean, Melissa",IL,08,139792,Democratic
+2004_IL_08,2004,"Crane, Philip",IL,08,130601,Republican
+2004_IL_09,2004,"Schakowsky, Janice D.",IL,09,175282,Democratic
+2004_IL_09,2004,"Eckhardt, Kurt J.",IL,09,56135,Republican
+2004_IL_10,2004,"Kirk, Mark Steven",IL,10,177493,Republican
+2004_IL_10,2004,"Goodman, Lee",IL,10,99218,Democratic
+2004_IL_11,2004,"Weller, Gerald ""Jerry"" C.",IL,11,173057,Republican
+2004_IL_11,2004,"Renner, Tari",IL,11,121903,Democratic
+2004_IL_12,2004,"Costello, Jerry F.",IL,12,198962,Democratic
+2004_IL_12,2004,"Zweigart, Erin R.",IL,12,82677,Republican
+2004_IL_12,2004,"Steele, Walter B.",IL,12,4794,Libertarian
+2004_IL_12,2004,"Beard, Patricia Elaine",IL,12,2,Write-In
+2004_IL_13,2004,"Biggert, Judy",IL,13,200472,Republican
+2004_IL_13,2004,"Andersen, Gloria Schor",IL,13,107836,Democratic
+2004_IL_13,2004,"Mastrogiovanni, Mark Alan",IL,13,4,Write-In
+2004_IL_14,2004,"Hastert, J. Dennis",IL,14,191618,Republican
+2004_IL_14,2004,"Zamora, Ruben",IL,14,87590,Democratic
+2004_IL_15,2004,"Johnson, Tim",IL,15,178114,Republican
+2004_IL_15,2004,"Gill, David",IL,15,113625,Democratic
+2004_IL_16,2004,"Manzullo, Donald A.",IL,16,204350,Republican
+2004_IL_16,2004,"Kutsch, John H.",IL,16,91452,Democratic
+2004_IL_16,2004,"Carlson, Tom",IL,16,4,Write-In
+2004_IL_17,2004,"Evans, Lane A.",IL,17,172320,Democratic
+2004_IL_17,2004,"Zinga, Andrea Lane",IL,17,111680,Republican
+2004_IL_18,2004,"LaHood, Ray",IL,18,216047,Republican
+2004_IL_18,2004,"Waterworth, Steve",IL,18,91548,Democratic
+2004_IL_19,2004,"Shimkus, John M.",IL,19,213451,Republican
+2004_IL_19,2004,"Bagwell, Tim",IL,19,94303,Democratic
+2004_IL_S,2004,"Obama, Barack",IL,S,3597456,Democratic
+2004_IL_S,2004,"Keyes, Alan",IL,S,1390690,Republican
+2004_IL_S,2004,"Franzen, Albert J.",IL,S,81164,Independent
+2004_IL_S,2004,"Kohn, Jerry",IL,S,69253,Libertarian
+2004_IL_S,2004,"Kuhnke, Bill",IL,S,2268,Write-In
+2004_IL_S,2004,"Doody, Scott",IL,S,339,Write-In
+2004_IL_S,2004,"McArthur-Self, Donald",IL,S,134,Write-In
+2004_IL_S,2004,"Campbell, Kathy",IL,S,129,Write-In
+2004_IL_S,2004,"Bill, Shaun L.",IL,S,37,Write-In
+2004_IL_S,2004,"Hester, Marcus",IL,S,23,Write-In
+2004_IL_S,2004,"Carlson, Tom",IL,S,20,Write-In
+2004_IL_S,2004,"McDowell, Orlando",IL,S,5,Write-In
+2004_IL_S,2004,"Brumfield, Arthur C.",IL,S,1,Write-In
+2004_IL_S,2004,"Seida, Lowell",IL,S,1,Write-In
+2004_IN_01,2004,"Visclosky, Peter J.",IN,01,178406,Democratic
+2004_IN_01,2004,"Leyva, Mark J.",IN,01,82858,Republican
+2004_IN_02,2004,"Chocola, Chris",IN,02,140496,Republican
+2004_IN_02,2004,"Donnelly, Joe",IN,02,115513,Democratic
+2004_IN_02,2004,"Barnes, Douglas",IN,02,3346,Libertarian
+2004_IN_03,2004,"Souder, Mark Edward",IN,03,171389,Republican
+2004_IN_03,2004,"Parra, Maria M.",IN,03,76232,Democratic
+2004_IN_04,2004,"Buyer, Steve",IN,04,190445,Republican
+2004_IN_04,2004,"Sanders, David",IN,04,77574,Democratic
+2004_IN_04,2004,"Fleming, Kevin R.",IN,04,6117,Libertarian
+2004_IN_05,2004,"Burton, Dan",IN,05,228718,Republican
+2004_IN_05,2004,"Carr, Katherine Fox",IN,05,82637,Democratic
+2004_IN_05,2004,"Hodgin, Rick",IN,05,7008,Libertarian
+2004_IN_06,2004,"Pence, Mike",IN,06,182529,Republican
+2004_IN_06,2004,"Fox, Mel",IN,06,85123,Democratic
+2004_IN_06,2004,"Roots, Chad (Wick)",IN,06,4397,Libertarian
+2004_IN_07,2004,"Carson, Julia M.",IN,07,121303,Democratic
+2004_IN_07,2004,"Horning, Andrew (Andy)",IN,07,97491,Republican
+2004_IN_07,2004,"Campbell, Barry",IN,07,4381,Libertarian
+2004_IN_08,2004,"Hostettler, John N.",IN,08,145576,Republican
+2004_IN_08,2004,"Jennings, Jon P.",IN,08,121522,Democratic
+2004_IN_08,2004,"Garvin, Mark",IN,08,5680,Libertarian
+2004_IN_09,2004,"Sodrel, Mike",IN,09,142197,Republican
+2004_IN_09,2004,"Hill, Baron",IN,09,140772,Democratic
+2004_IN_09,2004,"Cox, Al",IN,09,4541,Libertarian
+2004_IN_S,2004,"Bayh, Evan",IN,S,1496976,Democratic
+2004_IN_S,2004,"Scott, Marvin",IN,S,903913,Republican
+2004_IN_S,2004,"Barger, Albert",IN,S,27344,Libertarian
+2004_IA_01,2004,"Nussle, Jim",IA,01,159993,Republican
+2004_IA_01,2004,"Gluba, Bill",IA,01,125490,Democratic
+2004_IA_01,2004,"Heath, Denny",IA,01,1756,"Democratic,Nominated By Petition"
+2004_IA_01,2004,"Nelson, Mark",IA,01,2727,Libertarian
+2004_IA_02,2004,"Leach, James A.",IA,02,176684,Republican
+2004_IA_02,2004,"Franker, Dave",IA,02,117405,Democratic
+2004_IA_02,2004,"Litten, Kevin",IA,02,5586,Libertarian
+2004_IA_03,2004,"Boswell, Leonard L.",IA,03,168007,Democratic
+2004_IA_03,2004,"Thompson, Stan",IA,03,136099,Republican
+2004_IA_04,2004,"Latham, Tom",IA,04,181294,Republican
+2004_IA_04,2004,"Johnson, Paul W.",IA,04,116121,Democratic
+2004_IA_05,2004,"King, Steve",IA,05,168583,Republican
+2004_IA_05,2004,"Schulte, E. Joyce",IA,05,97597,Democratic
+2004_IA_S,2004,"Grassley, Chuck",IA,S,1038175,Republican
+2004_IA_S,2004,"Small, Arthur",IA,S,412365,Democratic
+2004_IA_S,2004,"Welty, Christy Ann",IA,S,15218,Libertarian
+2004_IA_S,2004,"Northrop, Daryl A.",IA,S,11121,Iowa Green Party
+2004_IA_S,2004,"Fruit, Edwin B.",IA,S,1874,Socialist Workers Party
+2004_KS_01,2004,"Moran, Jerry",KS,01,239776,Republican
+2004_KS_01,2004,"Warner, Jack",KS,01,24517,Libertarian
+2004_KS_02,2004,"Ryun, Jim",KS,02,165325,Republican
+2004_KS_02,2004,"Boyda, Nancy",KS,02,121532,Democratic
+2004_KS_02,2004,"Hawver, Dennis",KS,02,7579,Libertarian
+2004_KS_03,2004,"Moore, Dennis",KS,03,184050,Democratic
+2004_KS_03,2004,"Kobach, Kris",KS,03,145542,Republican
+2004_KS_03,2004,"Bellis, Joe",KS,03,3191,Libertarian
+2004_KS_03,2004,"Wells, Richard",KS,03,2956,Reform
+2004_KS_04,2004,"Tiahrt, Todd",KS,04,173151,Republican
+2004_KS_04,2004,"Kinard, Michael",KS,04,81388,Democratic
+2004_KS_04,2004,"Loomis, David",KS,04,7376,Libertarian
+2004_KS_S,2004,"Brownback, Samuel D.",KS,S,780863,Republican
+2004_KS_S,2004,"Jones, Lee",KS,S,310337,Democratic
+2004_KS_S,2004,"Rosile, Steven A.",KS,S,21842,Libertarian
+2004_KS_S,2004,"Cook, George",KS,S,15980,Reform
+2004_KY_01,2004,"Whitfield, Edward",KY,01,175972,Republican
+2004_KY_01,2004,"Cartwright, Billy R.",KY,01,85229,Democratic
+2004_KY_01,2004,"Barlow, Tom",KY,01,186,Write-In
+2004_KY_02,2004,"Lewis, Ron",KY,02,185394,Republican
+2004_KY_02,2004,"Smith, Adam",KY,02,87585,Democratic
+2004_KY_03,2004,"Northup, Anne M.",KY,03,197736,Republican
+2004_KY_03,2004,"Miller, Tony",KY,03,124040,Democratic
+2004_KY_03,2004,"Dick, George C.",KY,03,6363,Libertarian
+2004_KY_03,2004,"Everett, Corley",KY,03,15,Write-In
+2004_KY_04,2004,"Davis, Geoff",KY,04,160982,Republican
+2004_KY_04,2004,"Clooney, Nick",KY,04,129876,Democratic
+2004_KY_04,2004,"Slider, Michael E.",KY,04,5069,Independent
+2004_KY_05,2004,"Rogers, Harold ""Hal""",KY,05,177579,Republican
+2004_KY_06,2004,"Chandler, Ben",KY,06,175355,Democratic
+2004_KY_06,2004,"Buford, Tom",KY,06,119716,Republican
+2004_KY_06,2004,"Abner, Stacy",KY,06,2388,Constitution
+2004_KY_06,2004,"Gailey, Mark",KY,06,1758,Libertarian
+2004_KY_S,2004,"Bunning, Jim",KY,S,873507,Republican
+2004_KY_S,2004,"Mongiardo, Daniel",KY,S,850855,Democratic
+2004_LA_01,2004,"Jindal, ""Bobby""",LA,01,225708,Republican
+2004_LA_01,2004,"Armstrong, Roy",LA,01,19266,Democratic
+2004_LA_01,2004,"Mendoza, M.V. ""Vinny""",LA,01,12779,Democratic
+2004_LA_01,2004,"Zimmerman, Daniel",LA,01,12135,Democratic
+2004_LA_01,2004,"Watts, ""Jerry""",LA,01,10034,Democratic
+2004_LA_01,2004,"Rogers, ""Mike""",LA,01,7975,Republican
+2004_LA_02,2004,"Jefferson, William J.",LA,02,173510,Democratic
+2004_LA_02,2004,"Schwertz, Arthur L. ""Art""",LA,02,46097,Republican
+2004_LA_03,2004,"Melancon, ""Charlie""",LA,03,63328,Democratic
+2004_LA_03,2004,"Tauzin, W.J. ""Billy,"" III",LA,03,84680,Republican
+2004_LA_03,2004,"Romero, Craig",LA,03,61132,Republican
+2004_LA_03,2004,"Baldone, Damon J.",LA,03,25783,Democratic
+2004_LA_03,2004,"Caccioppi, Charmaine Degruise",LA,03,19347,Democratic
+2004_LA_03,2004,"Chiasson, Kevin D.",LA,03,10350,Republican
+2004_LA_04,2004,"McCrery, ""Jim""",LA,04,Unopposed,Republican
+2004_LA_05,2004,"Alexander, Rodney",LA,05,141495,Republican
+2004_LA_05,2004,"Blakes, Zelma ""Tisa""",LA,05,58591,Democratic
+2004_LA_05,2004,"Scott, John W. ""Jock""",LA,05,37971,Republican
+2004_LA_06,2004,"Baker, Richard H.",LA,06,189106,Republican
+2004_LA_06,2004,"Craig, Rufus Holt, Jr.",LA,06,50732,Democratic
+2004_LA_06,2004,"Galmon, Edward Anthony ""Scott""",LA,06,22031,Democratic
+2004_LA_07,2004,"Boustany, Charles, Jr.",LA,07,105761,Republican
+2004_LA_07,2004,"Mount, Willie Landry",LA,07,69079,Democratic
+2004_LA_07,2004,"Cravins, ""Don""",LA,07,67389,Democratic
+2004_LA_07,2004,"Thibodaux, David",LA,07,26526,Republican
+2004_LA_07,2004,"Carriere, Malcolm R.",LA,07,5177,Democratic
+2004_LA_S,2004,"Vitter, David",LA,S,943014,Republican
+2004_LA_S,2004,"John, ""Chris""",LA,S,542150,Democratic
+2004_LA_S,2004,"Kennedy, John",LA,S,275821,Democratic
+2004_LA_S,2004,"Morrell, Arthur A.",LA,S,47222,Democratic
+2004_LA_S,2004,"Fontanesi, Richard M.",LA,S,15097,Other
+2004_LA_S,2004,"Galan, R.A. ""Skip""",LA,S,12463,Other
+2004_LA_S,2004,"Melton, Sam Houston, Jr.",LA,S,12289,Democratic
+2004_ME_01,2004,"Allen, Thomas H.",ME,01,219077,Democratic
+2004_ME_01,2004,"Summers, Charles E., Jr.",ME,01,147663,Republican
+2004_ME_02,2004,"Michaud, Michael H.",ME,02,199303,Democratic
+2004_ME_02,2004,"Hamel, Brian N.",ME,02,135547,Republican
+2004_ME_02,2004,"Cooley, Carl",ME,02,8586,"Unenrolled,Socialist Equality Party"
+2004_MD_01,2004,"Gilchrest, Wayne T.",MD,01,245149,Republican
+2004_MD_01,2004,"Alexakis, Kostas",MD,01,77872,Democratic
+2004_MD_02,2004,"Ruppersberger, C.A. Dutch",MD,02,164751,Democratic
+2004_MD_02,2004,"Brooks, Jane",MD,02,75812,Republican
+2004_MD_02,2004,"Salkowski, Keith",MD,02,6508,Green
+2004_MD_03,2004,"Cardin, Benjamin L.",MD,03,182066,Democratic
+2004_MD_03,2004,"Duckworth, Robert P.",MD,03,97008,Republican
+2004_MD_03,2004,"Allen, Patsy",MD,03,7895,Green
+2004_MD_04,2004,"Wynn, Albert R.",MD,04,196809,Democratic
+2004_MD_04,2004,"McKinnis, John",MD,04,52907,Republican
+2004_MD_04,2004,"Dudley, Theresa Mitchell",MD,04,11885,Green
+2004_MD_04,2004,"Kimble, John B.",MD,04,6,Write-In
+2004_MD_05,2004,"Hoyer, Steny H.",MD,05,204867,Democratic
+2004_MD_05,2004,"Jewitt, Brad",MD,05,87189,Republican
+2004_MD_05,2004,"Auerbach, Bob S.",MD,05,4224,Green
+2004_MD_05,2004,"Krukar, Steve",MD,05,1849,Constitution
+2004_MD_06,2004,"Bartlett, Roscoe G.",MD,06,206076,Republican
+2004_MD_06,2004,"Bosley, Kenneth T.",MD,06,90108,Democratic
+2004_MD_06,2004,"Hemingway, Gregory J.",MD,06,9324,Green
+2004_MD_07,2004,"Cummings, Elijah E.",MD,07,179189,Democratic
+2004_MD_07,2004,"Salazar, Tony",MD,07,60102,Republican
+2004_MD_07,2004,"Rodino, Virginia T.",MD,07,4727,Green
+2004_MD_08,2004,"Van Hollen, Chris",MD,08,215129,Democratic
+2004_MD_08,2004,"Young, Lih",MD,08,79,"Democratic,Write-In"
+2004_MD_08,2004,"Floyd, Chuck",MD,08,71989,Republican
+2004_MD_S,2004,"Mikulski, Barbara A.",MD,S,1504691,Democratic
+2004_MD_S,2004,"Pipkin, E.J.",MD,S,783055,Republican
+2004_MD_S,2004,"Bly, Ray",MD,S,109,"Republican,Write-In"
+2004_MD_S,2004,"Allwine, Maria",MD,S,24816,Green
+2004_MD_S,2004,"Trump, Thomas",MD,S,9009,Constitution
+2004_MD_S,2004,"Gemmill, Robert, II",MD,S,204,Write-In
+2004_MD_S,2004,"Gayle-El, Dennard A., Sr.",MD,S,47,Write-In
+2004_MA_01,2004,"Olver, John W.",MA,01,229465,Democratic
+2004_MA_02,2004,"Neal, Richard E.",MA,02,217682,Democratic
+2004_MA_03,2004,"McGovern, James P.",MA,03,192036,Democratic
+2004_MA_03,2004,"Crews, Ronald A.",MA,03,80197,Republican
+2004_MA_04,2004,"Frank, Barney",MA,04,219260,Democratic
+2004_MA_04,2004,"Morse, Charles A.",MA,04,62293,Independent
+2004_MA_05,2004,"Meehan, Martin T.",MA,05,179652,Democratic
+2004_MA_05,2004,"Tierney, Thomas P.",MA,05,88232,Republican
+2004_MA_06,2004,"Tierney, John F.",MA,06,213458,Democratic
+2004_MA_06,2004,"O'Malley, Stephen P., Jr.",MA,06,91597,Republican
+2004_MA_07,2004,"Markey, Edward J.",MA,07,202399,Democratic
+2004_MA_07,2004,"Chase, Kenneth G.",MA,07,60334,Republican
+2004_MA_07,2004,"Hall, James O.",MA,07,12139,Independent
+2004_MA_08,2004,"Capuano, Michael E.",MA,08,165852,Democratic
+2004_MA_09,2004,"Lynch, Stephen F.",MA,09,218167,Democratic
+2004_MA_10,2004,"Delahunt, William D.",MA,10,222013,Democratic
+2004_MA_10,2004,"Jones, Michael J.",MA,10,114879,Republican
+2004_MI_01,2004,"Stupak, Bart",MI,01,211571,Democratic
+2004_MI_01,2004,"Hooper, Don",MI,01,105706,Republican
+2004_MI_01,2004,"Newland, David J.",MI,01,3105,Green
+2004_MI_01,2004,"Loosemore, John W.",MI,01,2292,Libertarian
+2004_MI_02,2004,"Hoekstra, Peter",MI,02,225343,Republican
+2004_MI_02,2004,"Kimon, Kotos",MI,02,94040,Democratic
+2004_MI_02,2004,"VanTil, Steve",MI,02,2876,Libertarian
+2004_MI_02,2004,"Graeser, Ronald E.",MI,02,2746,U.S. Taxpayers
+2004_MI_03,2004,"Ehlers, Vernon J.",MI,03,214465,Republican
+2004_MI_03,2004,"Hickey, Peter H.",MI,03,101395,Democratic
+2004_MI_03,2004,"Adams, Warren",MI,03,3695,Libertarian
+2004_MI_03,2004,"Sales, Marcel J.",MI,03,2548,U.S. Taxpayers
+2004_MI_04,2004,"Camp, Dave",MI,04,205274,Republican
+2004_MI_04,2004,"Huckleberry, Mike",MI,04,110885,Democratic
+2004_MI_04,2004,"Chia, Albert, Jr.",MI,04,2765,Libertarian
+2004_MI_05,2004,"Kildee, Dale E.",MI,05,208163,Democratic
+2004_MI_05,2004,"Kirkwood, Myrah",MI,05,96934,Republican
+2004_MI_05,2004,"Mikkelson, Harley",MI,05,2468,Green
+2004_MI_05,2004,"Foster, Clint",MI,05,2350,Libertarian
+2004_MI_06,2004,"Upton, Fred",MI,06,197425,Republican
+2004_MI_06,2004,"Elliott, Scott",MI,06,97978,Democratic
+2004_MI_06,2004,"MacPhee, Randall",MI,06,2311,Green
+2004_MI_06,2004,"Haas, Erwin J.",MI,06,2275,Libertarian
+2004_MI_06,2004,"FitzSimons, W. Dennis",MI,06,2169,U.S. Taxpayers
+2004_MI_07,2004,"Schwarz, Joe",MI,07,176053,Republican
+2004_MI_07,2004,"Renier, Sharon Marie",MI,07,109527,Democratic
+2004_MI_07,2004,"Horn, David",MI,07,9032,U.S. Taxpayers
+2004_MI_07,2004,"Seagraves, Jason",MI,07,3996,Green
+2004_MI_07,2004,"Proctor, Kenneth",MI,07,3034,Libertarian
+2004_MI_08,2004,"Rogers, Mike",MI,08,207925,Republican
+2004_MI_08,2004,"Alexander, Robert D.",MI,08,125619,Democratic
+2004_MI_08,2004,"White, Will Tyler",MI,08,3591,Libertarian
+2004_MI_08,2004,"Mangopoulos, John",MI,08,3288,U.S. Taxpayers
+2004_MI_09,2004,"Knollenberg, Joe",MI,09,199210,Republican
+2004_MI_09,2004,"Reifman, Steven W.",MI,09,134764,Democratic
+2004_MI_09,2004,"Schubring, Robert W.",MI,09,6825,Libertarian
+2004_MI_10,2004,"Miller, Candice S.",MI,10,227720,Republican
+2004_MI_10,2004,"Casey, Rob",MI,10,98029,Democratic
+2004_MI_10,2004,"Basso, Phoebe A.",MI,10,3966,Libertarian
+2004_MI_10,2004,"America, Anthony",MI,10,2153,Natural Law
+2004_MI_11,2004,"McCotter, Thaddeus G.",MI,11,186431,Republican
+2004_MI_11,2004,"Truran, Phillip S.",MI,11,134301,Democratic
+2004_MI_11,2004,"Basso, Charles L., Jr.",MI,11,6484,Libertarian
+2004_MI_12,2004,"Levin, Sander",MI,12,210827,Democratic
+2004_MI_12,2004,"Shafer, Randell J.",MI,12,88256,Republican
+2004_MI_12,2004,"Gach, Dick",MI,12,5051,Libertarian
+2004_MI_13,2004,"Kilpatrick, Carolyn Cheeks",MI,13,173246,Democratic
+2004_MI_13,2004,"Cassell, Cynthia",MI,13,40935,Republican
+2004_MI_13,2004,"Lavigne, Thomas",MI,13,4261,Green
+2004_MI_13,2004,"Gordon, Eric",MI,13,3211,Libertarian
+2004_MI_13,2004,"Hart, Osborne",MI,13,1,Write-In
+2004_MI_14,2004,"Conyers, John Jr.",MI,14,213681,Democratic
+2004_MI_14,2004,"Pedraza, Veronica",MI,14,35089,Republican
+2004_MI_14,2004,"Donahue, Michael L.",MI,14,2278,Libertarian
+2004_MI_14,2004,"Weltman, Lisa",MI,14,2224,Green
+2004_MI_14,2004,"Sears, Wilbert",MI,14,1307,U.S. Taxpayers
+2004_MI_14,2004,"Banks, Nathaniel",MI,14,1,Write-In
+2004_MI_15,2004,"Dingell, John D.",MI,15,218409,Democratic
+2004_MI_15,2004,"Reamer, Dawn Anne",MI,15,81828,Republican
+2004_MI_15,2004,"Stempfle, Gregory Scott",MI,15,3400,Libertarian
+2004_MI_15,2004,"Eller, Mike",MI,15,2508,U.S. Taxpayers
+2004_MI_15,2004,"White, Jerome S.",MI,15,1818,No Party Affiliation
+2004_MN_01,2004,"Gutknecht, Gil",MN,01,193132,Republican
+2004_MN_01,2004,"Pomeroy, Leigh",MN,01,115088,Democratic-Farmer Labor
+2004_MN_01,2004,"Mikkelson, Gregory",MN,01,15569,Independence
+2004_MN_01,2004,"Romero, Pedro",MN,01,2,Write-In
+2004_MN_02,2004,"Kline, John",MN,02,206313,Republican
+2004_MN_02,2004,"Daly, Teresa",MN,02,147527,Democratic-Farmer Labor
+2004_MN_02,2004,"Williams, Doug",MN,02,11822,Independence
+2004_MN_03,2004,"Ramstad, Jim",MN,03,231871,Republican
+2004_MN_03,2004,"Watts, Deborah",MN,03,126665,Democratic-Farmer Labor
+2004_MN_04,2004,"McCollum, Betty",MN,04,182387,Democratic-Farmer Labor
+2004_MN_04,2004,"Bataglia, Patrice",MN,04,105467,Republican
+2004_MN_04,2004,"Vento, Peter F.",MN,04,29099,Independence
+2004_MN_05,2004,"Sabo, Martin Olav",MN,05,218434,Democratic-Farmer Labor
+2004_MN_05,2004,"Mathias, Daniel",MN,05,76600,Republican
+2004_MN_05,2004,"Pond, Jay",MN,05,17984,Green
+2004_MN_06,2004,"Kennedy, Mark",MN,06,203669,Republican
+2004_MN_06,2004,"Wetterling, Patty",MN,06,173309,Democratic-Farmer Labor
+2004_MN_07,2004,"Peterson, Collin C.",MN,07,207628,Democratic-Farmer Labor
+2004_MN_07,2004,"Sturrock, David E.",MN,07,106349,Republican
+2004_MN_08,2004,"Oberstar, James L.",MN,08,228586,Democratic-Farmer Labor
+2004_MN_08,2004,"Groettum, Mark",MN,08,112693,Republican
+2004_MN_08,2004,"Presley, Van",MN,08,8933,Green
+2004_MS_01,2004,"Wicker, Roger F.",MS,01,219328,Republican
+2004_MS_01,2004,"Washer, Barbara Dale",MS,01,58256,Reform
+2004_MS_02,2004,"Thompson, Bennie G.",MS,02,154626,Democratic
+2004_MS_02,2004,"LeSueur, Clinton B.",MS,02,107647,Republican
+2004_MS_02,2004,"O'Hara, Shawn",MS,02,2596,Reform
+2004_MS_03,2004,"Pickering, Charles W., Jr.",MS,03,234874,Republican
+2004_MS_03,2004,"Giles, Jim",MS,03,40426,Independent
+2004_MS_03,2004,"Magee, Lamonica L.",MS,03,18068,Reform
+2004_MS_04,2004,"Taylor, Gene",MS,04,181614,Democratic
+2004_MS_04,2004,"Lott, Michael",MS,04,96740,Republican
+2004_MS_04,2004,"Hill, Tracella Lou O'Hara",MS,04,2028,Reform
+2004_MO_01,2004,"Clay, Wm. Lacy",MO,01,213658,Democratic
+2004_MO_01,2004,"Farr, Leslie L., II",MO,01,64791,Republican
+2004_MO_01,2004,"Chadwick, Terry",MO,01,3937,Libertarian
+2004_MO_01,2004,"Rehbein, Robert",MO,01,1385,Constitution
+2004_MO_02,2004,"Akin, Todd",MO,02,228725,Republican
+2004_MO_02,2004,"Weber, George D.",MO,02,115366,Democratic
+2004_MO_02,2004,"Maloney, Darla",MO,02,4822,Libertarian
+2004_MO_02,2004,"Leefe, David",MO,02,954,Constitution
+2004_MO_03,2004,"Carnahan, Russ",MO,03,146894,Democratic
+2004_MO_03,2004,"Federer, Bill",MO,03,125422,Republican
+2004_MO_03,2004,"Babcock, Kevin C.",MO,03,4367,Libertarian
+2004_MO_03,2004,"Renaud, William J.",MO,03,1222,Constitution
+2004_MO_03,2004,"Badaracco, Joseph L.",MO,03,11,Write-In
+2004_MO_04,2004,"Skelton, Ike",MO,04,190800,Democratic
+2004_MO_04,2004,"Noland, James A. (Jim)",MO,04,93334,Republican
+2004_MO_04,2004,"Lower, Bill",MO,04,2827,Libertarian
+2004_MO_04,2004,"Lister, Raymond",MO,04,1265,Constitution
+2004_MO_05,2004,"Cleaver, Emanuel, II",MO,05,161727,Democratic
+2004_MO_05,2004,"Patterson, Jeanne",MO,05,123431,Republican
+2004_MO_05,2004,"Baillie, Rick",MO,05,5827,Libertarian
+2004_MO_05,2004,"Rodenberg, Darin",MO,05,2040,Constitution
+2004_MO_06,2004,"Graves, Sam",MO,06,196516,Republican
+2004_MO_06,2004,"Broomfield, Charles S.",MO,06,106987,Democratic
+2004_MO_06,2004,"Buck, Erik",MO,06,4352,Libertarian
+2004_MO_07,2004,"Blunt, Roy",MO,07,210080,Republican
+2004_MO_07,2004,"Newberry, Jim",MO,07,84356,Democratic
+2004_MO_07,2004,"Craig, Kevin",MO,07,2767,Libertarian
+2004_MO_07,2004,"Alger, Steve",MO,07,1002,Constitution
+2004_MO_08,2004,"Emerson, JoAnn",MO,08,194039,Republican
+2004_MO_08,2004,"Henderson, Dean",MO,08,71543,Democratic
+2004_MO_08,2004,"Cuff, Stan",MO,08,1810,Libertarian
+2004_MO_08,2004,"Davidson, Leonard J.",MO,08,1319,Constitution
+2004_MO_09,2004,"Hulshof, Kenny C.",MO,09,193429,Republican
+2004_MO_09,2004,"Jacobsen, Linda",MO,09,101343,Democratic
+2004_MO_09,2004,"Millay, Tamara A.",MO,09,3228,Libertarian
+2004_MO_09,2004,"Earl, Chris",MO,09,1447,Constitution
+2004_MO_S,2004,"Bond, Christopher (Kit)",MO,S,1518089,Republican
+2004_MO_S,2004,"Farmer, Nancy",MO,S,1158261,Democratic
+2004_MO_S,2004,"Tull, Kevin",MO,S,19648,Libertarian
+2004_MO_S,2004,"Griffin, Don",MO,S,10404,Constitution
+2004_MT_00,2004,"Rehberg, Denny",MT,00,286076,Republican
+2004_MT_00,2004,"Velazquez, Tracy",MT,00,145606,Democratic
+2004_MT_00,2004,"Fellows, Mike",MT,00,12548,Libertarian
+2004_NE_01,2004,"Fortenberry, Jeff",NE,01,143756,Republican
+2004_NE_01,2004,"Connealy, Matt",NE,01,113971,Democratic
+2004_NE_01,2004,"Larrick, Steven R.",NE,01,7345,Green
+2004_NE_02,2004,"Terry, Lee",NE,02,152608,Republican
+2004_NE_02,2004,"Thompson, Nancy",NE,02,90292,Democratic
+2004_NE_02,2004,"Graziano, Jack",NE,02,4656,Libertarian
+2004_NE_02,2004,"Salvatierra, Dante",NE,02,2208,Green
+2004_NE_03,2004,"Osborne, Tom",NE,03,218751,Republican
+2004_NE_03,2004,"Anderson, Donna J.",NE,03,26434,Democratic
+2004_NE_03,2004,"Rosberg, Joseph A.",NE,03,3396,Nebraska Party
+2004_NE_03,2004,"Guisinger, Roy",NE,03,1555,Green
+2004_NV_01,2004,"Berkley, Shelley",NV,01,133569,Democratic
+2004_NV_01,2004,"Mickelson, Russ",NV,01,63005,Republican
+2004_NV_01,2004,"Duensing, Jim",NV,01,5862,Libertarian
+2004_NV_02,2004,"Gibbons, Jim",NV,02,195466,Republican
+2004_NV_02,2004,"Cochran, Angie G.",NV,02,79978,Democratic
+2004_NV_02,2004,"Hansen, Janine",NV,02,10638,Independent American
+2004_NV_02,2004,"Trainor, Brendan J.",NV,02,4997,Libertarian
+2004_NV_03,2004,"Porter, Jon",NV,03,162240,Republican
+2004_NV_03,2004,"Gallagher, Tom",NV,03,120365,Democratic
+2004_NV_03,2004,"Silvestri, Joseph P.",NV,03,9260,Libertarian
+2004_NV_03,2004,"O'Dell, Richard Wayne",NV,03,6053,Independent American
+2004_NV_S,2004,"Reid, Harry",NV,S,494805,Democratic
+2004_NV_S,2004,"Ziser, Richard",NV,S,284640,Republican
+2004_NV_S,2004,"Hurst, Thomas L.",NV,S,9559,Libertarian
+2004_NV_S,2004,"Schumann, David K.",NV,S,6001,Independent American
+2004_NV_S,2004,"Marinch, Gary",NV,S,2095,Natural Law
+2004_NH_01,2004,"Bradley, Jeb",NH,01,204836,Republican
+2004_NH_01,2004,"Nadeau, Justin",NH,01,118226,Democratic
+2004_NH_02,2004,"Bass, Charles",NH,02,191188,Republican
+2004_NH_02,2004,"Hodes, Paul W.",NH,02,125280,Democratic
+2004_NH_02,2004,"Kahn, Richard B.",NH,02,11311,Libertarian
+2004_NH_S,2004,"Gregg, Judd",NH,S,434847,Republican
+2004_NH_S,2004,"Haddock, Doris Granny D.",NH,S,221549,Democratic
+2004_NH_S,2004,"Blevens, Ken",NH,S,102,Write-In
+2004_NJ_01,2004,"Andrews, Robert E.",NJ,01,201163,Democratic
+2004_NJ_01,2004,"Hutchison, S. Daniel",NJ,01,66109,Republican
+2004_NJ_01,2004,"Croce, Arturo Fulvio",NJ,01,931,E Pluribus Unum
+2004_NJ_02,2004,"LoBiondo, Frank A.",NJ,02,172779,Republican
+2004_NJ_02,2004,"Robb, Timothy J.",NJ,02,86792,Democratic
+2004_NJ_02,2004,"Norwood, Willie",NJ,02,1993,Jobs Equality Business
+2004_NJ_02,2004,"Matthews, Michael J., Jr.",NJ,02,1767,Libertarian
+2004_NJ_02,2004,"Alcantara, Jose David",NJ,02,1516,Green
+2004_NJ_02,2004,"Rozzo, Costantino",NJ,02,595,Socialist Party USA
+2004_NJ_03,2004,"Saxton, Jim",NJ,03,195938,Republican
+2004_NJ_03,2004,"Conaway, Herb",NJ,03,107034,Democratic
+2004_NJ_03,2004,"Forchion, R. Edward",NJ,03,4914,U.S. Marijuana Party
+2004_NJ_03,2004,"Orland, Frank",NJ,03,976,Libertarian
+2004_NJ_04,2004,"Smith, Christopher H.",NJ,04,192671,Republican
+2004_NJ_04,2004,"Vasquez, Amy",NJ,04,92826,Democratic
+2004_NJ_04,2004,"Edgar, Richard",NJ,04,2056,Libertarian
+2004_NJ_05,2004,"Garrett, Scott",NJ,05,171220,Republican
+2004_NJ_05,2004,"Wolfe, Dorothea Anne",NJ,05,122259,Democratic
+2004_NJ_05,2004,"Kaplan, Victor",NJ,05,1857,Libertarian
+2004_NJ_05,2004,"Phelan, Thomas A.",NJ,05,1515,NJ Conservative Party
+2004_NJ_05,2004,"Pason, Gregory",NJ,05,574,Socialist Party USA
+2004_NJ_06,2004,"Pallone, Frank, Jr.",NJ,06,153981,Democratic
+2004_NJ_06,2004,"Fernandez, Sylvester",NJ,06,70942,Republican
+2004_NJ_06,2004,"Flynn, Virginia A.",NJ,06,2829,Libertarian
+2004_NJ_06,2004,"Lyden, Mac Dara F.X.",NJ,06,2399,Help Middlesex/Monmouth/Somerset/Union Residents
+2004_NJ_07,2004,"Ferguson, Mike",NJ,07,162597,Republican
+2004_NJ_07,2004,"Brozak, Steve",NJ,07,119081,Democratic
+2004_NJ_07,2004,"Abrams, Thomas D.",NJ,07,2153,Libertarian
+2004_NJ_07,2004,"Williams, Matthew Angus",NJ,07,2016,Independent
+2004_NJ_08,2004,"Pascrell, Bill, Jr.",NJ,08,152001,Democratic
+2004_NJ_08,2004,"Ajjan, George",NJ,08,62747,Republican
+2004_NJ_08,2004,"Fortunato, Joseph A.",NJ,08,4072,Green
+2004_NJ_09,2004,"Rothman, Steven R.",NJ,09,146038,Democratic
+2004_NJ_09,2004,"Trawinski, Edward",NJ,09,68564,"Write-In,Republican,Republican"
+2004_NJ_09,2004,"Daly, David",NJ,09,1649,Libertarian
+2004_NJ_10,2004,"Payne, Donald M.",NJ,10,155697,Democratic
+2004_NJ_10,2004,"Washington, Toy-Ling",NJ,10,2927,Green
+2004_NJ_10,2004,"Lobman, Sara J.",NJ,10,2089,Socialist Workers Party
+2004_NJ_11,2004,"Frelinghuysen, Rodney P.",NJ,11,200915,Republican
+2004_NJ_11,2004,"Buell, James W.",NJ,11,91811,Democratic
+2004_NJ_11,2004,"Mele, John",NJ,11,1746,Immigration Moratorium Now
+2004_NJ_11,2004,"Lett, Austin S.",NJ,11,1530,Libertarian
+2004_NJ_12,2004,"Holt, Rush",NJ,12,171691,Democratic
+2004_NJ_12,2004,"Spadea, Bill",NJ,12,115014,Republican
+2004_NJ_12,2004,"Chazotte, Ken",NJ,12,1562,Libertarian
+2004_NJ_12,2004,"Brooks, Daryl M.",NJ,12,1518,Green
+2004_NJ_13,2004,"Menendez, Robert",NJ,13,121018,Democratic
+2004_NJ_13,2004,"Piatkowski, Richard W.",NJ,13,35288,Republican
+2004_NJ_13,2004,"Hester, Dick",NJ,13,1282,Pro Life Conservative
+2004_NJ_13,2004,"Shaw, Herbert H.",NJ,13,1066,Politicos Son Corruptos
+2004_NJ_13,2004,"Lariscy, Angela L.",NJ,13,887,Socialist Workers Party
+2004_NM_01,2004,"Wilson, Heather A.",NM,01,147372,Republican
+2004_NM_01,2004,"Romero, Richard M.",NM,01,123339,Democratic
+2004_NM_01,2004,"Cole, Orlin G.",NM,01,194,Write-In
+2004_NM_02,2004,"Pearce, Steve",NM,02,130498,Republican
+2004_NM_02,2004,"King, Gary K.",NM,02,86292,Democratic
+2004_NM_03,2004,"Udall, Tom",NM,03,175269,Democratic
+2004_NM_03,2004,"Tucker, Gregory M.",NM,03,79935,Republican
+2004_NY_01,2004,"Bishop, Timothy H.",NY,01,156354,"Democratic,Independence,Working Families"
+2004_NY_01,2004,"Manger, William, Jr.",NY,01,121855,"Republican,Conservative"
+2004_NY_02,2004,"Israel, Steve J.",NY,02,161593,"Democratic,Independence,Working Families"
+2004_NY_02,2004,"Hoffmann, Richard",NY,02,80950,"Republican,Conservative"
+2004_NY_03,2004,"King, Peter",NY,03,171259,"Conservative,Independence,Republican"
+2004_NY_03,2004,"Mathies, Blair H., Jr.",NY,03,100737,Democratic
+2004_NY_04,2004,"McCarthy, Carolyn",NY,04,159969,"Democratic,Working Families,Independence"
+2004_NY_04,2004,"Garner, James A.",NY,04,94141,"Republican,Conservative"
+2004_NY_05,2004,"Ackerman, Gary L.",NY,05,119726,"Democratic,Independence,Working Families"
+2004_NY_05,2004,"Graves, Stephen",NY,05,46867,"Conservative,Republican"
+2004_NY_05,2004,"Policarpio, Gonzalo",NY,05,1248,For All Americans
+2004_NY_06,2004,"Meeks, Gregory W.",NY,06,129688,"Democratic,Working Families"
+2004_NY_07,2004,"Crowley, Joseph",NY,07,104275,"Working Families,Democratic"
+2004_NY_07,2004,"Cinquemain, Joseph",NY,07,24548,"Republican,Conservative"
+2004_NY_08,2004,"Nadler, Jerrold L.",NY,08,162082,"Democratic,Working Families"
+2004_NY_08,2004,"Hort, Peter",NY,08,39240,"Republican,Independence,Conservative"
+2004_NY_09,2004,"Weiner, Anthony D.",NY,09,113025,"Democratic,Working Families"
+2004_NY_09,2004,"Cronin, Gerard J.",NY,09,45451,"Republican,Conservative,Independence"
+2004_NY_10,2004,"Towns, Edolphus",NY,10,136113,"Democratic,Working Families"
+2004_NY_10,2004,"Clarke, Harvey R.",NY,10,11099,Republican
+2004_NY_10,2004,"Blume, Mariana",NY,10,1554,Conservative
+2004_NY_11,2004,"Owens, Major R.",NY,11,144999,"Working Families,Democratic"
+2004_NY_11,2004,"Stevens, Lorraine",NY,11,4721,Independence
+2004_NY_11,2004,"Lieberman, Sol",NY,11,4478,Conservative
+2004_NY_12,2004,"Velazquez, Nydia M.",NY,12,107796,"Democratic,Working Families"
+2004_NY_12,2004,"Rodriguez, Paul A.",NY,12,17166,"Republican,Conservative"
+2004_NY_13,2004,"Fossella, Vito",NY,13,112934,"Republican,Conservative"
+2004_NY_13,2004,"Barbaro, Frank J.",NY,13,78500,"Democratic,Working Families,Independence"
+2004_NY_14,2004,"Maloney, Carolyn B.",NY,14,186688,"Democratic,Independence,Working Families"
+2004_NY_14,2004,"Srdanovic, Anton",NY,14,43623,"Republican,Conservative"
+2004_NY_15,2004,"Rangel, Charles B.",NY,15,161351,"Working Families,Democratic"
+2004_NY_15,2004,"Jefferson, Kenneth P., Jr.",NY,15,12355,Republican
+2004_NY_15,2004,"Fields, Jessie",NY,15,3345,Independence
+2004_NY_16,2004,"Serrano, Jose E.",NY,16,111638,"Democratic,Working Families"
+2004_NY_16,2004,"Mohamed, Ali",NY,16,5610,"Republican,Conservative"
+2004_NY_17,2004,"Engel, Eliot L.",NY,17,140530,"Working Families,Democratic"
+2004_NY_17,2004,"Brennan, Matt I.",NY,17,40524,Republican
+2004_NY_17,2004,"Brawley, Kevin",NY,17,3482,Conservative
+2004_NY_18,2004,"Lowey, Nita M.",NY,18,170715,"Democratic,Independence,Working Families"
+2004_NY_18,2004,"Hoffman, Richard A.",NY,18,73975,Republican
+2004_NY_19,2004,"Kelly, Sue W.",NY,19,175401,"Republican,Conservative,Independence"
+2004_NY_19,2004,"Jaliman, Michael",NY,19,87429,Democratic
+2004_NY_20,2004,"Sweeney, John E.",NY,20,188753,"Republican,Independence,Conservative"
+2004_NY_20,2004,"Kelly, Doris F.",NY,20,96630,Democratic
+2004_NY_20,2004,"Guller, Morris N.",NY,20,1353,Centrist
+2004_NY_21,2004,"McNulty, Michael R.",NY,21,194033,"Democratic,Independence,Conservative,Working Families"
+2004_NY_21,2004,"Redlich, Warren",NY,21,80121,Republican
+2004_NY_22,2004,"Hinchey, Maurice D.",NY,22,167489,"Democratic,Independence,Working Families"
+2004_NY_22,2004,"Brenner, William A.",NY,22,81881,Republican
+2004_NY_23,2004,"McHugh, John M.",NY,23,160079,"Republican,Independence,Conservative"
+2004_NY_23,2004,"Johnson, Robert J.",NY,23,66448,Democratic
+2004_NY_24,2004,"Boehlert, Sherwood L.",NY,24,143000,"Independence,Republican"
+2004_NY_24,2004,"Miller, Jeffrey A.",NY,24,85140,Democratic
+2004_NY_24,2004,"Walrath, David L.",NY,24,23228,Conservative
+2004_NY_25,2004,"Walsh, James T.",NY,25,189063,"Republican,Independence,Conservative"
+2004_NY_25,2004,"Hawkins, Howie",NY,25,20106,Peace And Justice
+2004_NY_26,2004,"Reynolds, Thomas M.",NY,26,157466,"Republican,Conservative,Independence"
+2004_NY_26,2004,"Davis, Jack",NY,26,125613,"Democratic,Working Families"
+2004_NY_27,2004,"Higgins, Brian M.",NY,27,143332,"Working Families,Independence,Democratic"
+2004_NY_27,2004,"Naples, Nancy A.",NY,27,139558,"Republican,Conservative"
+2004_NY_28,2004,"Slaughter, Louise M.",NY,28,159655,"Working Families,Democratic"
+2004_NY_28,2004,"Laba, Michael D.",NY,28,54543,"Republican,Conservative"
+2004_NY_28,2004,"Cartonia, Francina J.",NY,28,5678,Independence
+2004_NY_29,2004,"Kuhl, John Randy, Jr.",NY,29,136883,Republican
+2004_NY_29,2004,"Barend, Samara",NY,29,110241,"Working Families,Democratic"
+2004_NY_29,2004,"Assini, Mark W.",NY,29,17272,Conservative
+2004_NY_29,2004,"Ciampoli, John",NY,29,5819,Independence
+2004_NY_S,2004,"Schumer, Charles",NY,S,4769824,"Democratic,Independence,Working Families"
+2004_NY_S,2004,"Mills, Howard",NY,S,1625069,Republican
+2004_NY_S,2004,"O'Grady, Marilyn F.",NY,S,220960,Conservative
+2004_NY_S,2004,"McReynolds, David E.",NY,S,36942,Green
+2004_NY_S,2004,"Silberger, Donald",NY,S,19073,Libertarian
+2004_NY_S,2004,"Koppel, Martin",NY,S,14811,Socialist Workers Party
+2004_NY_S,2004,"Hirschfeld, Abraham",NY,S,16196,Builders
+2004_NC_01,2004,"Butterfield, G.K.",NC,01,137667,Democratic
+2004_NC_01,2004,"Dority, Greg",NC,01,77508,Republican
+2004_NC_02,2004,"Etheridge, Bob",NC,02,145079,Democratic
+2004_NC_02,2004,"Creech, Billy J.",NC,02,87811,Republican
+2004_NC_03,2004,"Jones, Walter B.",NC,03,171863,Republican
+2004_NC_03,2004,"Eaton, Roger A.",NC,03,71227,Democratic
+2004_NC_04,2004,"Price, David",NC,04,217441,Democratic
+2004_NC_04,2004,"Batchelor, Todd A.",NC,04,121717,Republican
+2004_NC_04,2004,"Longley, Maximilian",NC,04,76,Write-In
+2004_NC_05,2004,"Foxx, Virginia",NC,05,167546,Republican
+2004_NC_05,2004,"Harrell, Jim A., Jr.",NC,05,117271,Democratic
+2004_NC_06,2004,"Coble, Howard",NC,06,207470,Republican
+2004_NC_06,2004,"Jordan, William W.",NC,06,76153,Democratic
+2004_NC_07,2004,"McIntyre, Mike",NC,07,180382,Democratic
+2004_NC_07,2004,"Plonk, Ken",NC,07,66084,Republican
+2004_NC_08,2004,"Hayes, Robert C. (Robin)",NC,08,125070,Republican
+2004_NC_08,2004,"Troutman, Beth",NC,08,100101,Democratic
+2004_NC_09,2004,"Myrick, Sue",NC,09,210783,Republican
+2004_NC_09,2004,"Flynn, Jack",NC,09,89318,Democratic
+2004_NC_10,2004,"McHenry, Patrick",NC,10,157884,Republican
+2004_NC_10,2004,"Fischer, Anne N.",NC,10,88233,Democratic
+2004_NC_11,2004,"Taylor, Charles H.",NC,11,159709,Republican
+2004_NC_11,2004,"Keever, Patsy",NC,11,131188,Democratic
+2004_NC_12,2004,"Watt, Mel",NC,12,154908,Democratic
+2004_NC_12,2004,"Fisher, Ada M.",NC,12,76898,Republican
+2004_NC_13,2004,"Miller, Brad",NC,13,160896,Democratic
+2004_NC_13,2004,"Johnson, Virginia",NC,13,112788,Republican
+2004_NC_S,2004,"Burr, Richard",NC,S,1791450,Republican
+2004_NC_S,2004,"Bowles, Erskine",NC,S,1632527,Democratic
+2004_NC_S,2004,"Bailey, Tom",NC,S,47743,Libertarian
+2004_NC_S,2004,"Rucker, Walter F.",NC,S,362,Write-In
+2004_ND_00,2004,"Pomeroy, Earl",ND,00,185130,Democratic-Nonpartisan League
+2004_ND_00,2004,"Sand, Duane",ND,00,125684,Republican
+2004_ND_S,2004,"Dorgan, Byron L.",ND,S,212143,Democratic-Nonpartisan League
+2004_ND_S,2004,"Liffrig, Mike",ND,S,98553,Republican
+2004_OH_01,2004,"Chabot, Steve",OH,01,173430,Republican
+2004_OH_01,2004,"Harris, Greg",OH,01,116235,Democratic
+2004_OH_01,2004,"Stevenson, Rich",OH,01,198,Write-In
+2004_OH_02,2004,"Portman, Rob",OH,02,227102,Republican
+2004_OH_02,2004,"Sanders, Charles W.",OH,02,89598,Democratic
+2004_OH_02,2004,"Condit, James, Jr.",OH,02,60,Write-In
+2004_OH_03,2004,"Turner, Mike",OH,03,197290,Republican
+2004_OH_03,2004,"Mitakides, Jane",OH,03,119448,Democratic
+2004_OH_04,2004,"Oxley, Michael G.",OH,04,167807,Republican
+2004_OH_04,2004,"Konop, Ben",OH,04,118538,Democratic
+2004_OH_05,2004,"Gillmor, Paul E.",OH,05,196649,Republican
+2004_OH_05,2004,"Weirauch, Robin",OH,05,96656,Democratic
+2004_OH_06,2004,"Strickland, Ted",OH,06,223844,Democratic
+2004_OH_06,2004,"Luchansky, John Stephen",OH,06,145,Write-In
+2004_OH_07,2004,"Hobson, Dave",OH,07,186534,Republican
+2004_OH_07,2004,"Anastasio, Kara",OH,07,100617,Democratic
+2004_OH_08,2004,"Boehner, John A.",OH,08,201675,Republican
+2004_OH_08,2004,"Hardenbrook, Jeff",OH,08,90574,Democratic
+2004_OH_09,2004,"Kaptur, Marcy",OH,09,205149,Democratic
+2004_OH_09,2004,"Kaczala, Larry A.",OH,09,95983,Republican
+2004_OH_10,2004,"Kucinich, Dennis J.",OH,10,172406,Democratic
+2004_OH_10,2004,"Herman, Edward Fitzpatrick",OH,10,96463,Republican
+2004_OH_10,2004,"Ferris, Barbara Anne",OH,10,18343,Nonpartisan
+2004_OH_11,2004,"Jones, Stephanie Tubbs",OH,11,222371,Democratic
+2004_OH_12,2004,"Tiberi, Pat",OH,12,198912,Republican
+2004_OH_12,2004,"Brown, Edward S.",OH,12,122109,Democratic
+2004_OH_12,2004,"Spingola, Chuck",OH,12,25,Write-In
+2004_OH_13,2004,"Brown, Sherrod",OH,13,201004,Democratic
+2004_OH_13,2004,"Lucas, Robert",OH,13,97090,Republican
+2004_OH_14,2004,"LaTourette, Steven C.",OH,14,201652,Republican
+2004_OH_14,2004,"Cafaro, Capri S.",OH,14,119714,Democratic
+2004_OH_15,2004,"Pryce, Deborah",OH,15,166520,Republican
+2004_OH_15,2004,"Brown, Mark P.",OH,15,110915,Democratic
+2004_OH_16,2004,"Regula, Ralph",OH,16,202544,Republican
+2004_OH_16,2004,"Seemann, Jeff",OH,16,101817,Democratic
+2004_OH_17,2004,"Ryan, Tim",OH,17,212800,Democratic
+2004_OH_17,2004,"Cusimano, Frank V.",OH,17,62871,Republican
+2004_OH_18,2004,"Ney, Bob",OH,18,177600,Republican
+2004_OH_18,2004,"Thomas, Brian R.",OH,18,90820,Democratic
+2004_OH_S,2004,"Voinovich, George",OH,S,3464651,Republican
+2004_OH_S,2004,"Fingerhut, Eric D.",OH,S,1961249,Democratic
+2004_OH_S,2004,"Meyers, Helen",OH,S,296,Write-In
+2004_OK_01,2004,"Sullivan, John",OK,01,187145,Republican
+2004_OK_01,2004,"Dodd, Doug",OK,01,116731,Democratic
+2004_OK_01,2004,"Krymski, John",OK,01,7058,Independent
+2004_OK_02,2004,"Boren, Dan",OK,02,179579,Democratic
+2004_OK_02,2004,"Smalley, Wayland",OK,02,92963,Republican
+2004_OK_03,2004,"Lucas, Frank D.",OK,03,215510,Republican
+2004_OK_03,2004,"Wilson, Gregory M.",OK,03,46621,Independent
+2004_OK_04,2004,"Cole, Tom",OK,04,198985,Republican
+2004_OK_04,2004,"Bradshaw, Charlene K.",OK,04,56869,Independent
+2004_OK_05,2004,"Istook, Ernest",OK,05,180430,Republican
+2004_OK_05,2004,"Smith, Bert",OK,05,92719,Democratic
+2004_OK_S,2004,"Coburn, Tom",OK,S,763433,Republican
+2004_OK_S,2004,"Carson, Brad",OK,S,596750,Democratic
+2004_OK_S,2004,"Bilyeu, Sheila",OK,S,86663,Independent
+2004_OR_01,2004,"Wu, David",OR,01,203771,Democratic
+2004_OR_01,2004,"Ameri, Goli",OR,01,135164,Republican
+2004_OR_01,2004,"Wolf, Dean",OR,01,13882,Constitution
+2004_OR_02,2004,"Walden, Greg",OR,02,248461,Republican
+2004_OR_02,2004,"McColgan, John C.",OR,02,88914,Democratic
+2004_OR_02,2004,"Lindsay, Jim",OR,02,4792,Libertarian
+2004_OR_02,2004,"Brown, Jack Alan, Jr.",OR,02,4060,Constitution
+2004_OR_03,2004,"Blumenauer, Earl",OR,03,245559,Democratic
+2004_OR_03,2004,"Mars, Tami",OR,03,82045,Republican
+2004_OR_03,2004,"Brown, Walter F. (Walt)",OR,03,10678,Socialist Party USA
+2004_OR_03,2004,"Winegarden, Dale",OR,03,7119,Constitution
+2004_OR_04,2004,"DeFazio, Peter A.",OR,04,228611,Democratic
+2004_OR_04,2004,"Feldkamp, Jim",OR,04,140882,Republican
+2004_OR_04,2004,"Boone, Jacob",OR,04,3190,Libertarian
+2004_OR_04,2004,"Marsh, Michael Paul",OR,04,1799,Constitution
+2004_OR_05,2004,"Hooley, Darlene",OR,05,184833,Democratic
+2004_OR_05,2004,"Zupancic, Jim",OR,05,154993,Republican
+2004_OR_05,2004,"Defoe, Jerry",OR,05,6463,Libertarian
+2004_OR_05,2004,"Bitz, Joseph H.",OR,05,2971,Constitution
+2004_OR_S,2004,"Wyden, Ron",OR,S,1128728,Democratic
+2004_OR_S,2004,"King, Al",OR,S,565254,Republican
+2004_OR_S,2004,"Keane, Teresa",OR,S,43053,Pacific Green
+2004_OR_S,2004,"Fitzgerald, Dan",OR,S,29582,Libertarian
+2004_OR_S,2004,"Brownlow, David",OR,S,12397,Constitution
+2004_PA_01,2004,"Brady, Robert A.",PA,01,214462,Democratic
+2004_PA_01,2004,"Williams, Deborah L.",PA,01,33266,Republican
+2004_PA_01,2004,"Randolph, Christopher",PA,01,857,Randolph For Congress
+2004_PA_02,2004,"Fattah, Chaka",PA,02,253226,Democratic
+2004_PA_02,2004,"Bolno, Stewart",PA,02,34411,Republican
+2004_PA_03,2004,"English, Phil",PA,03,166580,Republican
+2004_PA_03,2004,"Porter, Steven",PA,03,110684,Democratic
+2004_PA_04,2004,"Hart, Melissa",PA,04,204329,Republican
+2004_PA_04,2004,"Drobac, Stevan Jr.",PA,04,116303,Democratic
+2004_PA_04,2004,"Larchuk, Steven B.",PA,04,3285,Healthcare Party
+2004_PA_05,2004,"Peterson, John E.",PA,05,192852,Republican
+2004_PA_05,2004,"Martin, Thomas A.",PA,05,26239,Libertarian
+2004_PA_06,2004,"Gerlach, Jim",PA,06,160348,Republican
+2004_PA_06,2004,"Murphy, Lois",PA,06,153977,Democratic
+2004_PA_07,2004,"Weldon, Curt",PA,07,196556,Republican
+2004_PA_07,2004,"Scoles, Paul",PA,07,134932,Democratic
+2004_PA_07,2004,"Jahn, David",PA,07,3039,Libertarian
+2004_PA_08,2004,"Fitzpatrick, Michael G.",PA,08,183229,Republican
+2004_PA_08,2004,"Schrader, Virginia Waters",PA,08,143427,Democratic
+2004_PA_08,2004,"Farnsworth, Arthur L.",PA,08,3710,Libertarian
+2004_PA_08,2004,"Lukas, Erich G.",PA,08,898,Constitution
+2004_PA_09,2004,"Shuster, Bill",PA,09,184320,Republican
+2004_PA_09,2004,"Politis, Paul I.",PA,09,80787,Democratic
+2004_PA_10,2004,"Sherwood, Don",PA,10,191967,Republican
+2004_PA_10,2004,"Hannevig, Veronica A.",PA,10,14805,Constitution
+2004_PA_11,2004,"Kanjorski, Paul E.",PA,11,171147,Democratic
+2004_PA_11,2004,"Brenneman, Kenneth C.",PA,11,10105,Constitution
+2004_PA_12,2004,"Murtha, John P.",PA,12,204504,Democratic
+2004_PA_13,2004,"Schwartz, Allyson",PA,13,171763,Democratic
+2004_PA_13,2004,"Brown, Melissa",PA,13,127205,Republican
+2004_PA_13,2004,"McDermott, John P.",PA,13,5291,Constitution
+2004_PA_13,2004,"Moulton, Chuck",PA,13,3865,Libertarian
+2004_PA_14,2004,"Doyle, Mike",PA,14,220139,Democratic
+2004_PA_15,2004,"Dent, Charles W.",PA,15,170634,Republican
+2004_PA_15,2004,"Driscoll, Joe",PA,15,114646,Democratic
+2004_PA_15,2004,"Piotrowski, Richard J.",PA,15,3660,Libertarian
+2004_PA_15,2004,"Browne, Greta",PA,15,2194,Green
+2004_PA_16,2004,"Pitts, Joseph R.",PA,16,183620,Republican
+2004_PA_16,2004,"Herr, Lois K.",PA,16,98410,Democratic
+2004_PA_16,2004,"Hagen, William R.",PA,16,3269,Green
+2004_PA_17,2004,"Holden, Tim",PA,17,172412,Democratic
+2004_PA_17,2004,"Paterno, Scott",PA,17,113592,Republican
+2004_PA_17,2004,"Diamond, Russ",PA,17,5782,Libertarian
+2004_PA_18,2004,"Murphy, Tim",PA,18,197894,Republican
+2004_PA_18,2004,"Boles, Mark G.",PA,18,117420,Democratic
+2004_PA_19,2004,"Platts, Todd",PA,19,224274,Republican
+2004_PA_19,2004,"Steel, Charles J.",PA,19,8890,Green
+2004_PA_19,2004,"Paoletta, Michael Mickey",PA,19,8456,Libertarian
+2004_PA_19,2004,"Searer, Lester B.",PA,19,3474,Constitution
+2004_PA_S,2004,"Specter, Arlen",PA,S,2925080,Republican
+2004_PA_S,2004,"Hoeffel, Joseph M.",PA,S,2334126,Democratic
+2004_PA_S,2004,"Clymer, James N.",PA,S,220056,Constitution
+2004_PA_S,2004,"Summers, Betsy",PA,S,79263,Libertarian
+2004_RI_01,2004,"Kennedy, Patrick J.",RI,01,124923,Democratic
+2004_RI_01,2004,"Rogers, David W.",RI,01,69819,Republican
+2004_RI_01,2004,"Binder, Mark",RI,01,6,Write-In
+2004_RI_02,2004,"Langevin, James R.",RI,02,154392,Democratic
+2004_RI_02,2004,"Barton, Arthur Chuck, III",RI,02,43139,Republican
+2004_RI_02,2004,"Morabito, Edward M., Jr.",RI,02,6196,Independent
+2004_RI_02,2004,"Hayes, Dorman J., Jr.",RI,02,3303,Socialist Party USA
+2004_RI_02,2004,"Kennedy, Patrick",RI,02,5,Write-In
+2004_SC_01,2004,"Brown, Henry",SC,01,186448,Republican
+2004_SC_01,2004,"Dunn, James E.",SC,01,25674,Green
+2004_SC_02,2004,"Wilson, Joe",SC,02,181862,Republican
+2004_SC_02,2004,"Ellisor, Michael Ray",SC,02,93249,Democratic
+2004_SC_02,2004,"Lefemine, Steve",SC,02,4447,Constitution
+2004_SC_03,2004,"Barrett, J. Gresham",SC,03,191052,Republican
+2004_SC_04,2004,"Inglis, Bob",SC,04,188795,Republican
+2004_SC_04,2004,"Brown, Brandon P.",SC,04,78376,Democratic
+2004_SC_04,2004,"Walters, C. Faye",SC,04,3273,Green
+2004_SC_05,2004,"Spratt, John",SC,05,152867,Democratic
+2004_SC_05,2004,"Spencer, Albert F.",SC,05,89568,Republican
+2004_SC_06,2004,"Clyburn, James E. ""Jim""",SC,06,161987,Democratic
+2004_SC_06,2004,"McLeod, Gary",SC,06,79600,"Republican,Constitution"
+2004_SC_S,2004,"DeMint, Jim",SC,S,857167,Republican
+2004_SC_S,2004,"Tenenbaum, Inez",SC,S,704384,Democratic
+2004_SC_S,2004,"Tyndall, Patrick",SC,S,13464,Constitution
+2004_SC_S,2004,"Sutherland, Rebekah E.",SC,S,10678,Libertarian
+2004_SC_S,2004,"Ferguson, Tee",SC,S,5859,United Citizens
+2004_SC_S,2004,"Nwangaza, Efia",SC,S,4383,"Green,Independence"
+2004_SD_00,2004,"Herseth, Stephanie",SD,00,207837,Democratic
+2004_SD_00,2004,"Diedrich, Larry",SD,00,178823,Republican
+2004_SD_00,2004,"Begay, Terry",SD,00,2808,Libertarian
+2004_SD_S,2004,"Thune, John",SD,S,197848,Republican
+2004_SD_S,2004,"Daschle, Tom",SD,S,193340,Democratic
+2004_TN_01,2004,"Jenkins, William L. ""Bill""",TN,01,172543,Republican
+2004_TN_01,2004,"Leonard, Graham",TN,01,56361,Democratic
+2004_TN_01,2004,"Ball, Ralph J.",TN,01,3061,Independent
+2004_TN_01,2004,"Peavler, Michael",TN,01,1595,Independent
+2004_TN_02,2004,"Duncan, John J., Jr.",TN,02,215795,Republican
+2004_TN_02,2004,"Greene, John",TN,02,52155,Democratic
+2004_TN_02,2004,"Howard, Charles E.",TN,02,4978,Independent
+2004_TN_03,2004,"Wamp, Zach",TN,03,166154,Republican
+2004_TN_03,2004,"Wolfe, John",TN,03,84295,Democratic
+2004_TN_03,2004,"Griffin, June",TN,03,3018,Independent
+2004_TN_03,2004,"Vandagriff, Doug",TN,03,1696,Independent
+2004_TN_03,2004,"Howard-Hill, Jean",TN,03,1473,Independent
+2004_TN_04,2004,"Davis, Lincoln",TN,04,138459,Democratic
+2004_TN_04,2004,"Bowling, Janice",TN,04,109993,Republican
+2004_TN_04,2004,"Martin, Ken",TN,04,4194,Independent
+2004_TN_05,2004,"Cooper, Jim",TN,05,168970,Democratic
+2004_TN_05,2004,"Knapp, Scott",TN,05,74978,Republican
+2004_TN_05,2004,"Kovach, Thomas F.",TN,05,15,Write-In
+2004_TN_06,2004,"Gordon, Bart",TN,06,167448,Democratic
+2004_TN_06,2004,"Demas, Nick",TN,06,87523,Republican
+2004_TN_06,2004,"Lyons, J. Patrick",TN,06,3869,Independent
+2004_TN_06,2004,"Saliba, Norman R.",TN,06,1802,Independent
+2004_TN_07,2004,"Blackburn, Marsha",TN,07,232404,Republican
+2004_TN_08,2004,"Tanner, John",TN,08,173623,Democratic
+2004_TN_08,2004,"Hart, James L.",TN,08,59853,Republican
+2004_TN_08,2004,"Bertrand, Dennis",TN,08,91,"Write-In,Republican,Write-In"
+2004_TN_09,2004,"Ford, Harold, Jr.",TN,09,190648,Democratic
+2004_TN_09,2004,"Fort, Ruben M.",TN,09,41578,Republican
+2004_TN_09,2004,"Maynard, Jim",TN,09,166,Write-In
+2004_TX_01,2004,"Gohmert, Louis",TX,01,157068,Republican
+2004_TX_01,2004,"Sandlin, Max",TX,01,96281,Democratic
+2004_TX_01,2004,"Tucker, Dean L.",TX,01,2158,Libertarian
+2004_TX_02,2004,"Poe, Ted",TX,02,139951,Republican
+2004_TX_02,2004,"Lampson, Nick",TX,02,108156,Democratic
+2004_TX_02,2004,"Saulsbury, Sandra Leigh",TX,02,3931,Libertarian
+2004_TX_03,2004,"Johnson, Sam",TX,03,180099,Republican
+2004_TX_03,2004,"Jenkins, Paul",TX,03,16966,Independent
+2004_TX_03,2004,"Vessels, James",TX,03,13287,Libertarian
+2004_TX_04,2004,"Hall, Ralph",TX,04,182866,Republican
+2004_TX_04,2004,"Nickerson, Jim",TX,04,81585,Democratic
+2004_TX_04,2004,"Anderson, Kevin D.",TX,04,3491,Libertarian
+2004_TX_05,2004,"Hensarling, Jeb",TX,05,148816,Republican
+2004_TX_05,2004,"Bernstein, Bill",TX,05,75911,Democratic
+2004_TX_05,2004,"Gonzalez, John",TX,05,6118,Libertarian
+2004_TX_06,2004,"Barton, Joe",TX,06,168767,Republican
+2004_TX_06,2004,"Meyer, Morris",TX,06,83609,Democratic
+2004_TX_06,2004,"Schrader, Stephen",TX,06,3251,Libertarian
+2004_TX_07,2004,"Culberson, John",TX,07,175440,Republican
+2004_TX_07,2004,"Martinez, John",TX,07,91126,Democratic
+2004_TX_07,2004,"Staton, Paul",TX,07,3713,Independent
+2004_TX_07,2004,"Parks, Drew",TX,07,3372,Libertarian
+2004_TX_08,2004,"Brady, Kevin",TX,08,179599,Republican
+2004_TX_08,2004,"Wright, James ""Jim""",TX,08,77324,Democratic
+2004_TX_08,2004,"Hansen, Paul",TX,08,3705,Libertarian
+2004_TX_09,2004,"Green, Al",TX,09,114462,Democratic
+2004_TX_09,2004,"Molina, Arlette",TX,09,42132,Republican
+2004_TX_09,2004,"Bourland, Stacey Lynn",TX,09,1972,Libertarian
+2004_TX_10,2004,"McCaul, Michael T.",TX,10,182113,Republican
+2004_TX_10,2004,"Fritsche, Robert",TX,10,35569,Libertarian
+2004_TX_10,2004,"Sadun, Lorenzo Adlai",TX,10,13961,Write-In
+2004_TX_11,2004,"Conaway, Mike",TX,11,177291,Republican
+2004_TX_11,2004,"Raasch, Wayne",TX,11,50339,Democratic
+2004_TX_11,2004,"Blunt, Jeffrey",TX,11,3347,Libertarian
+2004_TX_12,2004,"Granger, Kay",TX,12,173222,Republican
+2004_TX_12,2004,"Alvarado, Felix",TX,12,66316,Democratic
+2004_TX_13,2004,"Thornberry, Mac",TX,13,189448,Republican
+2004_TX_13,2004,"Smith, M.J. (Smitty)",TX,13,15793,Libertarian
+2004_TX_14,2004,"Paul, Ron",TX,14,173668,Republican
+2004_TX_15,2004,"Hinojosa, Rubén",TX,15,96089,Democratic
+2004_TX_15,2004,"Thramm, Michael D.",TX,15,67917,Republican
+2004_TX_15,2004,"Cady, William R.",TX,15,2352,Libertarian
+2004_TX_16,2004,"Reyes, Silvestre",TX,16,108577,Democratic
+2004_TX_16,2004,"Brigham, David",TX,16,49972,Republican
+2004_TX_16,2004,"Clardy, Brad",TX,16,2224,Libertarian
+2004_TX_17,2004,"Edwards, Chet",TX,17,125309,Democratic
+2004_TX_17,2004,"Wohlgemuth, Arlene",TX,17,116049,Republican
+2004_TX_17,2004,"Garland, Clyde L.",TX,17,3390,Libertarian
+2004_TX_18,2004,"Lee, Sheila Jackson",TX,18,136018,Democratic
+2004_TX_18,2004,"Bazán, Tom",TX,18,9787,Independent
+2004_TX_18,2004,"Sullivan, Brent",TX,18,7183,Libertarian
+2004_TX_19,2004,"Neugebauer, Randy",TX,19,136459,Republican
+2004_TX_19,2004,"Stenholm, Charles W.",TX,19,93531,Democratic
+2004_TX_19,2004,"Peterson, Richard",TX,19,3524,Libertarian
+2004_TX_20,2004,"Gonzalez, Charles A.",TX,20,112480,Democratic
+2004_TX_20,2004,"Scott, Roger",TX,20,54976,Republican
+2004_TX_20,2004,"Bouley, Jessie",TX,20,2377,Libertarian
+2004_TX_20,2004,"Idrogo, Michael",TX,20,1971,Independent
+2004_TX_21,2004,"Smith, Lamar",TX,21,209774,Republican
+2004_TX_21,2004,"Smith, Rhett R.",TX,21,121129,Democratic
+2004_TX_21,2004,"Pratt, Jason",TX,21,10216,Libertarian
+2004_TX_22,2004,"DeLay, Tom",TX,22,150386,Republican
+2004_TX_22,2004,"Morrison, Richard R.",TX,22,112034,Democratic
+2004_TX_22,2004,"Morrison, Tom",TX,22,4886,Libertarian
+2004_TX_22,2004,"Fjetland, Michael",TX,22,5314,Independent
+2004_TX_23,2004,"Bonilla, Henry",TX,23,170716,Republican
+2004_TX_23,2004,"Sullivan, Joe",TX,23,72480,Democratic
+2004_TX_23,2004,"Perez, Nazirite ""Comrade""",TX,23,3307,Libertarian
+2004_TX_24,2004,"Marchant, Kenny",TX,24,154435,Republican
+2004_TX_24,2004,"Page, Gary R.",TX,24,82599,Democratic
+2004_TX_24,2004,"Lawrence, James",TX,24,4340,Libertarian
+2004_TX_25,2004,"Doggett, Lloyd",TX,25,108309,Democratic
+2004_TX_25,2004,"Klein, Rebecca Armendariz",TX,25,49252,Republican
+2004_TX_25,2004,"Werner, James",TX,25,2656,Libertarian
+2004_TX_26,2004,"Burgess, Michael C.",TX,26,180519,Republican
+2004_TX_26,2004,"Reyes, Lico",TX,26,89809,Democratic
+2004_TX_26,2004,"Gholston, James",TX,26,4211,Libertarian
+2004_TX_27,2004,"Ortiz, Solomon P.",TX,27,112081,Democratic
+2004_TX_27,2004,"Vaden, William (Willie)",TX,27,61955,Republican
+2004_TX_27,2004,"Claytor, Christopher J.",TX,27,3500,Libertarian
+2004_TX_28,2004,"Cuellar, Henry",TX,28,106323,Democratic
+2004_TX_28,2004,"Hopson, James (Jim) F.",TX,28,69538,Republican
+2004_TX_28,2004,"Ashby, Ken",TX,28,4305,Libertarian
+2004_TX_29,2004,"Green, Gene",TX,29,78256,Democratic
+2004_TX_29,2004,"Messina, Clifford L.",TX,29,4868,Libertarian
+2004_TX_30,2004,"Johnson, Eddie Bernice",TX,30,144513,Democratic
+2004_TX_30,2004,"Davis, John",TX,30,10821,Libertarian
+2004_TX_31,2004,"Carter, John R.",TX,31,160247,Republican
+2004_TX_31,2004,"Porter, Jon",TX,31,80292,Democratic
+2004_TX_31,2004,"Adams, Celeste",TX,31,6888,Libertarian
+2004_TX_32,2004,"Sessions, Pete",TX,32,109859,Republican
+2004_TX_32,2004,"Frost, Martin",TX,32,89030,Democratic
+2004_TX_32,2004,"Needleman, Michael David",TX,32,3347,Libertarian
+2004_UT_01,2004,"Bishop, Rob",UT,01,199615,Republican
+2004_UT_01,2004,"Thompson, Steve",UT,01,85630,Democratic
+2004_UT_01,2004,"Johnston, Charles",UT,01,4510,Constitution
+2004_UT_01,2004,"Soderberg, Richard W.",UT,01,4206,Personal Choice
+2004_UT_02,2004,"Matheson, Jim",UT,02,187250,Democratic
+2004_UT_02,2004,"Swallow, John",UT,02,147778,Republican
+2004_UT_02,2004,"Petersen, Jeremy Paul",UT,02,3541,Constitution
+2004_UT_02,2004,"Diehl, Patrick S.",UT,02,2189,Green
+2004_UT_02,2004,"Amos, Ronald R.",UT,02,1210,Personal Choice
+2004_UT_03,2004,"Cannon, Chris",UT,03,173010,Republican
+2004_UT_03,2004,"Babka, Beau",UT,03,88748,Democratic
+2004_UT_03,2004,"Winfield, Ronald",UT,03,5089,Constitution
+2004_UT_03,2004,"Dexter, Jim",UT,03,3691,Libertarian
+2004_UT_03,2004,"James, Curtis Darrell",UT,03,2390,Personal Choice
+2004_UT_S,2004,"Bennett, Robert F.",UT,S,626640,Republican
+2004_UT_S,2004,"Van Dam, R. Paul",UT,S,258955,Democratic
+2004_UT_S,2004,"Van Horn, Gary R.",UT,S,17289,Constitution
+2004_UT_S,2004,"Labonte, Joe",UT,S,8824,Personal Choice
+2004_UT_S,2004,"Judy, Cody Robert",UT,S,16,"Democratic,Write-In"
+2004_UT_S,2004,"Tuaone, Nola",UT,S,2,Write-In
+2004_VT_00,2004,"Sanders, Bernie",VT,00,205774,Independent
+2004_VT_00,2004,"Parke, Greg",VT,00,74271,Republican
+2004_VT_00,2004,"Drown, Larry",VT,00,21684,Democratic
+2004_VT_00,2004,"Newton, Jane",VT,00,3018,Liberty Union
+2004_VT_S,2004,"Leahy, Patrick",VT,S,216972,Democratic
+2004_VT_S,2004,"McMullen, Jack",VT,S,75398,Republican
+2004_VT_S,2004,"Ericson, Cris",VT,S,6486,Marijuana
+2004_VT_S,2004,"Hill, Craig",VT,S,3999,Vermont Green
+2004_VT_S,2004,"Stern, Keith",VT,S,3300,Independent
+2004_VT_S,2004,"Mitchell, Ben",VT,S,879,Liberty Union
+2004_VA_01,2004,"Davis, Jo Ann S.",VA,01,225071,Republican
+2004_VA_01,2004,"Lee, William A.",VA,01,57434,Independent
+2004_VA_02,2004,"Drake, Thelma D.",VA,02,132946,Republican
+2004_VA_02,2004,"Ashe, David B.",VA,02,108180,Democratic
+2004_VA_03,2004,"Scott, Robert C. ""Bobby""",VA,03,159373,Democratic
+2004_VA_03,2004,"Sears, Winsome E.",VA,03,70194,Republican
+2004_VA_04,2004,"Forbes, J. Randy",VA,04,182444,Republican
+2004_VA_04,2004,"Menefee, Jonathan R.",VA,04,100413,Democratic
+2004_VA_05,2004,"Goode, Virgil H., Jr.",VA,05,172431,Republican
+2004_VA_05,2004,"Weed, Al C., II",VA,05,98237,Democratic
+2004_VA_06,2004,"Goodlatte, R. W. ""Bob""",VA,06,206560,Republican
+2004_VA_07,2004,"Cantor, Eric I.",VA,07,230765,Republican
+2004_VA_07,2004,"Blanton, W. Brad",VA,07,74325,Independent
+2004_VA_08,2004,"Moran, James P., Jr.",VA,08,171986,Democratic
+2004_VA_08,2004,"Cheney, Lisa Marie",VA,08,106231,Republican
+2004_VA_08,2004,"Hurysz, James T.",VA,08,9004,Independent
+2004_VA_09,2004,"Boucher, Rick C.",VA,09,150039,Democratic
+2004_VA_09,2004,"Triplett, Kevin R.",VA,09,98499,Republican
+2004_VA_09,2004,"Davis, Seth A.",VA,09,4341,Independent
+2004_VA_10,2004,"Wolf, Frank R.",VA,10,205982,Republican
+2004_VA_10,2004,"Socas, James R.",VA,10,116654,Democratic
+2004_VA_11,2004,"Davis, Thomas M., III",VA,11,186299,Republican
+2004_VA_11,2004,"Longmyer, Ken",VA,11,118305,Democratic
+2004_VA_11,2004,"Oddo, Joseph P.",VA,11,4338,Independent
+2004_WA_01,2004,"Inslee, Jay",WA,01,204121,Democratic
+2004_WA_01,2004,"Eastwood, Randy",WA,01,117850,Republican
+2004_WA_01,2004,"Moore, Charles",WA,01,5798,Libertarian
+2004_WA_02,2004,"Larsen, Rick",WA,02,202383,Democratic
+2004_WA_02,2004,"Sinclair, Suzanne",WA,02,106333,Republican
+2004_WA_02,2004,"Guthrie, Bruce",WA,02,7966,Libertarian
+2004_WA_03,2004,"Baird, Brian",WA,03,193626,Democratic
+2004_WA_03,2004,"Crowson, Thomas A.",WA,03,119027,Republican
+2004_WA_04,2004,"Hastings, Doc",WA,04,154627,Republican
+2004_WA_04,2004,"Matheson, Sandy",WA,04,92486,Democratic
+2004_WA_05,2004,"McMorris, Cathy",WA,05,179600,Republican
+2004_WA_05,2004,"Barbieri, Don",WA,05,121333,Democratic
+2004_WA_06,2004,"Dicks, Norm",WA,06,202919,Democratic
+2004_WA_06,2004,"Cloud, Doug",WA,06,91228,Republican
+2004_WA_07,2004,"McDermott, Jim",WA,07,272302,Democratic
+2004_WA_07,2004,"Cassady, Carol",WA,07,65226,Republican
+2004_WA_08,2004,"Reichert, Dave",WA,08,173298,Republican
+2004_WA_08,2004,"Ross, Dave",WA,08,157148,Democratic
+2004_WA_08,2004,"Garrett, Spencer",WA,08,6053,Libertarian
+2004_WA_09,2004,"Smith, Adam",WA,09,162433,Democratic
+2004_WA_09,2004,"Lord, Paul J.",WA,09,88304,Republican
+2004_WA_09,2004,"Losey, Robert F.",WA,09,5934,Green
+2004_WA_S,2004,"Murray, Patty",WA,S,1549708,Democratic
+2004_WA_S,2004,"Said, Mohammad H.",WA,S,5548646,Democratic
+2004_WA_S,2004,"Nethercutt, George R., Jr.",WA,S,1204584,Republican
+2004_WA_S,2004,"Mills, J.",WA,S,34055,Libertarian
+2004_WA_S,2004,"Wilson, Mark B.",WA,S,30304,Green
+2004_WV_01,2004,"Mollohan, Alan B.",WV,01,166583,Democratic
+2004_WV_01,2004,"Parks, Alan Lee",WV,01,79196,Republican
+2004_WV_02,2004,"Capito, Shelley Moore",WV,02,147676,Republican
+2004_WV_02,2004,"Wells, Erik",WV,02,106131,Democratic
+2004_WV_02,2004,"Martin, Julian",WV,02,3218,Mountain Party
+2004_WV_03,2004,"Rahall, Nick Joe, II",WV,03,142682,Democratic
+2004_WV_03,2004,"Snuffer, Rick",WV,03,76170,Republican
+2004_WI_01,2004,"Ryan, Paul",WI,01,233372,Republican
+2004_WI_01,2004,"Thomas, Jeffrey Chapman",WI,01,116250,Democratic
+2004_WI_01,2004,"Aulabaugh, Norman",WI,01,4252,Independent
+2004_WI_01,2004,"Bernau, Don",WI,01,2936,Libertarian
+2004_WI_02,2004,"Baldwin, Tammy",WI,02,251637,Democratic
+2004_WI_02,2004,"Magnum, Dave",WI,02,145810,Republican
+2004_WI_03,2004,"Kind, Ron",WI,03,204856,Democratic
+2004_WI_03,2004,"Schultz, Dale W.",WI,03,157866,Republican
+2004_WI_04,2004,"Moore, Gwen",WI,04,212382,Democratic
+2004_WI_04,2004,"Boyle, Gerald H.",WI,04,85928,Republican
+2004_WI_04,2004,"Johnson, Tim",WI,04,3733,Independent
+2004_WI_04,2004,"Raymond, Robert R.",WI,04,1861,Independent
+2004_WI_04,2004,"Hudson, Colin",WI,04,897,Constitution
+2004_WI_05,2004,"Sensenbrenner, F. James, Jr.",WI,05,271153,Republican
+2004_WI_05,2004,"Kennedy, Bryan",WI,05,129384,Democratic
+2004_WI_05,2004,"Peterson, Tim",WI,05,6549,Libertarian
+2004_WI_06,2004,"Petri, Tom",WI,06,238620,Republican
+2004_WI_06,2004,"Hall, Jef",WI,06,107209,Democratic
+2004_WI_06,2004,"Rittenhouse, Carol Ann",WI,06,10018,Wisconsin Greens
+2004_WI_07,2004,"Obey, David R.",WI,07,241306,Democratic
+2004_WI_07,2004,"Miles, Mike",WI,07,26518,Wisconsin Greens
+2004_WI_07,2004,"Oftedahl, Larry",WI,07,12841,Constitution
+2004_WI_08,2004,"Green, Mark",WI,08,248070,Republican
+2004_WI_08,2004,"Le Clair, Dottie",WI,08,105513,Democratic
+2004_WI_S,2004,"Feingold, Russ",WI,S,1632697,Democratic
+2004_WI_S,2004,"Michels, Tim",WI,S,1301183,Republican
+2004_WI_S,2004,"Khan, Arif",WI,S,8367,Libertarian
+2004_WI_S,2004,"Hem, Eugene",WI,S,6662,Independent
+2004_WY_00,2004,"Cubin, Barbara",WY,00,132107,Republican
+2004_WY_00,2004,"Ladd, Ted",WY,00,99989,Democratic
+2004_WY_00,2004,"Stock, Lewis",WY,00,6581,Libertarian

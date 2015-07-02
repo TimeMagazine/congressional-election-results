@@ -1,5 +1,8 @@
+#!/usr/bin/env node
+
 var fs = require("fs"),
-	xlsToJSON = require("./lib/xlsToJSON");
+	xlsToJSON = require("./lib/xlsToJSON"),
+	csv = require("fast-csv");
 
 var standards = require("./fields.json");
 var missing_parties = require("./missing_parties.json");
@@ -25,6 +28,20 @@ function parse(year) {
 
 	fs.writeFileSync("data/parties_" + year + ".json", JSON.stringify(parties, null, 2));
 	fs.writeFileSync("data/results_" + year + ".json", JSON.stringify(results, null, 2));
+
+	var csvStream = csv
+	    .createWriteStream({headers: true});
+
+	var writableStream = fs.createWriteStream("data/results_" + year + ".csv");
+
+	csvStream.pipe(writableStream);
+
+	for (var race in results) {
+		for (var candidate in results[race]) {
+			csvStream.write(results[race][candidate]);
+		}
+	}
+	csvStream.end();	
 }
 
 // get the party labels from the FEC doc
@@ -50,6 +67,7 @@ function electionResults(year, opts, parties) {
 
 		var datum = {
 			id: year + "_" + candidate["STATE ABBREVIATION"] + "_" + candidate[opts.district],
+			year: year,
 			name: candidate[opts.fullname].replace("#",""),
 			state: candidate["STATE ABBREVIATION"],
 			district: candidate[opts.district],

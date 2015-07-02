@@ -1,0 +1,1444 @@
+id,year,name,state,district,votes,parties
+2012_AL_01,2012,"Bonner, Jo",AL,01,196374,Republican
+2012_AL_02,2012,"Roby, Martha",AL,02,180591,Republican
+2012_AL_02,2012,"Ford, Therese",AL,02,103092,Democratic
+2012_AL_03,2012,"Rogers, Mike",AL,03,175306,Republican
+2012_AL_03,2012,"Harris, John Andrew",AL,03,98141,Democratic
+2012_AL_04,2012,"Aderholt, Robert",AL,04,199071,Republican
+2012_AL_04,2012,"Boman, Daniel H.",AL,04,69706,Democratic
+2012_AL_05,2012,"Brooks, Mo",AL,05,189185,Republican
+2012_AL_05,2012,"Holley, Charlie L.",AL,05,101772,Democratic
+2012_AL_06,2012,"Bachus, Spencer",AL,06,219262,Republican
+2012_AL_06,2012,"Bailey, Penny ""Colonel""",AL,06,88267,Democratic
+2012_AL_07,2012,"Sewell, Terri A.",AL,07,232520,Democratic
+2012_AL_07,2012,"Chamberlain, Don",AL,07,73835,Republican
+2012_AK_00,2012,"Young, Don",AK,00,185296,Republican
+2012_AK_00,2012,"Cissna, Sharon M.",AK,00,82927,Democratic
+2012_AK_00,2012,"McDermott, Jim C.",AK,00,15028,Libertarian
+2012_AK_00,2012,"Gianoutsos, Ted",AK,00,5589,Non-Affiliated
+2012_AZ_01,2012,"Kirkpatrick, Ann",AZ,01,122774,Democratic
+2012_AZ_01,2012,"Paton, Jonathan",AZ,01,113594,Republican
+2012_AZ_01,2012,"Allen, Kim",AZ,01,15227,"Write-In,Libertarian,Libertarian"
+2012_AZ_02,2012,"Barber, Ron",AZ,02,147338,Democratic
+2012_AZ_02,2012,"McSally, Martha",AZ,02,144884,Republican
+2012_AZ_02,2012,"Prowell, Anthony",AZ,02,57,Write-In
+2012_AZ_03,2012,"Grijalva, Raúl M.",AZ,03,98468,Democratic
+2012_AZ_03,2012,"Saucedo Mercer, Gabriela",AZ,03,62663,Republican
+2012_AZ_03,2012,"Guerra, Blanca",AZ,03,7567,Libertarian
+2012_AZ_04,2012,"Gosar, Raul",AZ,04,162907,Republican
+2012_AZ_04,2012,"Robinson, Johnnie",AZ,04,69154,Democratic
+2012_AZ_04,2012,"Pamelia, Joe",AZ,04,9306,Libertarian
+2012_AZ_04,2012,"Grayson, Richard",AZ,04,2393,"Write-In,Americans Elect,Americans Elect"
+2012_AZ_05,2012,"Salmon, Matt",AZ,05,183470,Republican
+2012_AZ_05,2012,"Morgan, Spencer",AZ,05,89589,Democratic
+2012_AZ_06,2012,"Schweikert, David",AZ,06,179706,Republican
+2012_AZ_06,2012,"Jette, Matt",AZ,06,97666,Democratic
+2012_AZ_06,2012,"Anderson, Jack",AZ,06,10167,Libertarian
+2012_AZ_06,2012,"Salazar, Mark",AZ,06,5637,"Write-In,Green,Green"
+2012_AZ_06,2012,"Ketover, James",AZ,06,1,Write-In
+2012_AZ_07,2012,"Pastor, Ed",AZ,07,104489,Democratic
+2012_AZ_07,2012,"Cobb, Joe",AZ,07,23338,Libertarian
+2012_AZ_08,2012,"Franks, Trent",AZ,08,172809,Republican
+2012_AZ_08,2012,"Scharer, Gene",AZ,08,95635,Democratic
+2012_AZ_08,2012,"Dolgos, Stephen",AZ,08,4347,Americans Elect
+2012_AZ_09,2012,"Sinema, Kyrsten",AZ,09,121881,Democratic
+2012_AZ_09,2012,"Parker, Vernon B.",AZ,09,111630,Republican
+2012_AZ_09,2012,"Gammill, Powell",AZ,09,16620,"Write-In,Libertarian,Libertarian"
+2012_AZ_S,2012,"Flake, Jeff",AZ,S,1104457,Republican
+2012_AZ_S,2012,"Carmona, Richard",AZ,S,1036542,Democratic
+2012_AZ_S,2012,"Victor, Marc",AZ,S,102109,"Write-In,Libertarian,Libertarian"
+2012_AZ_S,2012,"Watts, Stephen",AZ,S,290,Write-In
+2012_AZ_S,2012,"Manspeaker, Don",AZ,S,24,Write-In
+2012_AR_01,2012,"Crawford, Rick",AR,01,138800,Republican
+2012_AR_01,2012,"Ellington, Scott",AR,01,96601,Democratic
+2012_AR_01,2012,"Paxton, Jessica",AR,01,6427,Libertarian
+2012_AR_01,2012,"Holloway, Jacob",AR,01,5015,Green
+2012_AR_02,2012,"Griffin, Tim",AR,02,158175,Republican
+2012_AR_02,2012,"Rule, Herb",AR,02,113156,Democratic
+2012_AR_02,2012,"Ward, Barbara",AR,02,8566,Green
+2012_AR_02,2012,"Hayes, Chris",AR,02,6701,Libertarian
+2012_AR_03,2012,"Womack, Steve",AR,03,186467,Republican
+2012_AR_03,2012,"Kennedy, Rebekah",AR,03,39318,Green
+2012_AR_03,2012,"Pangrac, David",AR,03,19875,Libertarian
+2012_AR_04,2012,"Cotton, Tom",AR,04,154149,Republican
+2012_AR_04,2012,"Jeffress, Gene",AR,04,95013,Democratic
+2012_AR_04,2012,"Tullis, Bobby",AR,04,4984,Libertarian
+2012_AR_04,2012,"Drake, J. Joshua",AR,04,4807,Green
+2012_CA_01,2012,"La Malfa, Doug",CA,01,168827,Republican
+2012_CA_01,2012,"Reed, Jim",CA,01,125386,Democratic
+2012_CA_02,2012,"Huffman, Jared",CA,02,226216,Democratic
+2012_CA_02,2012,"Roberts, Daniel W.",CA,02,91310,Republican
+2012_CA_03,2012,"Garamendi, John",CA,03,126882,Democratic
+2012_CA_03,2012,"Vann, Kim",CA,03,107086,Republican
+2012_CA_04,2012,"McClintock, Tom",CA,04,197803,Republican
+2012_CA_04,2012,"Uppal, Jack",CA,04,125885,Democratic
+2012_CA_05,2012,"Thompson, Mike",CA,05,202872,Democratic
+2012_CA_05,2012,"Loftin, Randy",CA,05,69545,Republican
+2012_CA_06,2012,"Matsui, Doris",CA,06,160667,Democratic
+2012_CA_06,2012,"McRay, Joseph, Sr.",CA,06,53406,Republican
+2012_CA_07,2012,"Bera, Ami",CA,07,141241,Democratic
+2012_CA_07,2012,"Lungren, Dan",CA,07,132050,Republican
+2012_CA_08,2012,"Cook, Paul",CA,08,103093,Republican
+2012_CA_08,2012,"Imus, Gregg",CA,08,76551,Republican
+2012_CA_09,2012,"McNerney, Jerry",CA,09,118373,Democratic
+2012_CA_09,2012,"Gill, Ricky",CA,09,94704,Republican
+2012_CA_10,2012,"Denham, Jeff",CA,10,110265,Republican
+2012_CA_10,2012,"Hernandez, Jose",CA,10,98934,Democratic
+2012_CA_11,2012,"Miller, George",CA,11,200743,Democratic
+2012_CA_11,2012,"Fuller, Virginia",CA,11,87136,Republican
+2012_CA_12,2012,"Pelosi, Nancy",CA,12,253709,Democratic
+2012_CA_12,2012,"Dennis, John",CA,12,44478,Republican
+2012_CA_13,2012,"Lee, Barbara",CA,13,250436,Democratic
+2012_CA_13,2012,"Singleton, Marilyn M.",CA,13,38146,No Party Preference
+2012_CA_14,2012,"Speier, Jackie",CA,14,203828,Democratic
+2012_CA_14,2012,"Bacigalupi, Deborah (Debbie)",CA,14,54455,Republican
+2012_CA_15,2012,"Swalwell, Eric",CA,15,120388,Democratic
+2012_CA_15,2012,"Stark, Fortney Pete",CA,15,110646,Democratic
+2012_CA_16,2012,"Costa, Jim",CA,16,84649,Democratic
+2012_CA_16,2012,"Whelan, Brian Daniel",CA,16,62801,Republican
+2012_CA_17,2012,"Honda, Mike",CA,17,159392,Democratic
+2012_CA_17,2012,"Li, Evelyn",CA,17,57336,Republican
+2012_CA_18,2012,"Eshoo, Anna G.",CA,18,212831,Democratic
+2012_CA_18,2012,"Chapman, Dave",CA,18,89103,Republican
+2012_CA_19,2012,"Lofgren, Zoe",CA,19,162300,Democratic
+2012_CA_19,2012,"Murray, Robert",CA,19,59313,Republican
+2012_CA_20,2012,"Farr, Sam",CA,20,172996,Democratic
+2012_CA_20,2012,"Taylor, Jeff",CA,20,60566,Republican
+2012_CA_21,2012,"Valadao, David G.",CA,21,67164,Republican
+2012_CA_21,2012,"Hernandez, John",CA,21,49119,Democratic
+2012_CA_22,2012,"Nunes, Devin G.",CA,22,132386,Republican
+2012_CA_22,2012,"Lee, Otto",CA,22,81555,Democratic
+2012_CA_23,2012,"McCarthy, Kevin",CA,23,158161,Republican
+2012_CA_23,2012,"Phillips, Terry",CA,23,57842,No Party Preference
+2012_CA_24,2012,"Capps, Lois",CA,24,156749,Democratic
+2012_CA_24,2012,"Maldonado, Abel",CA,24,127746,Republican
+2012_CA_25,2012,"McKeon, Howard P. ""Buck""",CA,25,129593,Republican
+2012_CA_25,2012,"Rogers, Lee C.",CA,25,106982,Democratic
+2012_CA_26,2012,"Brownley, Julia",CA,26,139072,Democratic
+2012_CA_26,2012,"Strickland, Tony",CA,26,124863,Republican
+2012_CA_27,2012,"Chu, Judy",CA,27,154191,Democratic
+2012_CA_27,2012,"Orswell, Jack",CA,27,86817,Republican
+2012_CA_28,2012,"Schiff, Adam",CA,28,188703,Democratic
+2012_CA_28,2012,"Jennerjahn, Phil",CA,28,58008,Republican
+2012_CA_29,2012,"Cárdenas, Tony",CA,29,111287,Democratic
+2012_CA_29,2012,"Hernandez, David R.",CA,29,38994,No Party Preference
+2012_CA_30,2012,"Sherman, Brad",CA,30,149456,Democratic
+2012_CA_30,2012,"Berman, Howard L.",CA,30,98395,Democratic
+2012_CA_31,2012,"Miller, Gary G.",CA,31,88964,Republican
+2012_CA_31,2012,"Dutton, Bob",CA,31,72255,Republican
+2012_CA_32,2012,"Napolitano, Grace F.",CA,32,124903,Democratic
+2012_CA_32,2012,"Miller, David L.",CA,32,65208,Republican
+2012_CA_33,2012,"Waxman, Henry A.",CA,33,171860,Democratic
+2012_CA_33,2012,"Bloomfield, Bill",CA,33,146660,No Party Preference
+2012_CA_34,2012,"Becerra, Xavier",CA,34,120367,Democratic
+2012_CA_34,2012,"Smith, Stephen C.",CA,34,20223,Republican
+2012_CA_35,2012,"McLeod, Gloria Negrete",CA,35,79698,Democratic
+2012_CA_35,2012,"Baca, Joe",CA,35,62982,Democratic
+2012_CA_36,2012,"Ruiz, Raul",CA,36,110189,Democratic
+2012_CA_36,2012,"Mack, Mary Bono",CA,36,97953,Republican
+2012_CA_37,2012,"Bass, Karen R.",CA,37,207039,Democratic
+2012_CA_37,2012,"Osborne, Morgan",CA,37,32541,"Write-In,Republican,Republican"
+2012_CA_38,2012,"Sánchez, Linda T.",CA,38,145280,Democratic
+2012_CA_38,2012,"Campos, Benjamin",CA,38,69807,Republican
+2012_CA_39,2012,"Royce, Ed",CA,39,145607,Republican
+2012_CA_39,2012,"Chen, Jay",CA,39,106360,Democratic
+2012_CA_40,2012,"Roybal-Allard, Lucille",CA,40,73940,Democratic
+2012_CA_40,2012,"Sanchez, David",CA,40,51613,Democratic
+2012_CA_41,2012,"Takano, Mark",CA,41,103578,Democratic
+2012_CA_41,2012,"Tavaglione, John",CA,41,72074,Republican
+2012_CA_42,2012,"Calvert, Ken",CA,42,130245,Republican
+2012_CA_42,2012,"Williamson, Michael",CA,42,84702,Democratic
+2012_CA_43,2012,"Waters, Maxine",CA,43,143123,Democratic
+2012_CA_43,2012,"Flores, Bob",CA,43,57771,Democratic
+2012_CA_44,2012,"Hahn, Janice",CA,44,99909,Democratic
+2012_CA_44,2012,"Richardson, Laura",CA,44,65989,Democratic
+2012_CA_45,2012,"Campbell, John",CA,45,171417,Republican
+2012_CA_45,2012,"Kang, Sukhee",CA,45,121814,Democratic
+2012_CA_46,2012,"Sanchez, Loretta",CA,46,95694,Democratic
+2012_CA_46,2012,"Hayden, Jerry",CA,46,54121,Republican
+2012_CA_47,2012,"Lowenthal, Alan",CA,47,130093,Democratic
+2012_CA_47,2012,"DeLong, Gary",CA,47,99919,Republican
+2012_CA_48,2012,"Rohrabacher, Dana",CA,48,177144,Republican
+2012_CA_48,2012,"Varasteh, Ron",CA,48,113358,Democratic
+2012_CA_49,2012,"Issa, Darrell",CA,49,159725,Republican
+2012_CA_49,2012,"Tetalman, Jerry",CA,49,114893,Democratic
+2012_CA_50,2012,"Hunter, Duncan D.",CA,50,174838,Republican
+2012_CA_50,2012,"Secor, David B.",CA,50,83455,Democratic
+2012_CA_51,2012,"Vargas, Juan",CA,51,113934,Democratic
+2012_CA_51,2012,"Crimmins, Michael",CA,51,45464,Republican
+2012_CA_52,2012,"Peters, Scott",CA,52,151451,Democratic
+2012_CA_52,2012,"Bilbray, Brian",CA,52,144459,Republican
+2012_CA_53,2012,"Davis, Susan A.",CA,53,164825,Democratic
+2012_CA_53,2012,"Popaditch, Nick",CA,53,103482,Republican
+2012_CA_S,2012,"Feinstein, Dianne",CA,S,7864624,Democratic
+2012_CA_S,2012,"Emken, Elizabeth",CA,S,4713887,Republican
+2012_CO_01,2012,"DeGette, Diana",CO,01,237579,Democratic
+2012_CO_01,2012,"Stroud, Danny",CO,01,93217,Republican
+2012_CO_01,2012,"Atwood, Frank",CO,01,12585,Libertarian
+2012_CO_01,2012,"Swing, Gary",CO,01,4829,Green
+2012_CO_01,2012,"Juniel, Thomas Henry",CO,01,18,Write-In
+2012_CO_02,2012,"Polis, Jared",CO,02,234758,Democratic
+2012_CO_02,2012,"Lundberg, Kevin",CO,02,162639,Republican
+2012_CO_02,2012,"Luallin, Randy",CO,02,13770,Libertarian
+2012_CO_02,2012,"Hall, Susan P.",CO,02,10413,Green
+2012_CO_03,2012,"Tipton, Scott R.",CO,03,185291,Republican
+2012_CO_03,2012,"Pace, Sal",CO,03,142920,Democratic
+2012_CO_03,2012,"Casida, Tisha T.",CO,03,11125,Unaffiliated
+2012_CO_03,2012,"Gilman, Gregory",CO,03,8212,Libertarian
+2012_CO_03,2012,"McMillan, Jaime",CO,03,26,Write-In
+2012_CO_04,2012,"Gardner, Cory",CO,04,200006,Republican
+2012_CO_04,2012,"Shaffer, Brandon",CO,04,125800,Democratic
+2012_CO_04,2012,"Gilliland, Josh",CO,04,10682,Libertarian
+2012_CO_04,2012,"Aden, Doug",CO,04,5848,American Constitution Party
+2012_CO_05,2012,"Lamborn, Doug",CO,05,199639,Republican
+2012_CO_05,2012,"Anderson, Dave",CO,05,53318,Unaffiliated
+2012_CO_05,2012,"Pirtle, Jim",CO,05,22778,Libertarian
+2012_CO_05,2012,"Luzov, Misha",CO,05,18284,Green
+2012_CO_05,2012,"Harvell, Kenneth R.",CO,05,13212,American Constitution Party
+2012_CO_05,2012,"Cantrell, George Allen",CO,05,6,Write-In
+2012_CO_06,2012,"Coffman, Mike",CO,06,163938,Republican
+2012_CO_06,2012,"Miklosi, Joe",CO,06,156937,Democratic
+2012_CO_06,2012,"Polhemus, Kathy",CO,06,13442,Unaffiliated
+2012_CO_06,2012,"Provost, Patrick E.",CO,06,8597,Libertarian
+2012_CO_07,2012,"Perlmutter, Ed",CO,07,182460,Democratic
+2012_CO_07,2012,"Coors, Joe",CO,07,139066,Republican
+2012_CO_07,2012,"Campbell, Douglas ""Dayhorse""",CO,07,10296,American Constitution Party
+2012_CO_07,2012,"Bailey, Buck",CO,07,9148,Libertarian
+2012_CT_01,2012,"Larson, John B.",CT,01,206973,"Democratic,Working Families"
+2012_CT_01,2012,"Decker, John Henry",CT,01,82321,Republican
+2012_CT_01,2012,"DeRosa, S. Michael",CT,01,5477,Green
+2012_CT_01,2012,"Corey, Matthew M.",CT,01,2290,Petitioning Candidate
+2012_CT_02,2012,"Courtney, Joe",CT,02,204708,"Democratic,Working Families"
+2012_CT_02,2012,"Formica, Paul M.",CT,02,88103,Republican
+2012_CT_02,2012,"Bennett, Colin D.",CT,02,3638,Green
+2012_CT_02,2012,"Reale, Daniel J.",CT,02,3511,Libertarian
+2012_CT_03,2012,"DeLauro, Rosa L.",CT,03,217573,"Democratic,Working Families"
+2012_CT_03,2012,"Winsley, Wayne",CT,03,73726,Republican
+2012_CT_03,2012,"Concepcion, Hector W., Jr.",CT,03,1,Write-In
+2012_CT_03,2012,"Packard, Stephen ""Steve""",CT,03,1,Write-In
+2012_CT_04,2012,"Himes, Jim",CT,04,175929,"Democratic,Working Families"
+2012_CT_04,2012,"Obsitnik, Stephen",CT,04,117503,Republican
+2012_CT_05,2012,"Esty, Elizabeth",CT,05,146098,"Working Families,Democratic"
+2012_CT_05,2012,"Roraback, Andrew",CT,05,138637,"Independent Party,Republican"
+2012_CT_05,2012,"Pistone, John",CT,05,12,Write-In
+2012_CT_05,2012,"Jaeger, Russ",CT,05,10,Write-In
+2012_CT_S,2012,"Murphy, Christopher S.",CT,S,828761,"Working Families,Democratic"
+2012_CT_S,2012,"McMahon, Linda E.",CT,S,651089,"Independent Party,Republican"
+2012_CT_S,2012,"Passarelli, Paul",CT,S,25045,Libertarian
+2012_CT_S,2012,"Coleman, Matthew",CT,S,6414,Write-In
+2012_CT_S,2012,"Adams, Michael D.",CT,S,388,Write-In
+2012_CT_S,2012,"Russell, Jeff",CT,S,40,Write-In
+2012_CT_S,2012,"Traceski, John",CT,S,19,Write-In
+2012_CT_S,2012,"Vasile, Michael",CT,S,8,Write-In
+2012_DE_00,2012,"Carney, John C., Jr.",DE,00,249933,Democratic
+2012_DE_00,2012,"Kovach, Thomas H.",DE,00,129757,Republican
+2012_DE_00,2012,"August, Bernard",DE,00,4273,Green
+2012_DE_00,2012,"Gesty, Scott",DE,00,4096,Libertarian
+2012_DE_S,2012,"Carper, Thomas R.",DE,S,265415,Democratic
+2012_DE_S,2012,"Wade, Kevin",DE,S,115700,Republican
+2012_DE_S,2012,"Pires, Alexander",DE,S,15300,Independent Party of Delaware
+2012_DE_S,2012,"Groff, Andrew Richard",DE,S,3191,Green
+2012_DE_S,2012,"Ruzicka, Richard Thomas",DE,S,1,Write-In
+2012_FL_01,2012,"Miller, Jeff",FL,01,238440,Republican
+2012_FL_01,2012,"Bryan, Jim",FL,01,92961,Democratic
+2012_FL_01,2012,"Fretts, Calen",FL,01,11176,Libertarian
+2012_FL_01,2012,"Drummond, William Cleave, II",FL,01,17,Write-In
+2012_FL_02,2012,"Southerland, Steve",FL,02,175856,Republican
+2012_FL_02,2012,"Lawson, Al",FL,02,157634,Democratic
+2012_FL_02,2012,"Miller, Floyd Patrick",FL,02,228,Write-In
+2012_FL_03,2012,"Yoho, Ted",FL,03,204331,Republican
+2012_FL_03,2012,"Gaillot, J.R.",FL,03,102468,Democratic
+2012_FL_03,2012,"Dodds, Philip",FL,03,8870,No Party Affiliation
+2012_FL_04,2012,"Crenshaw, Ander",FL,04,239988,Republican
+2012_FL_04,2012,"Klauder, Jim",FL,04,75236,No Party Affiliation
+2012_FL_04,2012,"Koniz, Gary",FL,04,246,Write-In
+2012_FL_05,2012,"Brown, Corrine",FL,05,190472,Democratic
+2012_FL_05,2012,"Kolb, LeAnne",FL,05,70700,Republican
+2012_FL_05,2012,"Fleming, Eileen",FL,05,7978,No Party Affiliation
+2012_FL_05,2012,"Riggs, Bruce Ray",FL,05,3,Write-In
+2012_FL_06,2012,"Desantis, Ron",FL,06,195962,Republican
+2012_FL_06,2012,"Beaven, Heather",FL,06,146489,Democratic
+2012_FL_07,2012,"Mica, John",FL,07,185518,Republican
+2012_FL_07,2012,"Kendall, Jason H.",FL,07,130479,Democratic
+2012_FL_07,2012,"Marra, Fred",FL,07,13,Write-In
+2012_FL_08,2012,"Posey, Bill",FL,08,205432,Republican
+2012_FL_08,2012,"Roberts, Shannon",FL,08,130870,Democratic
+2012_FL_08,2012,"Gillmor, Richard H.",FL,08,12607,No Party Affiliation
+2012_FL_09,2012,"Grayson, Alan",FL,09,164891,Democratic
+2012_FL_09,2012,"Long, Todd",FL,09,98856,Republican
+2012_FL_10,2012,"Webster, Daniel",FL,10,164649,Republican
+2012_FL_10,2012,"Demings, Val B.",FL,10,153574,Democratic
+2012_FL_10,2012,"Seegolam, Naipaul",FL,10,46,Write-In
+2012_FL_11,2012,"Nugent, Richard B. ""Rich""",FL,11,218360,Republican
+2012_FL_11,2012,"Werder, H. David",FL,11,120303,Democratic
+2012_FL_12,2012,"Bilirakis, Gus Michael",FL,12,209604,Republican
+2012_FL_12,2012,"Snow, Jonathan Michael",FL,12,108770,Democratic
+2012_FL_12,2012,"Russell, John",FL,12,6878,No Party Affiliation
+2012_FL_12,2012,"Elliott, Paul Sidney",FL,12,4915,No Party Affiliation
+2012_FL_13,2012,"Young, C.W . Bill",FL,13,189605,Republican
+2012_FL_13,2012,"Ehrlich, Jessica",FL,13,139742,Democratic
+2012_FL_14,2012,"Castor, Kathy",FL,14,197121,Democratic
+2012_FL_14,2012,"Otero, Evelio ""EJ""",FL,14,83480,Republican
+2012_FL_15,2012,"Ross, Dennis",FL,15,Unopposed,Republican
+2012_FL_16,2012,"Buchanan, Vern",FL,16,187147,Republican
+2012_FL_16,2012,"Fitzgerald, Keith",FL,16,161929,Democratic
+2012_FL_17,2012,"Rooney, Tom",FL,17,165488,Republican
+2012_FL_17,2012,"Bronson, William",FL,17,116766,Democratic
+2012_FL_17,2012,"Baumann, Tom",FL,17,12,Write-In
+2012_FL_18,2012,"Murphy, Patrick",FL,18,166257,Democratic
+2012_FL_18,2012,"West, Allen B.",FL,18,164353,Republican
+2012_FL_18,2012,"Holloman, Marilyn Davis",FL,18,55,Write-In
+2012_FL_19,2012,"Radel, Trey",FL,19,189833,Republican
+2012_FL_19,2012,"Roach, Jim",FL,19,109746,Democratic
+2012_FL_19,2012,"Smith, Brandon M.",FL,19,6637,No Party Affiliation
+2012_FL_20,2012,"Hastings, Alcee L.",FL,20,214727,Democratic
+2012_FL_20,2012,"Terry, Randall",FL,20,29553,No Party Affiliation
+2012_FL_20,2012,"Dutrow, Anthony M.",FL,20,5,Write-In
+2012_FL_21,2012,"Deutch, Ted",FL,21,221263,Democratic
+2012_FL_21,2012,"Trout, W. Michael ""Mike""",FL,21,37776,No Party Affiliation
+2012_FL_21,2012,"Henao, Cesar",FL,21,25361,No Party Affiliation
+2012_FL_22,2012,"Frankel, Lois",FL,22,171021,Democratic
+2012_FL_22,2012,"Hasner, Adam",FL,22,142050,Republican
+2012_FL_23,2012,"Wasserman Schultz, Debbie",FL,23,174205,Democratic
+2012_FL_23,2012,"Harrington, Karen",FL,23,98096,Republican
+2012_FL_23,2012,"Katz, IIya",FL,23,3129,No Party Affiliation
+2012_FL_24,2012,"Wilson, Frederica S.",FL,24,Unopposed,Democratic
+2012_FL_25,2012,"Diaz-Balart, Mario",FL,25,151466,Republican
+2012_FL_25,2012,"Blumenthal, Stanley",FL,25,31664,No Party Affiliation
+2012_FL_25,2012,VoteForEddie.Com,FL,25,17099,No Party Affiliation
+2012_FL_26,2012,"Garcia, Joe",FL,26,135694,Democratic
+2012_FL_26,2012,"Rivera, David",FL,26,108820,Republican
+2012_FL_26,2012,"Fernandez, Angel",FL,26,5726,No Party Affiliation
+2012_FL_26,2012,"Peixoto, Jose",FL,26,2717,No Party Affiliation
+2012_FL_27,2012,"Ros-Lehtinen, Ileana",FL,27,138488,Republican
+2012_FL_27,2012,"Yevancey, Manny",FL,27,85020,Democratic
+2012_FL_27,2012,"Cruz-Wiggins, Thomas Joe",FL,27,6663,No Party Affiliation
+2012_FL_S,2012,"Nelson, Bill",FL,S,4523451,Democratic
+2012_FL_S,2012,"Mack, Connie",FL,S,3458267,Republican
+2012_FL_S,2012,"Gaylor, Bill",FL,S,126079,No Party Affiliation
+2012_FL_S,2012,"Borgia, Chris",FL,S,82089,No Party Affiliation
+2012_FL_S,2012,"Craine, Naomi",FL,S,19,Write-In
+2012_FL_S,2012,"Scott, Lawrence Sidney",FL,S,18,Write-In
+2012_FL_S,2012,"Monroe, Robert",FL,S,12,Write-In
+2012_FL_S,2012,"Blass, Piotr",FL,S,9,Write-In
+2012_FL_S,2012,"Long, Lionel",FL,S,2,Write-In
+2012_GA_01,2012,"Kingston, Jack",GA,01,157181,Republican
+2012_GA_01,2012,"Messinger, Lesli Rae",GA,01,92399,Democratic
+2012_GA_02,2012,"Bishop, Sanford",GA,02,162751,Democratic
+2012_GA_02,2012,"House, John",GA,02,92410,Republican
+2012_GA_03,2012,"Westmoreland, Lynn",GA,03,232380,Republican
+2012_GA_03,2012,"Ferguson, David",GA,03,105,Write-In
+2012_GA_04,2012,"Johnson, Henry C. ""Hank""",GA,04,208861,Democratic
+2012_GA_04,2012,"Vaughn, J. Chris",GA,04,75041,Republican
+2012_GA_04,2012,"McKinney, Cynthia",GA,04,58,Write-In
+2012_GA_04,2012,"Fruit, Rachele",GA,04,2,Write-In
+2012_GA_05,2012,"Lewis, John",GA,05,234330,Democratic
+2012_GA_05,2012,"Stopeck, Howard",GA,05,43335,Republican
+2012_GA_05,2012,"Benson, John",GA,05,12,Write-In
+2012_GA_05,2012,"Davis, Raymond",GA,05,12,Write-In
+2012_GA_06,2012,"Price, Tom",GA,06,189669,Republican
+2012_GA_06,2012,"Kazanow, Jeff",GA,06,104365,Democratic
+2012_GA_07,2012,"Woodall, Rob",GA,07,156689,Republican
+2012_GA_07,2012,"Reilly, Steve",GA,07,95377,Democratic
+2012_GA_08,2012,"Scott, Austin",GA,08,197789,Republican
+2012_GA_09,2012,"Collins, Doug",GA,09,192101,Republican
+2012_GA_09,2012,"Cooley, Jody",GA,09,60052,Democratic
+2012_GA_10,2012,"Broun, Paul C.",GA,10,211065,Republican
+2012_GA_10,2012,"Brown, Brian Russell",GA,10,401,Write-In
+2012_GA_11,2012,"Gingrey, Phil",GA,11,196968,Republican
+2012_GA_11,2012,"Thompson, Patrick",GA,11,90353,Democratic
+2012_GA_11,2012,"Levene, Allan",GA,11,30,Write-In
+2012_GA_12,2012,"Barrow, John",GA,12,139148,Democratic
+2012_GA_12,2012,"Anderson, Lee",GA,12,119973,Republican
+2012_GA_13,2012,"Scott, David",GA,13,201988,Democratic
+2012_GA_13,2012,"Malik, S.",GA,13,79550,Republican
+2012_GA_14,2012,"Graves, Tom",GA,14,159947,Republican
+2012_GA_14,2012,"Grant, Daniel ""Danny""",GA,14,59245,Democratic
+2012_HI_01,2012,"Hanabusa, Colleen W.",HI,01,116505,Democratic
+2012_HI_01,2012,"Djou, Charles K.",HI,01,96824,Republican
+2012_HI_02,2012,"Gabbard, Tulsi",HI,02,168503,Democratic
+2012_HI_02,2012,"Crowley, Kawika",HI,02,40707,Republican
+2012_HI_S,2012,"Hirono, Mazie",HI,S,269489,Democratic
+2012_HI_S,2012,"Lingle, Linda",HI,S,160994,Republican
+2012_ID_01,2012,"Labrador, Raul R.",ID,01,199402,Republican
+2012_ID_01,2012,"Farris, Jimmy",ID,01,97450,Democratic
+2012_ID_01,2012,"Oates, Rob",ID,01,12265,Libertarian
+2012_ID_01,2012,Pro-Life,ID,01,7607,Independent
+2012_ID_02,2012,"Simpson, Mike",ID,02,207412,Republican
+2012_ID_02,2012,"LeFavour, Nicole",ID,02,110847,Democratic
+2012_ID_02,2012,"Chappell, Jack Wayne",ID,02,235,"Democratic,Write-In"
+2012_IL_01,2012,"Rush, Bobby L.",IL,01,236854,Democratic
+2012_IL_01,2012,"Peloquin, Donald E.",IL,01,83989,Republican
+2012_IL_01,2012,"Hawkins, John",IL,01,1,Write-In
+2012_IL_02,2012,"Jackson, Jesse L., Jr.",IL,02,188303,Democratic
+2012_IL_02,2012,"Woodworth, Brian",IL,02,69115,Republican
+2012_IL_02,2012,"Lewis, Marcus",IL,02,40006,Independent
+2012_IL_02,2012,"Williams, Anthony W.",IL,02,288,Write-In
+2012_IL_03,2012,"Lipinski, Daniel William",IL,03,168738,Democratic
+2012_IL_03,2012,"Grabowski, Richard L.",IL,03,77653,Republican
+2012_IL_03,2012,"Anderson, Laura",IL,03,7,Write-In
+2012_IL_04,2012,"Gutierrez, Luis V.",IL,04,133226,Democratic
+2012_IL_04,2012,"Concepcion, Hector",IL,04,27279,"Write-In,Republican,Republican"
+2012_IL_04,2012,"Viramontes, Ymelda",IL,04,4,Write-In
+2012_IL_05,2012,"Quigley, Mike",IL,05,177729,Democratic
+2012_IL_05,2012,"Schmitt, Dan",IL,05,77289,Republican
+2012_IL_05,2012,"Wade, Nancy",IL,05,15359,Green
+2012_IL_06,2012,"Roskam, Peter J.",IL,06,193138,Republican
+2012_IL_06,2012,"Coolidge, Leslie",IL,06,132991,Democratic
+2012_IL_07,2012,"Davis, Danny K.",IL,07,242439,Democratic
+2012_IL_07,2012,"Zak, Rita",IL,07,31466,Republican
+2012_IL_07,2012,"Monaghan, John H.",IL,07,12523,Independent
+2012_IL_07,2012,"Collins, Phil",IL,07,5,Write-In
+2012_IL_07,2012,"Richter, Dennis",IL,07,2,Write-In
+2012_IL_08,2012,"Duckworth, Tammy",IL,08,123206,Democratic
+2012_IL_08,2012,"Walsh, Joe",IL,08,101860,Republican
+2012_IL_09,2012,"Schakowsky, Janice D.",IL,09,194869,Democratic
+2012_IL_09,2012,"Wolfe, Timothy C.",IL,09,98924,Republican
+2012_IL_09,2012,"Shioura, Hilaire Fuji",IL,09,8,Write-In
+2012_IL_09,2012,"Atanus, Susanne",IL,09,6,Write-In
+2012_IL_10,2012,"Schneider, Brad",IL,10,133890,Democratic
+2012_IL_10,2012,"Dold, Robert",IL,10,130564,Republican
+2012_IL_11,2012,"Foster, Bill",IL,11,148928,Democratic
+2012_IL_11,2012,"Biggert, Judy",IL,11,105348,Republican
+2012_IL_11,2012,"Michel, Chris",IL,11,19,Write-In
+2012_IL_12,2012,"Enyart, William L. ",IL,12,157000,Democratic
+2012_IL_12,2012,"Plummer, Jason",IL,12,129902,Republican
+2012_IL_12,2012,"Bradshaw, Paula",IL,12,17045,Green
+2012_IL_12,2012,"Horton, Shon-Tiyon",IL,12,2,Write-In
+2012_IL_13,2012,"Davis, Rodney ",IL,13,137034,Republican
+2012_IL_13,2012,"Gill, David M.",IL,13,136032,Democratic
+2012_IL_13,2012,"Hartman, John",IL,13,21319,Independent
+2012_IL_14,2012,"Hultgren, Randy M.",IL,14,177603,Republican
+2012_IL_14,2012,"Anderson, Dennis",IL,14,124351,Democratic
+2012_IL_15,2012,"Shimkus, John M.",IL,15,205775,Republican
+2012_IL_15,2012,"Michael, Angela",IL,15,94162,Democratic
+2012_IL_16,2012,"Kinzinger, Adam",IL,16,181789,Republican
+2012_IL_16,2012,"Rohl, Wanda",IL,16,112301,Democratic
+2012_IL_17,2012,"Bustos, Cheri",IL,17,153519,Democratic
+2012_IL_17,2012,"Schilling, Bobby",IL,17,134623,Republican
+2012_IL_17,2012,"Reyes, Eric",IL,17,10,Write-In
+2012_IL_17,2012,"Faber, Joe",IL,17,9,Write-In
+2012_IL_18,2012,"Schock, Aaron",IL,18,244467,Republican
+2012_IL_18,2012,"Waterworth, Steve",IL,18,85164,Democratic
+2012_IN_01,2012,"Visclosky, Peter J.",IN,01,187743,Democratic
+2012_IN_01,2012,"Phelps, Joel",IN,01,91291,Republican
+2012_IN_02,2012,"Walorski, Jackie",IN,02,134033,Republican
+2012_IN_02,2012,"Mullen, Brendan",IN,02,130113,Democratic
+2012_IN_02,2012,"Ruiz, Joseph Wayne",IN,02,9326,Libertarian
+2012_IN_02,2012,"Lunce, Kenneth R., Jr.",IN,02,3,Write-In
+2012_IN_03,2012,"Stutzman, Marlin A.",IN,03,187872,Republican
+2012_IN_03,2012,"Boyd, Kevin R.",IN,03,92363,Democratic
+2012_IN_04,2012,"Rokita, Todd",IN,04,168688,Republican
+2012_IN_04,2012,"Nelson, Tara E.",IN,04,93015,Democratic
+2012_IN_04,2012,"Gelhausen, Benjamin J.",IN,04,10565,Libertarian
+2012_IN_05,2012,"Brooks, Susan",IN,05,194570,Republican
+2012_IN_05,2012,"Reske, Scott",IN,05,125347,Democratic
+2012_IN_05,2012,"Reid, Chard",IN,05,13442,Libertarian
+2012_IN_06,2012,"Messer, Luke",IN,06,162613,Republican
+2012_IN_06,2012,"Bookout, Bradley T.",IN,06,96678,Democratic
+2012_IN_06,2012,"Bell, Rex",IN,06,15962,Libertarian
+2012_IN_07,2012,"Carson, Andre D.",IN,07,162122,Democratic
+2012_IN_07,2012,"May, Carlos A.",IN,07,95828,Republican
+2012_IN_08,2012,"Bucshon, Larry D.",IN,08,151533,Republican
+2012_IN_08,2012,"Crooks, Dave",IN,08,122325,Democratic
+2012_IN_08,2012,"Gadau, Bart",IN,08,10134,Libertarian
+2012_IN_09,2012,"Young, Todd",IN,09,165332,Republican
+2012_IN_09,2012,"Yoder, Shelli",IN,09,132848,Democratic
+2012_IN_S,2012,"Donnelly, Joe",IN,S,1281181,Democratic
+2012_IN_S,2012,"Mourdock, Richard E.",IN,S,1133621,Republican
+2012_IN_S,2012,"Horning, Andrew ""Andy""",IN,S,145282,Libertarian
+2012_IN_S,2012,"Johnson Junior, James L.",IN,S,15,Write-In
+2012_IN_S,2012,"Willis, Amy J.",IN,S,3,Write-In
+2012_IA_01,2012,"Braley, Bruce",IA,01,222422,Democratic
+2012_IA_01,2012,"Lange, Ben",IA,01,162465,Republican
+2012_IA_01,2012,"Hughes, Gregory",IA,01,4772,Nominated by Petition
+2012_IA_01,2012,"Krail, George Todd, II",IA,01,931,Nominated by Petition
+2012_IA_02,2012,"Loebsack, Dave",IA,02,211863,Democratic
+2012_IA_02,2012,"Archer, John",IA,02,161977,Republican
+2012_IA_02,2012,"Aversa, Alan",IA,02,7112,Nominated by Petition
+2012_IA_03,2012,"Latham, Tom",IA,03,202000,Republican
+2012_IA_03,2012,"Boswell, Leonard",IA,03,168632,Democratic
+2012_IA_03,2012,"Batcher, Scott G.",IA,03,9352,Nominated by Petition
+2012_IA_03,2012,"Rosenfeld, David",IA,03,6286,Socialist Workers Party
+2012_IA_04,2012,"King, Steve",IA,04,200063,Republican
+2012_IA_04,2012,"Vilsack, Christie",IA,04,169470,Democratic
+2012_IA_04,2012,"Monroe, Martin James",IA,04,8124,Nominated by Petition
+2012_KS_01,2012,"Huelskamp, Tim",KS,01,211337,Republican
+2012_KS_02,2012,"Jenkins, Lynn",KS,02,167463,Republican
+2012_KS_02,2012,"Schlingensiepen, Tobias",KS,02,113735,Democratic
+2012_KS_02,2012,"Hawver, Dennis",KS,02,12520,Libertarian
+2012_KS_03,2012,"Yoder, Kevin",KS,03,201087,Republican
+2012_KS_03,2012,"Balam, Joel",KS,03,92675,Libertarian
+2012_KS_04,2012,"Pompeo, Mike",KS,04,161094,Republican
+2012_KS_04,2012,"Tillman, Robert Leon",KS,04,81770,Democratic
+2012_KS_04,2012,"Jefferson, Thomas",KS,04,16058,Libertarian
+2012_KY_01,2012,"Whitfield, Edward",KY,01,199956,Republican
+2012_KY_01,2012,"Hatchett, Charles Kendall",KY,01,87199,Democratic
+2012_KY_02,2012,"Guthrie, S. Brett",KY,02,181508,Republican
+2012_KY_02,2012,"Williams, David Lynn",KY,02,89541,Democratic
+2012_KY_02,2012,"Beacham, Andrew R.",KY,02,6304,Independent
+2012_KY_02,2012,"Astor, Craig R.",KY,02,4914,Libertarian
+2012_KY_03,2012,"Yarmuth, John A.",KY,03,206385,Democratic
+2012_KY_03,2012,"Wicker, Brooks",KY,03,111452,Republican
+2012_KY_03,2012,"Devore, Robert L., Jr.",KY,03,4819,Independent
+2012_KY_04,2012,"Massie, Thomas",KY,04 - FULL TERM,186036,Republican
+2012_KY_04,2012,"Adkins, William R. ""Bill""",KY,04 - FULL TERM,104734,Democratic
+2012_KY_04,2012,"Lewis, David",KY,04 - FULL TERM,8674,Independent
+2012_KY_05,2012,"Rogers, Harold ""Hal""",KY,05,195408,Republican
+2012_KY_05,2012,"Stepp, Kenneth S.",KY,05,55447,Democratic
+2012_KY_06,2012,"Barr, Garland ""Andy""",KY,06,153222,Republican
+2012_KY_06,2012,"Chandler, Ben",KY,06,141438,Democratic
+2012_KY_06,2012,"Vance, Randolph",KY,06,8340,Independent
+2012_LA_01,2012,"Scalise, ""Steve""",LA,01,193496,Republican
+2012_LA_01,2012,"Mendoza, M. V. ""Vinny""",LA,01,61703,Democratic
+2012_LA_01,2012,"King, Gary",LA,01,24844,Republican
+2012_LA_01,2012,"Turknett, David ""Turk""",LA,01,6079,No Party Affiliation
+2012_LA_01,2012,"Wells, Arden",LA,01,4288,No Party Affiliation
+2012_LA_02,2012,"Richmond, Cedric",LA,02,158501,Democratic
+2012_LA_02,2012,"Landrieu, Gary",LA,02,71916,Democratic
+2012_LA_02,2012,"Bailey, Dwayne",LA,02,38801,Republican
+2012_LA_02,2012,"Larose, Josue",LA,02,11345,Republican
+2012_LA_02,2012,"Trotter, Caleb",LA,02,6791,Libertarian
+2012_LA_03,2012,"Boustany, Charles W., Jr.",LA,03,139123,Republican
+2012_LA_03,2012,"Landry, ""Jeff""",LA,03,93527,Republican
+2012_LA_03,2012,"Richard, ""Ron""",LA,03,67070,Democratic
+2012_LA_03,2012,"Barrilleaux, Bryan",LA,03,7908,Republican
+2012_LA_03,2012,"Stark, ""Jim""",LA,03,3765,Libertarian
+2012_LA_04,2012,"Fleming, John",LA,04,187894,Republican
+2012_LA_04,2012,"Lord, Randall",LA,04,61637,Libertarian
+2012_LA_05,2012,"Alexander, Rodney",LA,05,202536,Republican
+2012_LA_05,2012,"Ceasar, ""Ron""",LA,05,37486,No Party Affiliation
+2012_LA_05,2012,"Grant, Clay Steven",LA,05,20194,Libertarian
+2012_LA_06,2012,"Cassidy, William ""Bill""",LA,06,243553,Republican
+2012_LA_06,2012,"Craig, Rufus Holt, Jr.",LA,06,32185,Libertarian
+2012_LA_06,2012,"Torregano, Richard ""RPT""",LA,06,30975,No Party Affiliation
+2012_ME_01,2012,"Pingree, Chellie",ME,01,236363,Democratic
+2012_ME_01,2012,"Courtney, Jonathan T.E.",ME,01,128440,Republican
+2012_ME_02,2012,"Michaud, Michael H.",ME,02,191456,Democratic
+2012_ME_02,2012,"Raye, Kevin L.",ME,02,137542,Republican
+2012_ME_S,2012,"King, Angus",ME,S,370580,Independent for Maine
+2012_ME_S,2012,"Summers, Charles E., Jr.",ME,S,215399,Republican
+2012_ME_S,2012,"Dill, Cynthia Ann",ME,S,92900,Democratic
+2012_ME_S,2012,"Woods, Stephen M.",ME,S,10289,Independent
+2012_ME_S,2012,"Dalton, Danny Francis",ME,S,5807,Non-Party
+2012_ME_S,2012,"Dodge, Andrew Ian",ME,S,5624,Independent for Liberty
+2012_MD_01,2012,"Harris, Andy",MD,01,214204,Republican
+2012_MD_01,2012,"Rosen, Wendy",MD,01,92812,Democratic
+2012_MD_01,2012,"LaFerla, John",MD,01,14858,"Democratic,Write-In"
+2012_MD_01,2012,"Boda, Muir Wayne",MD,01,12857,Libertarian
+2012_MD_01,2012,"Calpino, Michael",MD,01,71,Write-In
+2012_MD_01,2012,"Rae, Douglas Dryden",MD,01,26,Write-In
+2012_MD_02,2012,"Ruppersberger, C. A. Dutch",MD,02,194088,Democratic
+2012_MD_02,2012,"Jacobs, Nancy C.",MD,02,92071,Republican
+2012_MD_02,2012,"Dymowski, Leo Wayne",MD,02,9344,Libertarian
+2012_MD_02,2012,"Bly, Ray",MD,02,22,Write-In
+2012_MD_03,2012,"Sarbanes, John",MD,03,213747,Democratic
+2012_MD_03,2012,"Knowles, Eric Delano",MD,03,94549,Republican
+2012_MD_03,2012,"Drgos, Paul W., Jr.",MD,03,11028,Libertarian
+2012_MD_04,2012,"Edwards, Donna F.",MD,04,240385,Democratic
+2012_MD_04,2012,"Loudon, Faith M.",MD,04,64560,Republican
+2012_MD_04,2012,"Soffen, Scott",MD,04,6204,Libertarian
+2012_MD_05,2012,"Hoyer, Steny H.",MD,05,238618,Democratic
+2012_MD_05,2012,"O'Donnell, Tony",MD,05,95271,Republican
+2012_MD_05,2012,"Auerbach, Bob",MD,05,5040,Green
+2012_MD_05,2012,"Vohra, Arvin",MD,05,4503,Libertarian
+2012_MD_06,2012,"Delaney, John",MD,06,181921,Democratic
+2012_MD_06,2012,"Bartlett, Roscoe G.",MD,06,117313,Republican
+2012_MD_06,2012,"Mueller, Nickolaus",MD,06,9916,Libertarian
+2012_MD_07,2012,"Cummings, Elijah",MD,07,247770,Democratic
+2012_MD_07,2012,"Mirabile, Frank C.",MD,07,67405,Republican
+2012_MD_07,2012,"Owens-Bey, Ronald M.",MD,07,8211,Libertarian
+2012_MD_07,2012,"Smith, Charles U.",MD,07,28,Write-In
+2012_MD_07,2012,"Busch, Ty Glen",MD,07,10,Write-In
+2012_MD_08,2012,"Van Hollen, Chris",MD,08,217531,Democratic
+2012_MD_08,2012,"Timmerman, Ken",MD,08,113033,Republican
+2012_MD_08,2012,"Grannis, Mark",MD,08,7235,Libertarian
+2012_MD_08,2012,"Gluck, George",MD,08,5064,Green
+2012_MD_S,2012,"Cardin, Ben",MD,S,1474028,Democratic
+2012_MD_S,2012,"Young, Lih",MD,S,163,"Democratic,Write-In"
+2012_MD_S,2012,"Tinus, Ed",MD,S,48,"Democratic,Write-In"
+2012_MD_S,2012,"Bongino, Daniel John",MD,S,693291,Republican
+2012_MD_S,2012,"Sobhani, S. Rob",MD,S,430934,Unaffiliated
+2012_MD_S,2012,"Ahmad, Dean",MD,S,32252,Libertarian
+2012_MD_S,2012,"Baker, Brandy",MD,S,151,Write-In
+2012_MD_S,2012,"Podlesak, Mary",MD,S,2,Write-In
+2012_MA_01,2012,"Neal, Richard E.",MA,01,261936,Democratic
+2012_MA_01,2012,All Others,MA,01,4197,Write-In
+2012_MA_02,2012,"McGovern, James P.",MA,02,259257,Democratic
+2012_MA_02,2012,All Others,MA,02,4078,Write-In
+2012_MA_03,2012,"Tsongas, Nicola S.",MA,03,212119,Democratic
+2012_MA_03,2012,"Golnik, Jonathan A.",MA,03,109372,Republican
+2012_MA_03,2012,All Others,MA,03,262,Write-In
+2012_MA_04,2012,"Kennedy, Joseph P., III",MA,04,221303,Democratic
+2012_MA_04,2012,"Bielat, Sean",MA,04,129936,Republican
+2012_MA_04,2012,"Rosa, David A.",MA,04,10741,Independent
+2012_MA_04,2012,All Others,MA,04,265,Write-In
+2012_MA_05,2012,"Markey, Edward J.",MA,05,257490,Democratic
+2012_MA_05,2012,"Tierney, Tom",MA,05,82944,Republican
+2012_MA_05,2012,All Others,MA,05,675,Write-In
+2012_MA_06,2012,"Tierney, John F.",MA,06,180942,Democratic
+2012_MA_06,2012,"Tisei, Richard R.",MA,06,176612,Republican
+2012_MA_06,2012,"Fishman, Daniel",MA,06,16739,Libertarian
+2012_MA_06,2012,All Others,MA,06,514,Write-In
+2012_MA_07,2012,"Capuano, Michael E.",MA,07,210794,Democratic
+2012_MA_07,2012,"Romero, Karla",MA,07,41199,Independent
+2012_MA_07,2012,All Others,MA,07,843,Write-In
+2012_MA_08,2012,"Lynch, Stephen F.",MA,08,263999,Democratic
+2012_MA_08,2012,"Selvaggi, Joe",MA,08,82242,Republican
+2012_MA_08,2012,All Others,MA,08,570,Write-In
+2012_MA_09,2012,"Keating, William Richard",MA,09,212754,Democratic
+2012_MA_09,2012,"Sheldon, Christopher",MA,09,116531,Republican
+2012_MA_09,2012,"Botelho, Daniel S.",MA,09,32655,Independent
+2012_MA_09,2012,All Others,MA,09,465,Write-In
+2012_MA_S,2012,"Warren, Elizabeth A.",MA,S,1696346,Democratic
+2012_MA_S,2012,"Brown, Scott P.",MA,S,1458048,Republican
+2012_MA_S,2012,All Others,MA,S,2159,Write-In
+2012_MI_01,2012,"Benishek, Dan",MI,01,167060,Republican
+2012_MI_01,2012,"McDowell, Gary",MI,01,165179,Democratic
+2012_MI_01,2012,"Salvette, Emily",MI,01,10630,Libertarian
+2012_MI_01,2012,"Boal, Ellis",MI,01,4168,Green
+2012_MI_02,2012,"Huizenga, Bill",MI,02,194653,Republican
+2012_MI_02,2012,"German, Willie, Jr.",MI,02,108973,"Write-In,Democratic,Democratic"
+2012_MI_02,2012,"Buzuma, Mary",MI,02,8750,Libertarian
+2012_MI_02,2012,"Graeser, Ronald E.",MI,02,3176,U.S. Taxpayers
+2012_MI_02,2012,"Opalicky, William J.",MI,02,2715,Green
+2012_MI_03,2012,"Amash, Justin",MI,03,171675,Republican
+2012_MI_03,2012,"Butler, Steven",MI,03,2,"Write-In,Republican,Write-In"
+2012_MI_03,2012,"Pestka, Steve",MI,03,144108,Democratic
+2012_MI_03,2012,"Gelineau, Bill",MI,03,10498,Libertarian
+2012_MI_04,2012,"Camp, Dave",MI,04,197386,Republican
+2012_MI_04,2012,"Wirth, Debra Freidell",MI,04,104996,Democratic
+2012_MI_04,2012,"Gelineau, John",MI,04,4285,Libertarian
+2012_MI_04,2012,"Zimmer, George M.",MI,04,3506,U.S. Taxpayers
+2012_MI_04,2012,"Timmons, Pat",MI,04,2776,Green
+2012_MI_05,2012,"Kildee, Daniel T.",MI,05,214531,Democratic
+2012_MI_05,2012,"Slezak, Jim",MI,05,103931,Republican
+2012_MI_05,2012,"Davenport, David",MI,05,6694,No Party Affiliation
+2012_MI_05,2012,"Creswell, Gregory",MI,05,4990,Libertarian
+2012_MI_06,2012,"Upton, Fred",MI,06,174955,Republican
+2012_MI_06,2012,"O'Brien, Mike",MI,06,136563,Democratic
+2012_MI_06,2012,"Gelineau, Christie",MI,06,6366,Libertarian
+2012_MI_06,2012,"Gatties, Jason",MI,06,2591,U.S. Taxpayers
+2012_MI_07,2012,"Walberg, Tim",MI,07,169668,Republican
+2012_MI_07,2012,"Haskell, Kurt Richard",MI,07,136849,Democratic
+2012_MI_07,2012,"Proctor, Ken",MI,07,8088,Libertarian
+2012_MI_07,2012,"Wunsch, Richard E.",MI,07,3464,Green
+2012_MI_08,2012,"Rogers, Mike",MI,08,202217,Republican
+2012_MI_08,2012,"Enderle, Lance",MI,08,128657,Democratic
+2012_MI_08,2012,"Goebel, Daniel",MI,08,8083,Libertarian
+2012_MI_08,2012,"Brooks, Preston",MI,08,6097,No Party Affiliation
+2012_MI_09,2012,"Levin, Sander",MI,09,208846,Democratic
+2012_MI_09,2012,"Volaric, Don",MI,09,114760,Republican
+2012_MI_09,2012,"Fulner, Jim",MI,09,6100,Libertarian
+2012_MI_09,2012,"Williams, Julia",MI,09,4708,Green
+2012_MI_09,2012,"Townsend, Les",MI,09,2902,U.S. Taxpayers
+2012_MI_10,2012,"Miller, Candice S.",MI,10,226075,Republican
+2012_MI_10,2012,"Stadler, Chuck",MI,10,97734,Democratic
+2012_MI_10,2012,"Dashairya, Bhagwan",MI,10,4803,Libertarian
+2012_MI_11,2012,"Bentivolio, Kerry",MI,11 - FULL TERM,181788,Republican
+2012_MI_11,2012,"Taj, Syed",MI,11 - FULL TERM,158879,Democratic
+2012_MI_11,2012,"Tatar, John J.",MI,11 - FULL TERM,9637,Libertarian
+2012_MI_11,2012,"Duke, Steven Paul",MI,11 - FULL TERM,4569,Green
+2012_MI_11,2012,"Johnson, Daniel",MI,11 - FULL TERM,3251,Natural Law Party
+2012_MI_11,2012,"Van Gilder, James",MI,11 - FULL TERM,14,Write-In
+2012_MI_11,2012,"Sherman, Ralph",MI,11 - FULL TERM,1,Write-In
+2012_MI_12,2012,"Dingell, John D.",MI,12,216884,Democratic
+2012_MI_12,2012,"Kallgren, Cynthia",MI,12,92472,Republican
+2012_MI_12,2012,"Secula, Richard J.",MI,12,9867,Libertarian
+2012_MI_13,2012,"Conyers, John, Jr.",MI,13,235336,Democratic
+2012_MI_13,2012,"Sawicki, Harry T.",MI,13,38769,Republican
+2012_MI_13,2012,"Sharer, Chris",MI,13,6076,Libertarian
+2012_MI_13,2012,"Gray, Martin",MI,13,4089,U.S. Taxpayers
+2012_MI_14,2012,"Peters, Gary",MI,14,270450,Democratic
+2012_MI_14,2012,"Hauler, John",MI,14,51395,Republican
+2012_MI_14,2012,"Schwartz, Leonard",MI,14,3968,Libertarian
+2012_MI_14,2012,"Campbell, Douglas",MI,14,2979,Green
+2012_MI_S,2012,"Stabenow, Debbie",MI,S,2735826,Democratic
+2012_MI_S,2012,"Hoekstra, Pete",MI,S,1767386,Republican
+2012_MI_S,2012,"Boman, Scotty",MI,S,84480,Libertarian
+2012_MI_S,2012,"Mikkelson, Harley",MI,S,27890,Green
+2012_MI_S,2012,"Matkin, Richard A.",MI,S,26038,U.S. Taxpayers
+2012_MI_S,2012,"Litle, John D.",MI,S,11229,Natural Law Party
+2012_MI_S,2012,"Ghosh, Amitabh",MI,S,48,Write-In
+2012_MI_S,2012,"Holloway, Daniel",MI,S,10,Write-In
+2012_MI_S,2012,"O'Donnell, Raymond",MI,S,7,Write-In
+2012_MI_S,2012,"Houston, Katherine",MI,S,4,Write-In
+2012_MN_01,2012,"Walz, Tim",MN,01,193211,Democratic-Farmer Labor
+2012_MN_01,2012,"Quist, Allen",MN,01,142164,Republican
+2012_MN_02,2012,"Kline, John",MN,02,193587,Republican
+2012_MN_02,2012,"Obermueller, Mike",MN,02,164338,Democratic-Farmer Labor
+2012_MN_02,2012,"Ondich, Josh D.",MN,02,1,Write-In
+2012_MN_03,2012,"Paulsen, Erik",MN,03,222335,Republican
+2012_MN_03,2012,"Barnes, Brian",MN,03,159937,Democratic-Farmer Labor
+2012_MN_04,2012,"McCollum, Betty",MN,04,216685,Democratic-Farmer Labor
+2012_MN_04,2012,"Hernandez, Tony",MN,04,109659,Republican
+2012_MN_04,2012,"Carlson, Steve",MN,04,21135,Independence
+2012_MN_04,2012,"Garlan, Amber",MN,04,10,Write-In
+2012_MN_05,2012,"Ellison, Keith",MN,05,262102,Democratic-Farmer Labor
+2012_MN_05,2012,"Fields, Chris",MN,05,88753,Republican
+2012_MN_05,2012,"Lane, Tony",MN,05,9,Write-In
+2012_MN_06,2012,"Bachmann, Michele",MN,06,179240,Republican
+2012_MN_06,2012,"Graves, Jim",MN,06,174944,Democratic-Farmer Labor
+2012_MN_06,2012,"Hed, Curtis",MN,06,2,Write-In
+2012_MN_06,2012,"Henkels, Derek",MN,06,1,Write-In
+2012_MN_07,2012,"Peterson, Collin C.",MN,07,197791,Democratic-Farmer Labor
+2012_MN_07,2012,"Byberg, Lee",MN,07,114151,Republican
+2012_MN_07,2012,"Steele, Adam",MN,07,15298,Independence
+2012_MN_08,2012,"Nolan, Richard",MN,08,191976,Democratic-Farmer Labor
+2012_MN_08,2012,"Cravaack, Chip",MN,08,160520,Republican
+2012_MN_S,2012,"Klobuchar, Amy",MN,S,1854595,Democratic-Farmer Labor
+2012_MN_S,2012,"Bills, Kurt",MN,S,867974,Republican
+2012_MN_S,2012,"Williams, Stephen",MN,S,73539,Independence
+2012_MN_S,2012,"Davis, Tim",MN,S,30531,Grassroots
+2012_MN_S,2012,"Cavlan, Michael",MN,S,13986,Minnesota Open Progresssives
+2012_MN_S,2012,"Schuler, Andrew",MN,S,4,Write-In
+2012_MN_S,2012,"Shepard, Jack",MN,S,1,Write-In
+2012_MN_S,2012,"Forrestal, Frank",MN,S,9,Write-In
+2012_MS_01,2012,"Nunnelee, Alan",MS,01,186760,Republican
+2012_MS_01,2012,"Morris, Brad",MS,01,114076,Democratic
+2012_MS_01,2012,"Bedwell, Danny",MS,01,3584,Libertarian
+2012_MS_01,2012,"Bourland, Jim R.",MS,01,2390,Constitution
+2012_MS_01,2012,"Potts, Chris",MS,01,2367,Reform
+2012_MS_02,2012,"Thompson, Bennie G.",MS,02,214978,Democratic
+2012_MS_02,2012,"Marcy, Bill",MS,02,99160,Republican
+2012_MS_02,2012,"Williams, Cobby Mondale",MS,02,4605,Independent
+2012_MS_02,2012,"Williams, Lajena",MS,02,1501,Reform
+2012_MS_03,2012,"Harper, Gregg",MS,03,234717,Republican
+2012_MS_03,2012,"Pannell, John ""Luke""",MS,03,58605,Reform
+2012_MS_04,2012,"Palazzo, Steven M.",MS,04,182998,Republican
+2012_MS_04,2012,"Moore, Matt  ",MS,04,82344,Democratic
+2012_MS_04,2012,"Williams, Ron",MS,04,17982,Libertarian
+2012_MS_04,2012,"Claunch, Robert W.",MS,04,2108,Reform
+2012_MS_S,2012,"Wicker, Roger F.",MS,S,709626,Republican
+2012_MS_S,2012,"Gore, Albert N., Jr.",MS,S,503467,Democratic
+2012_MS_S,2012,"Cramer, Thomas",MS,S,15281,Constitution
+2012_MS_S,2012,"O'Hara, Shawn",MS,S,13194,Reform
+2012_MO_01,2012,"Clay, Lacy",MO,01,267927,Democratic
+2012_MO_01,2012,"Hamlin, Robyn",MO,01,60832,Republican
+2012_MO_01,2012,"Cunningham, Robb E.",MO,01,11824,Libertarian
+2012_MO_02,2012,"Wagner, Ann",MO,02,236971,Republican
+2012_MO_02,2012,"Koenen, Glenn",MO,02,146272,Democratic
+2012_MO_02,2012,"Slantz, Bill",MO,02,9193,Libertarian
+2012_MO_02,2012,"Zorikova, Anatol",MO,02,2012,Constitution
+2012_MO_03,2012,"Luetkemeyer, Blaine",MO,03,214843,Republican
+2012_MO_03,2012,"Mayer, Eric C.",MO,03,111189,Democratic
+2012_MO_03,2012,"Wilson, Steven",MO,03,12353,Libertarian
+2012_MO_04,2012,"Hartzler, Vicky",MO,04,192237,Republican
+2012_MO_04,2012,"Hensley, Teresa",MO,04,113120,Democratic
+2012_MO_04,2012,"Holbrook, Thomas",MO,04,10407,Libertarian
+2012_MO_04,2012,"Cowan, Greg",MO,04,2959,Constitution
+2012_MO_05,2012,"Cleaver, Emanuel, II",MO,05,200290,Democratic
+2012_MO_05,2012,"Turk, Jacob",MO,05,122149,Republican
+2012_MO_05,2012,"Langkraehr, Randall (Randy)",MO,05,8497,Libertarian
+2012_MO_05,2012,"Feagle, Andrew",MO,05,6,Write-In
+2012_MO_06,2012,"Graves, Sam",MO,06,216906,Republican
+2012_MO_06,2012,"Yarber, Kyle",MO,06,108503,Democratic
+2012_MO_06,2012,"Monchil, Russ Lee",MO,06,8279,Libertarian
+2012_MO_07,2012,"Long, Billy",MO,07,203565,Republican
+2012_MO_07,2012,"Evans, Jim",MO,07,98498,Democratic
+2012_MO_07,2012,"Craig, Kevin",MO,07,16668,Libertarian
+2012_MO_07,2012,"Brown, Kenneth Joe",MO,07,9,Write-In
+2012_MO_08,2012,"Emerson, Jo Ann",MO,08,216083,Republican
+2012_MO_08,2012,"Rushin, Jack",MO,08,73755,Democratic
+2012_MO_08,2012,"Vandeven, Rick",MO,08,10553,Libertarian
+2012_MO_S,2012,"McCaskill, Claire",MO,S,1494125,Democratic
+2012_MO_S,2012,"Akin, Todd",MO,S,1066159,Republican
+2012_MO_S,2012,"Dine, Jonathan",MO,S,165468,Libertarian
+2012_MO_S,2012,"Kimzey, Ted",MO,S,15,Write-In
+2012_MO_S,2012,"Duraski, Bernard J. (Spark), Jr.",MO,S,9,Write-In
+2012_MO_S,2012,"Dean, William",MO,S,6,Write-In
+2012_MO_S,2012,"Mowinski, Bernie",MO,S,5,Write-In
+2012_MO_S,2012,"Bailey, Charlie",MO,S,4,Write-In
+2012_MO_S,2012,"Dienoff, Arnie C (AC)",MO,S,2,Write-In
+2012_MT_00,2012,"Daines, Steve",MT,00,255468,Republican
+2012_MT_00,2012,"Gillan, Kim",MT,00,204939,Democratic
+2012_MT_00,2012,"Kaiser, David",MT,00,19333,Libertarian
+2012_MT_S,2012,"Tester, Jon",MT,S,236123,Democratic
+2012_MT_S,2012,"Rehberg, Denny",MT,S,218051,Republican
+2012_MT_S,2012,"Cox, Dan",MT,S,31892,Libertarian
+2012_NE_01,2012,"Fortenberry, Jeff",NE,01,174889,Republican
+2012_NE_01,2012,"Reiman, Korey L.",NE,01,81206,Democratic
+2012_NE_02,2012,"Terry, Lee",NE,02,133964,Republican
+2012_NE_02,2012,"Ewing, John W., Jr.",NE,02,129767,Democratic
+2012_NE_03,2012,"Smith, Adrian",NE,03,187423,Republican
+2012_NE_03,2012,"Sullivan, Mark",NE,03,65266,Democratic
+2012_NE_S,2012,"Fischer, Deb",NE,S,455593,Republican
+2012_NE_S,2012,"Kerrey, Bob",NE,S,332979,Democratic
+2012_NV_01,2012,"Titus, Dina",NV,01,113967,Democratic
+2012_NV_01,2012,"Edwards, Chris",NV,01,56521,Republican
+2012_NV_01,2012,"Pojunis, William ""Bill""",NV,01,4645,Libertarian
+2012_NV_01,2012,"Vaughan, Stan",NV,01,4145,Independent American  Party
+2012_NV_02,2012,"Amodei, Mark E.",NV,02,162213,Republican
+2012_NV_02,2012,"Koepnick, Samuel",NV,02,102019,Democratic
+2012_NV_02,2012,"Haines, Michael L.",NV,02,11166,Independent
+2012_NV_02,2012,"Best, Russell",NV,02,6051,Independent American  Party
+2012_NV_03,2012,"Heck, Joe",NV,03,137244,Republican
+2012_NV_03,2012,"Oceguera, John",NV,03,116823,Democratic
+2012_NV_03,2012,"Murphy, Jim",NV,03,12856,Independent
+2012_NV_03,2012,"Jones, Tom",NV,03,5600,Independent American  Party
+2012_NV_04,2012,"Horsford, Steven A.",NV,04,120501,Democratic
+2012_NV_04,2012,"Tarkanian, Danny",NV,04,101261,Republican
+2012_NV_04,2012,"Fitzgibbons, Floyd",NV,04,9389,Independent American  Party
+2012_NV_04,2012,"Silvestri, Joseph P.",NV,04,9341,Libertarian
+2012_NV_S,2012,"Heller, Dean",NV,S,457656,Republican
+2012_NV_S,2012,"Berkley, Shelley",NV,S,446080,Democratic
+2012_NV_S,2012,"VanderBeek, David Lory",NV,S,48792,Independent American  Party
+2012_NH_01,2012,"Shea-Porter, Carol",NH,01,171650,Democratic
+2012_NH_01,2012,"Guinta, Frank C.",NH,01,158659,Republican
+2012_NH_01,2012,"Kelly, Brendan",NH,01,14521,Libertarian
+2012_NH_02,2012,"Kuster, Ann McLane",NH,02,169275,Democratic
+2012_NH_02,2012,"Bass, Charles",NH,02,152977,Republican
+2012_NH_02,2012,"Macia, Hardy",NH,02,14936,Libertarian
+2012_NJ_01,2012,"Andrews, Robert E.",NJ,01,210470,Democratic
+2012_NJ_01,2012,"Horton, Gregory W.",NJ,01,92459,Republican
+2012_NJ_01,2012,"Reitter, John William",NJ,01,4413,Green
+2012_NJ_01,2012,"Chapman, Margaret",NJ,01,1177,Reform
+2012_NJ_02,2012,"LoBiondo, Frank A.",NJ,02,166679,Republican
+2012_NJ_02,2012,"Shober, Cassandra",NJ,02,116463,Democratic
+2012_NJ_02,2012,"Ordille, John",NJ,02,2699,Libertarian
+2012_NJ_02,2012,"Lukens, Charles",NJ,02,1329,Constitutional Conservative
+2012_NJ_02,2012,"Bowen, David W., Sr.",NJ,02,1010,"The People's Agenda"
+2012_NJ_02,2012,"Faralli, Frank, Jr.",NJ,02,892,"Conservative, Compassionate, Creative"
+2012_NJ_03,2012,"Runyan, Jon",NJ,03,174257,Republican
+2012_NJ_03,2012,"Adler, Shelley",NJ,03,145509,Democratic
+2012_NJ_03,2012,"Forchion, Robert Edward",NJ,03,1956,Legalize Marijuana Party
+2012_NJ_03,2012,"Shapiro, Robert",NJ,03,1104,"Bob's for Jobs"
+2012_NJ_03,2012,"Lavergne, Frederick John",NJ,03,770,No Slogan
+2012_NJ_03,2012,"Witterschein, Robert",NJ,03,530,None of Them
+2012_NJ_03,2012,"Dennick, Christopher G., Jr.",NJ,03,280,No Slogan Filed
+2012_NJ_04,2012,"Smith, Christopher H.",NJ,04,195146,Republican
+2012_NJ_04,2012,"Froelich, Brian P.",NJ,04,107992,Democratic
+2012_NJ_04,2012,"Marshall, Leonard P.",NJ,04,3111,No Slogan
+2012_NJ_05,2012,"Garrett, Scott",NJ,05,167503,Republican
+2012_NJ_05,2012,"Gussen, Adam",NJ,05,130102,Democratic
+2012_NJ_05,2012,"Alessandrini, Patricia",NJ,05,6772,Green
+2012_NJ_06,2012,"Pallone, Frank, Jr.",NJ,06,151782,Democratic
+2012_NJ_06,2012,"Little, Anna",NJ,06,84360,Republican
+2012_NJ_06,2012,"Flynn, Len",NJ,06,1392,Libertarian
+2012_NJ_06,2012,"Zaletel, Karen",NJ,06,868,Overthrow All Incumbents
+2012_NJ_06,2012,"Lyden, Mac Dara",NJ,06,830,Independent
+2012_NJ_06,2012,"Tarbous, Herbert L.",NJ,06,406,Reform
+2012_NJ_07,2012,"Lance, Leonard",NJ,07,175704,Republican
+2012_NJ_07,2012,"Chivukula, Upendra J.",NJ,07,123090,Democratic
+2012_NJ_07,2012,"Breen, Dennis A.",NJ,07,4520,Independent Reform Candidate
+2012_NJ_07,2012,"McKnight, Patrick",NJ,07,4081,Libertarian
+2012_NJ_08,2012,"Sires, Albio",NJ,08,130857,Democratic
+2012_NJ_08,2012,"Karczewski, Maria",NJ,08,31767,Republican
+2012_NJ_08,2012,"Shaw, Herbert H.",NJ,08,1841,Politicians are Crooks
+2012_NJ_08,2012,"DeLuca, Stephen",NJ,08,1710,"Restoring America's Promise"
+2012_NJ_08,2012,"Olivera, Pablo",NJ,08,1625,Unity Is Strength
+2012_NJ_09,2012,"Pascrell, Bill, Jr.",NJ,09,162834,Democratic
+2012_NJ_09,2012,"Boteach, Shmuley",NJ,09,55094,Republican
+2012_NJ_09,2012,"Smith, E. David",NJ,09,1138,Abundant America
+2012_NJ_09,2012,"Woolsey, Jeanette",NJ,09,1082,Constitution
+2012_NJ_10,2012,"Payne, Donald M., Jr.",NJ,10 - FULL TERM,201435,Democratic
+2012_NJ_10,2012,"Kelemen, Brian C.",NJ,10 - FULL TERM,24271,Republican
+2012_NJ_10,2012,"Miller, Joanne",NJ,10 - FULL TERM,3127,"Change, Change, Change"
+2012_NJ_10,2012,"Erickson, Mick",NJ,10 - FULL TERM,1227,Libertarian
+2012_NJ_11,2012,"Frelinghuysen, Rodney P.",NJ,11,182239,Republican
+2012_NJ_11,2012,"Arvanites, John",NJ,11,123935,Democratic
+2012_NJ_11,2012,"Berlin, Barry",NJ,11,3725,Opposing Congressional Gridlock
+2012_NJ_12,2012,"Holt, Rush",NJ,12,189938,Democratic
+2012_NJ_12,2012,"Beck, Eric A.",NJ,12,80907,Republican
+2012_NJ_12,2012,"Freudenheim, Jack",NJ,12,2261,Independent
+2012_NJ_12,2012,"Cody, Kenneth J.",NJ,12,1285,Truth Vision Hope
+2012_NJ_S,2012,"Menendez, Robert",NJ,S,1985783,Democratic
+2012_NJ_S,2012,"Kyrillos, Joe",NJ,S,1329405,Republican
+2012_NJ_S,2012,"Kaplan, Kenneth R.",NJ,S,16803,Libertarian
+2012_NJ_S,2012,"Wolski, Ken",NJ,S,15799,Green
+2012_NJ_S,2012,"Diakos, Gwen",NJ,S,9377,Jersey Strong Independents
+2012_NJ_S,2012,"Dranikoff, J. David",NJ,S,3830,Totally Independent Candidate
+2012_NJ_S,2012,"Soni, Inder ""Andy""",NJ,S,3595,America First
+2012_NJ_S,2012,"Turkavage, Robert ""Turk""",NJ,S,3544,Responsibility Fairness Integrity
+2012_NJ_S,2012,"Pason, Gregory",NJ,S,2256,Socialist Party USA
+2012_NJ_S,2012,"Lavergne, Eugene Martin",NJ,S,2201,No Slogan
+2012_NJ_S,2012,"Brooks, Daryl Mikell",NJ,S,2075,Reform Nation
+2012_NM_01,2012,"Lujan Grisham, Michelle",NM,01,162924,Democratic
+2012_NM_01,2012,"Arnold-Jones, Janice E.",NM,01,112473,Republican
+2012_NM_01,2012,"Pahls, Jeanne",NM,01,459,Write-In
+2012_NM_02,2012,"Pearce, Steve",NM,02,113180,Republican
+2012_NM_02,2012,"Erhard, Evelyn Madrid",NM,02,92162,Democratic
+2012_NM_02,2012,"McGrann, Jack A.",NM,02,173,Write-In
+2012_NM_03,2012,"Lujan, Ben R.",NM,03,167103,Democratic
+2012_NM_03,2012,"Byrd, Jefferson L.",NM,03,97616,Republican
+2012_NM_S,2012,"Heinrich, Martin T.",NM,S,395717,Democratic
+2012_NM_S,2012,"Wilson, Heather A.",NM,S,351260,Republican
+2012_NM_S,2012,"Barrie, Jon R.",NM,S,28199,Independent American  Party
+2012_NM_S,2012,"Anderson, Robert L.",NM,S,617,Write-In
+2012_NY_01,2012,"Bishop, Timothy H.",NY,01,146179,"Democratic,Working Families"
+2012_NY_01,2012,"Altschuler, Randy",NY,01,132304,"Conservative,Independence,Republican"
+2012_NY_02,2012,"King, Peter T.",NY,02,142309,"Republican,Tax Revolt,Conservative,Independence"
+2012_NY_02,2012,"Falcone, Vivianne C.",NY,02,100545,"Democratic,Working Families"
+2012_NY_03,2012,"Israel, Steve J.",NY,03,157880,"Democratic,Working Families,Independence"
+2012_NY_03,2012,"Labate, Stephen A.",NY,03,113203,"Republican,Tax Revolt,Conservative"
+2012_NY_03,2012,"McDermott, Michael",NY,03,1644,Libertarian
+2012_NY_03,2012,"Tolda, Anthony",NY,03,367,Constitution
+2012_NY_04,2012,"McCarthy, Carolyn",NY,04,163955,"Democratic,Independence,Working Families"
+2012_NY_04,2012,"Becker, Francis X., Jr.",NY,04,85693,"Republican,Tax Revolt"
+2012_NY_04,2012,"Scaturro, Frank J.",NY,04,15603,Conservative
+2012_NY_05,2012,"Meeks, Gregory W.",NY,05,167836,Democratic
+2012_NY_05,2012,"Jennings, Allan W., Jr.",NY,05,17875,Republican
+2012_NY_05,2012,"Wark, Catherine",NY,05,1345,Libertarian
+2012_NY_06,2012,"Meng, Grace",NY,06,107507,Democratic
+2012_NY_06,2012,"Meng, Grace  ",NY,06,3994,Working Families
+2012_NY_06,2012,"Halloran, Daniel J.",NY,06,50846,"Republican,Conservative,Libertarian"
+2012_NY_06,2012,"Chou, Evergreen C.",NY,06,1913,Green
+2012_NY_07,2012,"Velazquez, Nydia M.",NY,07,143930,"Working Families,Democratic"
+2012_NY_07,2012,"Murray, James",NY,07,7971,Conservative
+2012_NY_08,2012,"Jeffries, Hakeem S.",NY,08,184039,"Working Families,Democratic"
+2012_NY_08,2012,"Bellone, Alan S.",NY,08,17650,"Republican,Conservative"
+2012_NY_08,2012,"Beavan, Colin M.",NY,08,2441,Green
+2012_NY_09,2012,"Clarke, Yvette D.",NY,09,186141,"Working Families,Democratic"
+2012_NY_09,2012,"Cavanagh, Daniel J.",NY,09,24164,"Republican,Conservative"
+2012_NY_09,2012,"Morgan, Vivia M.",NY,09,2991,Green
+2012_NY_10,2012,"Nadler, Jerrold L.",NY,10,165743,"Democratic,Working Families"
+2012_NY_10,2012,"Chan, Michael W.",NY,10,39413,"Republican,Conservative"
+2012_NY_11,2012,"Grimm, Michael G.",NY,11,103118,"Republican,Conservative"
+2012_NY_11,2012,"Murphy, Mark S.",NY,11,92430,"Democratic,Working Families"
+2012_NY_11,2012,"Bardel, Henry J.",NY,11,1939,Green
+2012_NY_12,2012,"Maloney, Carolyn B.",NY,12,194370,"Democratic,Working Families"
+2012_NY_12,2012,"Wight, Christopher R.",NY,12,46841,"Republican,Conservative,Independence"
+2012_NY_13,2012,"Rangel, Charles B.",NY,13,175016,"Working Families,Democratic"
+2012_NY_13,2012,"Schley, Craig",NY,13,12147,Republican
+2012_NY_13,2012,"Liatos, Deborah O.",NY,13,5548,Socialist Workers Party
+2012_NY_14,2012,"Crowley, Joseph",NY,14,120761,"Democratic,Working Families"
+2012_NY_14,2012,"Gibbons, Willam F., Jr.",NY,14,21755,"Republican,Conservative"
+2012_NY_14,2012,"Gronowicz, Anthony",NY,14,2570,Green
+2012_NY_15,2012,"Serrano, Jose E.",NY,15,152661,"Democratic,Working Families"
+2012_NY_15,2012,"Della Valle, Frank L.",NY,15,4427,"Republican,Conservative"
+2012_NY_16,2012,"Engel, Eliot L.",NY,16,179562,"Working Families,Democratic"
+2012_NY_16,2012,"McLaughlin, Joseph",NY,16,53935,Republican
+2012_NY_16,2012,"Diaferia, Joseph",NY,16,2974,Green
+2012_NY_17,2012,"Lowey, Nita M.",NY,17,171417,"Democratic,Working Families"
+2012_NY_17,2012,"Carvin, Joe",NY,17,91899,Republican
+2012_NY_17,2012,"Morganthaler, Francis E.",NY,17,2771,We the People
+2012_NY_18,2012,"Maloney, Sean Patrick  ",NY,18,11389,Working Families
+2012_NY_18,2012,"Maloney, Sean Patrick",NY,18,132456,Democratic
+2012_NY_18,2012,"Hayworth, Nan",NY,18,133049,"Republican,Conservative"
+2012_NY_19,2012,"Gibson, Christopher P.",NY,19,150245,"Republican,Conservative,Independence"
+2012_NY_19,2012,"Schreibman, Julian",NY,19,134295,"Working Families,Democratic"
+2012_NY_20,2012,"Tonko, Paul D.",NY,20,203401,"Democratic,Independence,Working Families"
+2012_NY_20,2012,"Dieterich, Robert J.",NY,20,93778,"Republican,Conservative"
+2012_NY_21,2012,"Owens, William L.",NY,21,126631,"Democratic,Working Families"
+2012_NY_21,2012,"Doheny, Matthew A.",NY,21,121646,"Conservative,Independence,Republican"
+2012_NY_21,2012,"Hassig, Donald L.",NY,21,4174,Green
+2012_NY_22,2012,"Hanna, Richard L.",NY,22,157941,"Independence,Republican"
+2012_NY_22,2012,"Lamb, Dan",NY,22,102080,Democratic
+2012_NY_23,2012,"Reed, Thomas W., II",NY,23,137669,"Republican,Conservative,Independence"
+2012_NY_23,2012,"Shinagawa, Nate",NY,23,127535,"Working Families,Democratic"
+2012_NY_24,2012,"Maffei, Daniel B.",NY,24,143044,"Democratic,Working Families"
+2012_NY_24,2012,"Buerkle, Ann Marie",NY,24,127054,"Republican,Conservative,Independence"
+2012_NY_24,2012,"Rozum, Ursula E.",NY,24,22670,Green
+2012_NY_25,2012,"Slaughter, Louise M.",NY,25,179810,"Democratic,Working Families"
+2012_NY_25,2012,"Brooks, Maggie",NY,25,133389,"Republican,Conservative,Independence"
+2012_NY_26,2012,"Higgins, Brian",NY,26,212588,"Democratic,Working Families"
+2012_NY_26,2012,"Madigan, Michael H.",NY,26,71666,"Republican,Conservative,Independence"
+2012_NY_27,2012,"Collins, Chris",NY,27,161220,"Conservative,Republican"
+2012_NY_27,2012,"Hochul, Kathy C.",NY,27,156219,"Democratic,Working Families"
+2012_NY_S,2012,"Gillibrand, Kirsten E.",NY,S,4822330,"Democratic,Working Families,Independence"
+2012_NY_S,2012,"Long, Wendy",NY,S,1758702,"Conservative,Republican"
+2012_NY_S,2012,"Clark, Colia",NY,S,42591,Green
+2012_NY_S,2012,"Edes, Chris",NY,S,32002,Libertarian
+2012_NY_S,2012,"Mangelli, John",NY,S,22041,Common Sense
+2012_NC_01,2012,"Butterfield, G. K .",NC,01,254644,Democratic
+2012_NC_01,2012,"DiLauro, Pete",NC,01,77288,Republican
+2012_NC_01,2012,"Holloman, Darryl",NC,01,6134,Libertarian
+2012_NC_02,2012,"Ellmers, Renee",NC,02,174066,Republican
+2012_NC_02,2012,"Wilkins, Steve",NC,02,128973,Democratic
+2012_NC_02,2012,"Irving, Brian",NC,02,8358,Libertarian
+2012_NC_03,2012,"Jones, Walter B.",NC,03,195571,Republican
+2012_NC_03,2012,"Anderson, Erik",NC,03,114314,Democratic
+2012_NC_04,2012,"Price, David",NC,04,259534,Democratic
+2012_NC_04,2012,"D'Annunzio, Tim",NC,04,88951,Republican
+2012_NC_05,2012,"Foxx, Virginia",NC,05,200945,Republican
+2012_NC_05,2012,"Motsinger, Elisabeth",NC,05,148252,Democratic
+2012_NC_06,2012,"Coble, Howard",NC,06,222116,Republican
+2012_NC_06,2012,"Foriest, Tony",NC,06,142467,Democratic
+2012_NC_07,2012,"McIntyre, Mike",NC,07,168695,Democratic
+2012_NC_07,2012,"Rouzer, David",NC,07,168041,Republican
+2012_NC_08,2012,"Hudson, Richard",NC,08,160695,Republican
+2012_NC_08,2012,"Kissell, Larry",NC,08,137139,Democratic
+2012_NC_08,2012,"Blue, Antonio",NC,08,3990,Write-In
+2012_NC_09,2012,"Pittenger, Robert",NC,09,194537,Republican
+2012_NC_09,2012,"Roberts, Jennifer",NC,09,171503,Democratic
+2012_NC_09,2012,"Campbell, Curtis",NC,09,9650,Libertarian
+2012_NC_10,2012,"McHenry, Patrick",NC,10,190826,Republican
+2012_NC_10,2012,"Keever, Patsy",NC,10,144023,Democratic
+2012_NC_11,2012,"Meadows, Mark",NC,11,190319,Republican
+2012_NC_11,2012,"Rogers, Hayden",NC,11,141107,Democratic
+2012_NC_12,2012,"Watt, Mel",NC,12,247591,Democratic
+2012_NC_12,2012,"Brosch, Jack",NC,12,63317,Republican
+2012_NC_13,2012,"Holding, George",NC,13,210495,Republican
+2012_NC_13,2012,"Malone, Charles",NC,13,160115,Democratic
+2012_ND_00,2012,"Cramer, Kevin",ND,00,173433,Republican
+2012_ND_00,2012,"Gulleson, Pam",ND,00,131869,Democratic-Nonpartisan League
+2012_ND_00,2012,"Olson, Eric",ND,00,10261,Libertarian
+2012_ND_S,2012,"Heitkamp, Heidi",ND,S,161163,Democratic-Nonpartisan League
+2012_ND_S,2012,"Berg, Rick",ND,S,158282,Republican
+2012_OH_01,2012,"Chabot, Steve",OH,01,201907,Republican
+2012_OH_01,2012,"Sinnard, Jeff",OH,01,131490,Democratic
+2012_OH_01,2012,"Berns, Jim",OH,01,9674,Libertarian
+2012_OH_01,2012,"Stevenson, Rich",OH,01,6645,Green
+2012_OH_02,2012,"Wenstrup, Brad",OH,02,194299,Republican
+2012_OH_02,2012,"Smith, William R.",OH,02,137082,Democratic
+2012_OH_03,2012,"Beatty, Joyce",OH,03,201921,Democratic
+2012_OH_03,2012,"Long, Chris",OH,03,77903,Republican
+2012_OH_03,2012,"Ehrbar, Richard",OH,03,9462,Libertarian
+2012_OH_03,2012,"Fitrakis, Bob",OH,03,6388,Green
+2012_OH_03,2012,"Brown, Jeff",OH,03,5,Write-In
+2012_OH_04,2012,"Jordan, Jim",OH,04,182643,Republican
+2012_OH_04,2012,"Slone, Jim",OH,04,114214,Democratic
+2012_OH_04,2012,"Kalla, Chris",OH,04,16141,"Write-In,Libertarian,Libertarian"
+2012_OH_05,2012,"Latta, Bob",OH,05,201514,Republican
+2012_OH_05,2012,"Zimmann, Angela",OH,05,137806,Democratic
+2012_OH_05,2012,"Eberly, Eric",OH,05,12558,Libertarian
+2012_OH_06,2012,"Johnson, Bill",OH,06,164536,Republican
+2012_OH_06,2012,"Wilson, Charlie",OH,06,144444,Democratic
+2012_OH_07,2012,"Gibbs, Bob",OH,07,178104,Republican
+2012_OH_07,2012,"Healy-Abrams, Joyce R.",OH,07,137708,Democratic
+2012_OH_08,2012,"Boehner, John A.",OH,08,246380,Republican
+2012_OH_08,2012,"Condit, James J., Jr.",OH,08,62,Write-In
+2012_OH_09,2012,"Kaptur, Marcy",OH,09,217775,Democratic
+2012_OH_09,2012,"Wurzelbacher, Samuel J.",OH,09,68666,Republican
+2012_OH_09,2012,"Stipe, Sean P.",OH,09,11725,Libertarian
+2012_OH_10,2012,"Turner, Mike",OH,10,208201,Republican
+2012_OH_10,2012,"Neuhardt, Sharen Swartz",OH,10,131097,Democratic
+2012_OH_10,2012,"Harlow, David A.",OH,10,10373,Libertarian
+2012_OH_11,2012,"Fudge, Marcia L.",OH,11,258378,Democratic
+2012_OH_12,2012,"Tiberi, Pat",OH,12,233874,Republican
+2012_OH_12,2012,"Reese, Jim",OH,12,134614,Democratic
+2012_OH_13,2012,"Ryan, Tim",OH,13,235492,Democratic
+2012_OH_13,2012,"Agana, Marisha G.",OH,13,88120,Republican
+2012_OH_14,2012,"Joyce, David P.  ",OH,14,183660,Republican
+2012_OH_14,2012,"Blanchard, Dale Virgil",OH,14,131638,Democratic
+2012_OH_14,2012,"Mastromatteo, Elaine R.",OH,14,13038,Green
+2012_OH_14,2012,"Macko, David",OH,14,11536,Libertarian
+2012_OH_14,2012,"Zurbrugg, Aaron J.",OH,14,6,Write-In
+2012_OH_14,2012,"Winfield, Steven T.",OH,14,5,Write-In
+2012_OH_14,2012,"Robinson, Erick Donald",OH,14,1,Write-In
+2012_OH_15,2012,"Stivers, Steve",OH,15,205277,Republican
+2012_OH_15,2012,"Lang, Pat",OH,15,128188,Democratic
+2012_OH_16,2012,"Renacci, Jim",OH,16,185167,Republican
+2012_OH_16,2012,"Sutton, Betty",OH,16,170604,Democratic
+2012_OH_S,2012,"Brown, Sherrod",OH,S,2762690,Democratic
+2012_OH_S,2012,"Mandel, Josh",OH,S,2435712,Republican
+2012_OH_S,2012,"Rupert, Scott A.",OH,S,250616,Non-Party
+2012_OK_01,2012,"Brindenstine, Jim",OK,01,181084,Republican
+2012_OK_01,2012,"Olson, John",OK,01,91421,Democratic
+2012_OK_01,2012,"Allen, Craig",OK,01,12807,Independent
+2012_OK_02,2012,"Mullin, Markwayne",OK,02,143701,Republican
+2012_OK_02,2012,"Wallace, Rob",OK,02,96081,Democratic
+2012_OK_02,2012,"Fulks, Michael G.",OK,02,10830,Independent
+2012_OK_03,2012,"Lucas, Frank D.",OK,03,201744,Republican
+2012_OK_03,2012,"Murray, Timothy Ray",OK,03,53472,Democratic
+2012_OK_03,2012,"Sanders, William M.",OK,03,12787,Independent
+2012_OK_04,2012,"Cole, Tom",OK,04,176740,Republican
+2012_OK_04,2012,"Bebo, Donna Marie",OK,04,71846,Democratic
+2012_OK_04,2012,"Harris, RJ",OK,04,11745,Independent
+2012_OK_05,2012,"Lankford, James",OK,05,153603,Republican
+2012_OK_05,2012,"Guild, Tom",OK,05,97504,Democratic
+2012_OK_05,2012,"Martin, Pat",OK,05,5394,Independent
+2012_OK_05,2012,"Murphy, Robert T.",OK,05,5176,Independent
+2012_OR_01,2012,"Bonamici, Suzanne",OR,01,197845,"Democratic,Working Families"
+2012_OR_01,2012,"Morgan, Delinda",OR,01,109699,Republican
+2012_OR_01,2012,"Reynolds, Steven",OR,01,15009,"Libertarian,Pacific Green,Progressive"
+2012_OR_01,2012,"Ekstrom, Bob",OR,01,8918,Constitution
+2012_OR_02,2012,"Walden, Greg",OR,02,228043,Republican
+2012_OR_02,2012,"Segers, Joyce B.",OR,02,96741,"Democratic,Working Families"
+2012_OR_02,2012,"Tabor, Joe",OR,02,7025,Libertarian
+2012_OR_03,2012,"Blumenauer, Earl",OR,03,264979,Democratic
+2012_OR_03,2012,"Green, Ronald",OR,03,70325,Republican
+2012_OR_03,2012,"Broadnax, Woodrow",OR,03,13159,"Pacific Green,Progressive"
+2012_OR_03,2012,"Cline, Michael",OR,03,6640,Libertarian
+2012_OR_04,2012,"DeFazio, Peter A.",OR,04,212866,"Democratic,Progressive,Working Families"
+2012_OR_04,2012,"Robinson, Art",OR,04,140549,"Republican,Constitution"
+2012_OR_04,2012,"Huntting, Chuck",OR,04,6205,Libertarian
+2012_OR_05,2012,"Schrader, Kurt",OR,05,177229,Democratic
+2012_OR_05,2012,"Thompson, Fred",OR,05,139223,Republican
+2012_OR_05,2012,"Lugo, Christina Jean",OR,05,7516,Pacific Green
+2012_OR_05,2012,"Baldwin, Raymond",OR,05,3600,Constitution
+2012_PA_01,2012,"Brady, Robert A.",PA,01,235394,Democratic
+2012_PA_01,2012,"Featherman, John",PA,01,41708,Republican
+2012_PA_02,2012,"Fattah, Chaka",PA,02,318176,Democratic
+2012_PA_02,2012,"Mansfield, Robert Allen, Jr.",PA,02,33381,Republican
+2012_PA_02,2012,"Foster, James",PA,02,4829,Independent
+2012_PA_03,2012,"Kelly, Mike",PA,03,165826,Republican
+2012_PA_03,2012,"Eaton, Missa",PA,03,123933,Democratic
+2012_PA_03,2012,"Porter, Steven",PA,03,12755,Independent
+2012_PA_04,2012,"Perry, Scott",PA,04,181603,Republican
+2012_PA_04,2012,"Perkinson, Harry",PA,04,104643,Democratic
+2012_PA_04,2012,"Wolf, Wayne W.",PA,04,11524,Independent
+2012_PA_04,2012,"Koffenberger, Michael Bryant",PA,04,6210,Libertarian
+2012_PA_05,2012,"Thompson, Glenn",PA,05,177740,Republican
+2012_PA_05,2012,"Dumas, Charles",PA,05,104725,Democratic
+2012_PA_06,2012,"Gerlach, Jim",PA,06,191725,Republican
+2012_PA_06,2012,"Trivedi, Manan M.",PA,06,143803,Democratic
+2012_PA_07,2012,"Meehan, Patrick L.",PA,07,209942,Republican
+2012_PA_07,2012,"Badey, George",PA,07,143509,Democratic
+2012_PA_08,2012,"Fitzpatrick, Mike",PA,08,199379,Republican
+2012_PA_08,2012,"Boockvar, Kathy",PA,08,152859,Democratic
+2012_PA_09,2012,"Shuster, Bill",PA,09,169177,Republican
+2012_PA_09,2012,"Ramsburg, Karen",PA,09,105128,"Write-In,Democratic,Democratic"
+2012_PA_10,2012,"Marino, Thomas A.",PA,10,179563,Republican
+2012_PA_10,2012,"Scollo, Philip",PA,10,94227,Democratic
+2012_PA_11,2012,"Barletta, Lou",PA,11,166967,Republican
+2012_PA_11,2012,"Stilp, Gene",PA,11,118231,Democratic
+2012_PA_12,2012,"Rothfus, Keith J.",PA,12,175352,Republican
+2012_PA_12,2012,"Critz, Mark S.",PA,12,163589,Democratic
+2012_PA_13,2012,"Schwartz, Allyson Y.",PA,13,209901,Democratic
+2012_PA_13,2012,"Rooney, Joseph James",PA,13,93918,Republican
+2012_PA_14,2012,"Doyle, Mike",PA,14,251932,Democratic
+2012_PA_14,2012,"Lessmann, Hans F.",PA,14,75702,Republican
+2012_PA_15,2012,"Dent, Charles W.",PA,15,168960,Republican
+2012_PA_15,2012,"Daugherty, Richard",PA,15,128764,Democratic
+2012_PA_16,2012,"Pitts, Joseph R.",PA,16,156192,Republican
+2012_PA_16,2012,"Strader, Aryanna C.",PA,16,111185,Democratic
+2012_PA_16,2012,"Murphy, John A",PA,16,12250,Independent
+2012_PA_16,2012,"Bednarski, James F.",PA,16,5154,Bednarski for Congress
+2012_PA_17,2012,"Cartwright, Matthew A.",PA,17,161393,Democratic
+2012_PA_17,2012,"Cummings, Laureen A.",PA,17,106208,Republican
+2012_PA_18,2012,"Murphy, Tim",PA,18,216727,Republican
+2012_PA_18,2012,"Maggi, Lawrence",PA,18,122146,Democratic
+2012_PA_S,2012,"Casey, Bob, Jr.",PA,S,3021364,Democratic
+2012_PA_S,2012,"Smith, Tom",PA,S,2509132,Republican
+2012_PA_S,2012,"Smith, Rayburn Douglas",PA,S,96926,Libertarian
+2012_RI_01,2012,"Cicilline, David N.",RI,01,108612,Democratic
+2012_RI_01,2012,"Doherty, Brendan P.",RI,01,83737,Republican
+2012_RI_01,2012,"Vogel, David S.",RI,01,12504,Independent
+2012_RI_01,2012,Anyone Else,RI,01,8,Write-In
+2012_RI_01,2012,"Mouse, Mickey",RI,01,6,Write-In
+2012_RI_02,2012,"Langevin, James R.",RI,02,124067,Democratic
+2012_RI_02,2012,"Riley, Michael G.",RI,02,78189,Republican
+2012_RI_02,2012,"Collins, Abel G.",RI,02,20212,Independent
+2012_RI_02,2012,None,RI,02,25,Write-In
+2012_RI_S,2012,"Whitehouse, Sheldon",RI,S,271034,Democratic
+2012_RI_S,2012,"Hinckley, Benjamin Barrett, III",RI,S,146222,Republican
+2012_RI_S,2012,Nobody,RI,S,37,Write-In
+2012_RI_S,2012,"Paul, Ron",RI,S,7,Write-In
+2012_SC_01,2012,"Scott, Tim",SC,01,179908,Republican
+2012_SC_01,2012,"Rose, Bobbie",SC,01,103557,"Democratic,Working Families"
+2012_SC_01,2012,"Blandford, Keith",SC,01,6334,Libertarian
+2012_SC_02,2012,"Wilson, Joe",SC,02,196116,Republican
+2012_SC_03,2012,"Duncan, Jeff",SC,03,169512,Republican
+2012_SC_03,2012,"Doyle, Brian Ryan B.",SC,03,84735,Democratic
+2012_SC_04,2012,"Gowdy, Trey",SC,04,173201,Republican
+2012_SC_04,2012,"Morrow, Deb",SC,04,89964,"Working Families,Democratic"
+2012_SC_04,2012,"Sumerel, Jeff",SC,04,3390,Green
+2012_SC_05,2012,"Mulvaney, Mick",SC,05,154324,Republican
+2012_SC_05,2012,"Knott, Joyce",SC,05,123443,"Democratic,Working Families"
+2012_SC_06,2012,"Clyburn, James E. ""Jim""",SC,06,218717,Democratic
+2012_SC_06,2012,"Muhammad, Nammu Y.",SC,06,12920,Green
+2012_SC_07,2012,"Rice, Tom",SC,07,153068,Republican
+2012_SC_07,2012,"Tinubu, Gloria Bromell",SC,07,122389,"Working Families,Democratic"
+2012_SD_00,2012,"Noem, Kristi",SD,00,207640,Republican
+2012_SD_00,2012,"Varilek, Matt",SD,00,153789,Democratic
+2012_TN_01,2012,"Roe, Phil",TN,01,182252,Republican
+2012_TN_01,2012,"Woodruff, Alan",TN,01,47663,Democratic
+2012_TN_01,2012,"Brackett, Karen Sherry",TN,01,4837,Independent
+2012_TN_01,2012,"Smith, Robert N.",TN,01,2872,Green
+2012_TN_01,2012,"Salyer, Michael D.",TN,01,2048,Independent
+2012_TN_02,2012,"Duncan, John J., Jr.",TN,02,196894,Republican
+2012_TN_02,2012,"Goodale, Troy Christopher",TN,02,54522,Democratic
+2012_TN_02,2012,"Dryer, Norris",TN,02,5733,Green
+2012_TN_02,2012,"Samples, Greg",TN,02,4382,Independent
+2012_TN_02,2012,"Stewart, Brandon",TN,02,2974,Independent
+2012_TN_03,2012,"Fleischmann, Chuck",TN,03,157830,Republican
+2012_TN_03,2012,"Headrick, Mary M.",TN,03,91094,Democratic
+2012_TN_03,2012,"Deniston, Matthew",TN,03,7905,Independent
+2012_TN_03,2012,"Howard-Hill, Lady J Jean",TN,03,62,Write-In
+2012_TN_03,2012,"Hall, Richard",TN,03,18,Write-In
+2012_TN_04,2012,"DesJarlais, Scott",TN,04,128568,Republican
+2012_TN_04,2012,"Stewart, Eric",TN,04,102022,Democratic
+2012_TN_05,2012,"Cooper, Jim",TN,05,171621,Democratic
+2012_TN_05,2012,"Staats, Brad",TN,05,86240,Republican
+2012_TN_05,2012,"Miglietta, John",TN,05,5222,Green
+2012_TN_05,2012,"Puckett, Sean",TN,05,12,Write-In
+2012_TN_06,2012,"Black, Diane",TN,06,184383,Republican
+2012_TN_06,2012,"Beasley, Scott",TN,06,34766,Independent
+2012_TN_06,2012,"Riley, Pat",TN,06,21633,Green
+2012_TN_06,2012,"Robinson, Rachel",TN,06,455,Write-In
+2012_TN_06,2012,"Thompson, Michael H.",TN,06,4,Write-In
+2012_TN_07,2012,"Blackburn, Marsha",TN,07,182730,Republican
+2012_TN_07,2012,"Amouzouvik, Credo",TN,07,61679,Democratic
+2012_TN_07,2012,"Switzer, Howard",TN,07,4640,Green
+2012_TN_07,2012,"Arnold, Jack",TN,07,4256,Independent
+2012_TN_07,2012,"Akin, Wm. Ryan",TN,07,2740,Independent
+2012_TN_07,2012,"Ladner, Leonard D. (Lenny)",TN,07,1261,Independent
+2012_TN_08,2012,"Fincher, Stephen Lee",TN,08,190923,Republican
+2012_TN_08,2012,"Dixon, Timothy D.",TN,08,79490,Democratic
+2012_TN_08,2012,"Hart, James",TN,08,6139,Independent
+2012_TN_08,2012,"Rawles, Mark J.",TN,08,2870,Independent
+2012_TN_09,2012,"Cohen, Steve",TN,09,188422,Democratic
+2012_TN_09,2012,"Flinn, George S., Jr.",TN,09,59742,Republican
+2012_TN_09,2012,"Saulsberry, Brian L.",TN,09,1448,Independent
+2012_TN_09,2012,"Joiner, Gregory M.",TN,09,1372,Independent
+2012_TN_09,2012,"Smith, Kimberlee E.",TN,09,2,Write-In
+2012_TN_09,2012,"Bass, Herbert A.",TN,09,1,Write-In
+2012_TN_S,2012,"Corker, Bob",TN,S,1506443,Republican
+2012_TN_S,2012,"Clayton, Mark E.",TN,S,705882,Democratic
+2012_TN_S,2012,"Davis, Gary Gene",TN,S,18,"Democratic,Write-In"
+2012_TN_S,2012,"Crim, Larry",TN,S,218,"Democratic,Write-In"
+2012_TN_S,2012,"Pleasant, Martin",TN,S,38472,Green
+2012_TN_S,2012,"Crowell, Shaun E.",TN,S,20936,Independent
+2012_TN_S,2012,"Steck, Kermit",TN,S,18620,Constitution
+2012_TN_S,2012,"Higdon, James",TN,S,8085,Independent
+2012_TN_S,2012,"Long, Michel Joseph",TN,S,8080,Independent
+2012_TN_S,2012,"Scoggin, Troy Stephen",TN,S,7148,Independent
+2012_TN_S,2012,"Gatchell, David",TN,S,6523,Independent
+2012_TN_S,2012,"Stinnett, Angelia",TN,S,470,Write-In
+2012_TN_S,2012,"Maurer, Jacob",TN,S,409,Write-In
+2012_TN_S,2012,"Maynard, Jim",TN,S,117,Write-In
+2012_TN_S,2012,"Penn, Margie Nell",TN,S,23,Write-In
+2012_TN_S,2012,"Stewart, Lee",TN,S,14,Write-In
+2012_TN_S,2012,"Schappert, Christopher",TN,S,12,Write-In
+2012_TN_S,2012,"Hoenicke, Allen",TN,S,5,Write-In
+2012_TN_S,2012,"Wright, Mary D.",TN,S,2,Write-In
+2012_TX_01,2012,"Gohmert, Louie",TX,01,178322,Republican
+2012_TX_01,2012,"McKellar, Shirley J.",TX,01,67222,Democratic
+2012_TX_01,2012,"Patterson, Clark",TX,01,4114,Libertarian
+2012_TX_02,2012,"Poe, Ted",TX,02,159664,Republican
+2012_TX_02,2012,"Dougherty, Jim",TX,02,80512,Democratic
+2012_TX_02,2012,"Duncan, Kenneth",TX,02,4140,Libertarian
+2012_TX_02,2012,"Roberts, Mark A.",TX,02,2012,Green
+2012_TX_03,2012,"Johnson, Sam",TX,03,187180,Republican
+2012_TX_04,2012,"Hall, Ralph M.",TX,04,182679,Republican
+2012_TX_04,2012,"Hathcox, VaLinda",TX,04,60214,Democratic
+2012_TX_04,2012,"Griffing, Thomas",TX,04,7262,Libertarian
+2012_TX_04,2012,"Rostek, Fred",TX,04,188,Write-In
+2012_TX_05,2012,"Hensarling, Jeb",TX,05,134091,Republican
+2012_TX_05,2012,"Mrosko, Linda S.",TX,05,69178,Democratic
+2012_TX_05,2012,"Ashby, Ken",TX,05,4961,Libertarian
+2012_TX_06,2012,"Barton, Joe L.",TX,06,145019,Republican
+2012_TX_06,2012,"Sanders, Kenneth",TX,06,98053,Democratic
+2012_TX_06,2012,"Chauvin, Hugh",TX,06,4847,Libertarian
+2012_TX_06,2012,"Parmer, Brandon",TX,06,2017,Green
+2012_TX_07,2012,"Culberson, John",TX,07,142793,Republican
+2012_TX_07,2012,"Cargas, James",TX,07,85553,Democratic
+2012_TX_07,2012,"Parks, Drew",TX,07,4669,Libertarian
+2012_TX_07,2012,"Findley, Lance",TX,07,1822,Green
+2012_TX_08,2012,"Brady, Kevin",TX,08,194043,Republican
+2012_TX_08,2012,"Burns, Neil",TX,08,51051,Democratic
+2012_TX_08,2012,"Hall, Roy",TX,08,5958,Libertarian
+2012_TX_09,2012,"Green, Al",TX,09,144075,Democratic
+2012_TX_09,2012,"Mueller, Steve",TX,09,36139,Republican
+2012_TX_09,2012,"Foster, Vanessa",TX,09,1743,Green
+2012_TX_09,2012,"Wieder, John",TX,09,1609,Libertarian
+2012_TX_10,2012,"McCaul, Michael",TX,10,159783,Republican
+2012_TX_10,2012,"Cadien, Tawana W.",TX,10,95710,Democratic
+2012_TX_10,2012,"Priest, Richard",TX,10,8526,Libertarian
+2012_TX_11,2012,"Conaway, Mike",TX,11,177742,Republican
+2012_TX_11,2012,"Riley, Jim",TX,11,41970,Democratic
+2012_TX_11,2012,"Ballard, Scott J.",TX,11,6311,Libertarian
+2012_TX_12,2012,"Granger, Kay",TX,12,175649,Republican
+2012_TX_12,2012,"Robinson, Dave",TX,12,66080,Democratic
+2012_TX_12,2012,"Solodow, Matthew",TX,12,5983,Libertarian
+2012_TX_13,2012,"Thornberry, Mac",TX,13,187775,Republican
+2012_TX_13,2012,"Deek, John Robert",TX,13,12701,Libertarian
+2012_TX_13,2012,"Houston, Keith F.",TX,13,5912,Green
+2012_TX_14,2012,"Weber, Randy",TX,14,131460,Republican
+2012_TX_14,2012,"Lampson, Nick",TX,14,109697,Democratic
+2012_TX_14,2012,"Grady, Zach",TX,14,3619,Libertarian
+2012_TX_14,2012,"Smith, Rhett Rosenquest",TX,14,1063,Green
+2012_TX_15,2012,"Hinojosa, Rubén",TX,15,89296,Democratic
+2012_TX_15,2012,"Brueggemann, Dale A.",TX,15,54056,Republican
+2012_TX_15,2012,"Finch, Ron",TX,15,3309,Libertarian
+2012_TX_16,2012,"O'Rourke, Beto",TX,16,101403,Democratic
+2012_TX_16,2012,"Carrasco, Barbara",TX,16,51043,Republican
+2012_TX_16,2012,"Sodoy, Junart",TX,16,2559,Libertarian
+2012_TX_17,2012,"Flores, Bill",TX,17,143284,Republican
+2012_TX_17,2012,"Easton, Ben",TX,17,35978,Libertarian
+2012_TX_18,2012,"Jackson Lee, Sheila",TX,18,146223,Democratic
+2012_TX_18,2012,"Seibert, Sean",TX,18,44015,Republican
+2012_TX_18,2012,"Barber, Christopher",TX,18,4694,Libertarian
+2012_TX_19,2012,"Neugebauer, Randy",TX,19,163239,Republican
+2012_TX_19,2012,"Peterson, Richard (Chip)",TX,19,28824,Libertarian
+2012_TX_20,2012,"Rosa, David",TX,20,62376,Republican
+2012_TX_20,2012,"Potts, A.E. (Tracy)",TX,20,3143,Libertarian
+2012_TX_20,2012,"Diaz, Antonio",TX,20,1626,Green
+2012_TX_20,2012,"Castro, Joaquin",TX,20,119032,Democratic
+2012_TX_21,2012,"Smith, Lamar",TX,21,187015,Republican
+2012_TX_21,2012,"Duval, Candace E.",TX,21,109326,Democratic
+2012_TX_21,2012,"Liberty, John-Henry",TX,21,12524,Libertarian
+2012_TX_22,2012,"Olson, Pete",TX,22,160668,Republican
+2012_TX_22,2012,"Rogers, Kesha",TX,22,80203,Democratic
+2012_TX_22,2012,"Susman, Steven",TX,22,5986,Libertarian
+2012_TX_22,2012,"Cook, Don",TX,22,4054,Green
+2012_TX_23,2012,"Gallego, Pete P.",TX,23,96676,Democratic
+2012_TX_23,2012,"Canseco, Francisco ""Quico""",TX,23,87547,Republican
+2012_TX_23,2012,"Blunt, Jeffrey C.",TX,23,5841,Libertarian
+2012_TX_23,2012,"Scharf, Ed",TX,23,2105,Green
+2012_TX_24,2012,"Marchant, Kenny E.",TX,24,148586,Republican
+2012_TX_24,2012,"Rusk, Tim",TX,24,87645,Democratic
+2012_TX_24,2012,"Stathas, John",TX,24,7258,Libertarian
+2012_TX_25,2012,"Williams, Roger",TX,25,154245,Republican
+2012_TX_25,2012,"Henderson, Elaine M.",TX,25,98827,Democratic
+2012_TX_25,2012,"Dewey, Betsy",TX,25,10860,Libertarian
+2012_TX_26,2012,"Burgess, Michael",TX,26,176642,Republican
+2012_TX_26,2012,"Sanchez, David",TX,26,74237,Democratic
+2012_TX_26,2012,"Boler, Mark",TX,26,7844,Libertarian
+2012_TX_27,2012,"Farenthold, Blake",TX,27,120684,Republican
+2012_TX_27,2012,"Harrison, Rose Meza",TX,27,83395,Democratic
+2012_TX_27,2012,"Baldwin, Bret",TX,27,5354,Independent
+2012_TX_27,2012,"Byrd, Corrie",TX,27,3218,Libertarian
+2012_TX_28,2012,"Cuellar, Henry",TX,28,112456,Democratic
+2012_TX_28,2012,"Hayward, William R.",TX,28,49309,Republican
+2012_TX_28,2012,"Hisel, Patrick",TX,28,2473,Libertarian
+2012_TX_28,2012,"Cary, Michael D.",TX,28,1407,Green
+2012_TX_29,2012,"Green, Gene",TX,29,86053,Democratic
+2012_TX_29,2012,"Stanczak, James",TX,29,4996,Libertarian
+2012_TX_29,2012,"Selva, Maria",TX,29,4562,Green
+2012_TX_30,2012,"Johnson, Eddie Bernice",TX,30,171059,Democratic
+2012_TX_30,2012,"Washington, Travis, Jr.",TX,30,41222,Republican
+2012_TX_30,2012,"Rankin, Ed",TX,30,4733,Libertarian
+2012_TX_31,2012,"Carter, John R.",TX,31,145348,Republican
+2012_TX_31,2012,"Wyman, Stephen M.",TX,31,82977,Democratic
+2012_TX_31,2012,"Garofolo, Ethan",TX,31,8862,Libertarian
+2012_TX_32,2012,"Sessions, Pete",TX,32,146653,Republican
+2012_TX_32,2012,"McGovern, Katherine Savers",TX,32,99288,Democratic
+2012_TX_32,2012,"Hollist, Seth Jewel",TX,32,5695,Libertarian
+2012_TX_33,2012,"Veasey, Marc",TX,33,85114,Democratic
+2012_TX_33,2012,"Bradley, Chuck",TX,33,30252,Republican
+2012_TX_33,2012,"Lindsay, Ed",TX,33,2009,Green
+2012_TX_34,2012,"Vela, Filemon",TX,34,89606,Democratic
+2012_TX_34,2012,"Bradshaw, Jessica Puente",TX,34,52448,Republican
+2012_TX_34,2012,"Shanklin, Steven ""Ziggy""",TX,34,2724,Libertarian
+2012_TX_35,2012,"Doggett, Lloyd",TX,35,105626,Democratic
+2012_TX_35,2012,"Narvaiz, Susan",TX,35,52894,Republican
+2012_TX_35,2012,"Leone, Ross Lynn",TX,35,4082,Libertarian
+2012_TX_35,2012,"Owen, Meghan",TX,35,2540,Green
+2012_TX_35,2012,"Alvarado, Simon",TX,35,37,Write-In
+2012_TX_36,2012,"Stockman, Steve",TX,36,165405,Republican
+2012_TX_36,2012,"Martin, Max",TX,36,62143,Democratic
+2012_TX_36,2012,"Cole, Michael K.",TX,36,6284,Libertarian
+2012_TX_S,2012,"Cruz, Ted",TX,S,4440137,Republican
+2012_TX_S,2012,"Sadler, Paul",TX,S,3194927,Democratic
+2012_TX_S,2012,"Myers, John Jay",TX,S,162354,Libertarian
+2012_TX_S,2012,"Collins, David B.",TX,S,67404,Green
+2012_UT_01,2012,"Bishop, Rob",UT,01,175487,Republican
+2012_UT_01,2012,"McAleer, Donna M.",UT,01,60611,Democratic
+2012_UT_01,2012,"Phipps, Sherry",UT,01,9430,Constitution
+2012_UT_02,2012,"Stewart, Chris",UT,02,154523,Republican
+2012_UT_02,2012,"Seegmiller, Jay",UT,02,83176,Democratic
+2012_UT_02,2012,"Garrard, Jonathan D.",UT,02,5051,Constitution
+2012_UT_02,2012,"Andrade, Joseph",UT,02,2971,Unaffiliated
+2012_UT_02,2012,"Kimball, Charles E.",UT,02,2824,Unaffiliated
+2012_UT_03,2012,"Chaffetz, Jason",UT,03,198828,Republican
+2012_UT_03,2012,"Simonsen, Soren",UT,03,60719,Democratic
+2012_UT_04,2012,"Matheson, Jim",UT,04,119803,Democratic
+2012_UT_04,2012,"Love, Mia B.",UT,04,119035,Republican
+2012_UT_04,2012,"Vein, Jim L.",UT,04,6439,Libertarian
+2012_UT_S,2012,"Hatch, Orrin G.",UT,S,657608,Republican
+2012_UT_S,2012,"Howell, Scott",UT,S,301873,Democratic
+2012_UT_S,2012,"McCausland, Shaun Lynn",UT,S,31905,Constitution
+2012_UT_S,2012,"Geery, Daniel",UT,S,8342,Utah Justice Party
+2012_UT_S,2012,"Barron, Bill",UT,S,7172,Unaffiliated
+2012_UT_S,2012,"Secrist, JoAnn S.",UT,S,1,Write-In
+2012_VT_00,2012,"Welch, Peter",VT,00,208600,"Democratic,Working Families"
+2012_VT_00,2012,"Donka, Mark",VT,00,67543,Republican
+2012_VT_00,2012,"Desrochers, James ""Sam""",VT,00,8302,Independent
+2012_VT_00,2012,"Newton, Jane",VT,00,4065,Liberty Union
+2012_VT_00,2012,"LaFramboise, Andre",VT,00,1153,Vote KISS
+2012_VT_S,2012,"Sanders, Bernie",VT,S,207848,"Democratic,Independent"
+2012_VT_S,2012,"MacGovern, John",VT,S,72898,Republican
+2012_VT_S,2012,"Ericson, Cris",VT,S,5924,United States Marijuana
+2012_VT_S,2012,"Diamondstone, Pete",VT,S,2511,Liberty Union
+2012_VT_S,2012,"Moss, Peter",VT,S,2452,Peace and Prosperity
+2012_VT_S,2012,"LaFramboise, Laurel",VT,S,877,Vote KISS
+2012_VA_01,2012,"Wittman, Robert J. ""Rob""",VA,01,200845,Republican
+2012_VA_01,2012,"Cook, Adam M.",VA,01,147036,Democratic
+2012_VA_01,2012,"Parker, G. Gail",VA,01,8308,Independent Green
+2012_VA_02,2012,"Rigell, E. Scott",VA,02,166231,Republican
+2012_VA_02,2012,"Hirschbiel, Paul O., Jr.",VA,02,142548,Democratic
+2012_VA_03,2012,"Scott, Robert C. ""Bobby""",VA,03,259199,Democratic
+2012_VA_03,2012,"Longo, Dean J.",VA,03,58931,Republican
+2012_VA_04,2012,"Forbes, J. Randy",VA,04,199292,Republican
+2012_VA_04,2012,"Ward, Ella P.",VA,04,150190,Democratic
+2012_VA_05,2012,"Hurt, Robert",VA,05,193009,Republican
+2012_VA_05,2012,"Douglass, John Wade",VA,05,149214,Democratic
+2012_VA_05,2012,"Hildebrandt, Kenneth J.",VA,05,5500,Independent Green
+2012_VA_06,2012,"Goodlatte, Robert W. ""Bob""",VA,06,211278,Republican
+2012_VA_06,2012,"Schmookler, Andy B.",VA,06,111949,Democratic
+2012_VA_07,2012,"Cantor, Eric I.",VA,07,222983,Republican
+2012_VA_07,2012,"Powell, E. Wayne",VA,07,158012,Democratic
+2012_VA_08,2012,"Moran, James P. ""Jim,"" Jr.",VA,08,226847,Democratic
+2012_VA_08,2012,"Murray, J. Patrick",VA,08,107370,Republican
+2012_VA_08,2012,"Howell, Jason J.",VA,08,10180,Independent
+2012_VA_08,2012,"Murphy, Janet",VA,08,5985,Independent Green
+2012_VA_09,2012,"Griffith, H. Morgan",VA,09,184882,Republican
+2012_VA_09,2012,"Flaccavento, Anthony J.",VA,09,116400,Democratic
+2012_VA_10,2012,"Wolf, Frank R.",VA,10,214038,Republican
+2012_VA_10,2012,"Cabral, Kristin A.",VA,10,142024,Democratic
+2012_VA_10,2012,"Chisholm, J. Kevin",VA,10,9855,Independent
+2012_VA_11,2012,"Connolly, Gerald E. ""Gerry""",VA,11,202606,Democratic
+2012_VA_11,2012,"Perkins, Chris S.",VA,11,117902,Republican
+2012_VA_11,2012,"Gibson, Mark T.",VA,11,3806,Independent
+2012_VA_11,2012,"DeCarlo, Christopher F.",VA,11,3027,Independent
+2012_VA_11,2012,"Galdo, Joe F. Jr.",VA,11,2195,Green
+2012_VA_11,2012,"Marchetti, Peter M.",VA,11,1919,Independent Green
+2012_VA_S,2012,"Kaine, Timothy M.",VA,S,2010067,Democratic
+2012_VA_S,2012,"Allen, George F.",VA,S,1785542,Republican
+2012_WA_01,2012,"DelBene, Suzan",WA,01 - FULL TERM,177025,Democratic
+2012_WA_01,2012,"Koster, John",WA,01 - FULL TERM,151187,Republican
+2012_WA_02,2012,"Larsen, Rick",WA,02,184826,Democratic
+2012_WA_02,2012,"Matthews, Dan",WA,02,117465,Republican
+2012_WA_03,2012,"Beutler, Jaime Herrera",WA,03,177446,Republican
+2012_WA_03,2012,"Haugen, Jon T.",WA,03,116438,Democratic
+2012_WA_04,2012,"Hastings, Doc",WA,04,154749,Republican
+2012_WA_04,2012,"Baechler, Mary",WA,04,78940,Democratic
+2012_WA_05,2012,"Rodgers, Cathy McMorris",WA,05,191066,Republican
+2012_WA_05,2012,"Cowan, Rich",WA,05,117512,Democratic
+2012_WA_06,2012,"Kilmer, Derek",WA,06,186661,Democratic
+2012_WA_06,2012,"Driscoll, Bill",WA,06,129725,Republican
+2012_WA_07,2012,"McDermott, Jim",WA,07,298368,Democratic
+2012_WA_07,2012,"Bemis, Ron",WA,07,76212,Republican
+2012_WA_08,2012,"Reichert, Dave",WA,08,180204,Republican
+2012_WA_08,2012,"Porterfield, Karen",WA,08,121886,Democratic
+2012_WA_09,2012,"Smith, Adam",WA,09,192034,Democratic
+2012_WA_09,2012,"Postma, Jim",WA,09,76105,Republican
+2012_WA_10,2012,"Heck, Denny",WA,10,163036,Democratic
+2012_WA_10,2012,"Muri, Richard (Dick)",WA,10,115381,Republican
+2012_WA_S,2012,"Cantwell, Maria",WA,S,1855493,Democratic
+2012_WA_S,2012,"Baumgartner, Michael",WA,S,1213924,Republican
+2012_WV_01,2012,"McKinley, David B.",WV,01,133809,Republican
+2012_WV_01,2012,"Thorn, Sue",WV,01,80342,Democratic
+2012_WV_02,2012,"Capito, Shelley Moore",WV,02,158206,Republican
+2012_WV_02,2012,"Swint, Howard",WV,02,68560,Democratic
+2012_WV_03,2012,"Rahall, Nick J., II",WV,03,108199,Democratic
+2012_WV_03,2012,"Snuffer, Rick",WV,03,92238,Republican
+2012_WV_S,2012,"Manchin, Joe, III",WV,S,399898,Democratic
+2012_WV_S,2012,"Raese, John R.",WV,S,240787,Republican
+2012_WV_S,2012,"Baber, Bob Henry",WV,S,19517,Mountain Party
+2012_WI_01,2012,"Ryan, Paul",WI,01,200423,Republican
+2012_WI_01,2012,"Zerban, Rob",WI,01,158414,Democratic
+2012_WI_01,2012,"Deschler, Keith",WI,01,6054,Libertarian
+2012_WI_02,2012,"Pocan, Mark",WI,02,265422,Democratic
+2012_WI_02,2012,"Lee, Chad",WI,02,124683,Republican
+2012_WI_02,2012,"Kopsick, Joe",WI,02,6,Write-In
+2012_WI_03,2012,"Kind, Ron",WI,03,217712,Democratic
+2012_WI_03,2012,"Boland, Ray",WI,03,121713,Republican
+2012_WI_04,2012,"Moore, Gwen",WI,04,235257,Democratic
+2012_WI_04,2012,"Sebring, Dan",WI,04,80787,Republican
+2012_WI_04,2012,"Raymond, Robert R.",WI,04,9277,Independent
+2012_WI_05,2012,"Sensenbrenner, F. James, Jr.",WI,05,250335,Republican
+2012_WI_05,2012,"Heaster, Dave",WI,05,118478,Democratic
+2012_WI_06,2012,"Petri, Tom",WI,06,223460,Republican
+2012_WI_06,2012,"Kallas, Joe",WI,06,135921,Democratic
+2012_WI_07,2012,"Duffy, Sean",WI,07,201720,Republican
+2012_WI_07,2012,"Kreitlow, Pat",WI,07,157524,Democratic
+2012_WI_07,2012,"Lehner, Dale C.",WI,07,20,Write-In
+2012_WI_08,2012,"Ribble, Reid J.",WI,08,198874,Republican
+2012_WI_08,2012,"Wall, Jamie",WI,08,156287,Democratic
+2012_WI_S,2012,"Baldwin, Tammy",WI,S,1547104,Democratic
+2012_WI_S,2012,"Thompson, Tommy G.",WI,S,1380126,Republican
+2012_WI_S,2012,"Kexel, Joseph",WI,S,62240,Libertarian
+2012_WI_S,2012,"Nimrod, Allen Y.U., III",WI,S,16455,I.D.E.A.
+2012_WI_S,2012,"Hood, Riley J",WI,S,70,Write-In
+2012_WI_S,2012,"Lorbiecki, Diane",WI,S,43,Write-In
+2012_WY_00,2012,"Lummis, Cynthia M.",WY,00,166452,Republican
+2012_WY_00,2012,"Henrichsen, Chris",WY,00,57573,Democratic
+2012_WY_00,2012,"Brubaker, Richard P.",WY,00,8442,Libertarian
+2012_WY_00,2012,"Cummings, Daniel Clyde",WY,00,4963,Constitution
+2012_WY_00,2012,"Wills, Don",WY,00,3775,Country
+2012_WY_S,2012,"Barrasso, John",WY,S,185250,Republican
+2012_WY_S,2012,"Chesnut, Tim",WY,S,53019,Democratic
+2012_WY_S,2012,"Otto, Joel",WY,S,6176,Country

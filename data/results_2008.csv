@@ -1,0 +1,1350 @@
+id,year,name,state,district,votes,parties
+2008_AL_01,2008,"Bonner, Jo",AL,01,210660,Republican
+2008_AL_02,2008,"Bright, Bobby",AL,02,144368,Democratic
+2008_AL_02,2008,"Love, Jay",AL,02,142578,Republican
+2008_AL_03,2008,"Rogers, Mike",AL,03,142708,Republican
+2008_AL_03,2008,"Segall, Joshua",AL,03,121080,Democratic
+2008_AL_04,2008,"Aderholt, Robert",AL,04,196741,Republican
+2008_AL_04,2008,"Sparks, Nicholas B.",AL,04,66077,Democratic
+2008_AL_05,2008,"Griffith, Parker",AL,05,158324,Democratic
+2008_AL_05,2008,"Parker, Wayne",AL,05,147314,Republican
+2008_AL_06,2008,"Bachus, Spencer",AL,06,280902,Republican
+2008_AL_07,2008,"Davis, Artur",AL,07,228518,Democratic
+2008_AL_S,2008,"Sessions, Jeff",AL,S,1305383,Republican
+2008_AL_S,2008,"Figures, Vivian Davis",AL,S,752391,Democratic
+2008_AK_00,2008,"Young, Don E.",AK,00,158939,Republican
+2008_AK_00,2008,"Berkowitz, Ethan A.",AK,00,142560,Democratic
+2008_AK_00,2008,"Wright, Don R.",AK,00,14274,Alaskan Independence
+2008_AK_S,2008,"Begich, Mark",AK,S,151767,Democratic
+2008_AK_S,2008,"Stevens, Ted",AK,S,147814,Republican
+2008_AK_S,2008,"Bird, Bob",AK,S,13197,Alaskan Independence
+2008_AK_S,2008,"Haase, Fredrick D. ""David""",AK,S,2483,Libertarian
+2008_AK_S,2008,"Gianoutsos, Ted",AK,S,1385,None
+2008_AZ_01,2008,"Kirkpatrick, Ann",AZ,01,155791,Democratic
+2008_AZ_01,2008,"Hay, Sydney",AZ,01,109924,Republican
+2008_AZ_01,2008,"Maupin, Brent",AZ,01,9394,Independent
+2008_AZ_01,2008,"Eichenauer, Thane",AZ,01,3678,"Write-In,Libertarian,Libertarian"
+2008_AZ_02,2008,"Franks, Trent",AZ,02,200914,Republican
+2008_AZ_02,2008,"Thrasher, John",AZ,02,125611,Democratic
+2008_AZ_02,2008,"Gammill, Powell",AZ,02,7882,Libertarian
+2008_AZ_02,2008,"Crum, William",AZ,02,3616,Green
+2008_AZ_03,2008,"Shadegg, John",AZ,03,148800,Republican
+2008_AZ_03,2008,"Lord, Bob",AZ,03,115759,Democratic
+2008_AZ_03,2008,"Shoen, Michael",AZ,03,10602,Libertarian
+2008_AZ_04,2008,"Pastor, Ed",AZ,04,89721,Democratic
+2008_AZ_04,2008,"Karg, Don",AZ,04,26435,Republican
+2008_AZ_04,2008,"DeWitt, Rebecca",AZ,04,4464,Green
+2008_AZ_04,2008,"Cobb, Joe",AZ,04,3807,Libertarian
+2008_AZ_05,2008,"Mitchell, Harry",AZ,05,149033,Democratic
+2008_AZ_05,2008,"Schweikert, David",AZ,05,122165,Republican
+2008_AZ_05,2008,"Severin, Warren",AZ,05,9158,Libertarian
+2008_AZ_05,2008,"Hughes, Ralph",AZ,05,9,Write-In
+2008_AZ_06,2008,"Flake, Jeff",AZ,06,208582,Republican
+2008_AZ_06,2008,"Schneider, Rebecca",AZ,06,115457,Democratic
+2008_AZ_06,2008,"Biondi, Rick",AZ,06,10137,Libertarian
+2008_AZ_07,2008,"Grijalva, Raúl",AZ,07,124304,Democratic
+2008_AZ_07,2008,"Sweeney, Joseph",AZ,07,64425,Republican
+2008_AZ_07,2008,"Petrulsky, Raymond Patrick",AZ,07,7755,"Write-In,Libertarian,Libertarian"
+2008_AZ_07,2008,"Meyer, Harley",AZ,07,5,Write-In
+2008_AZ_08,2008,"Giffords, Gabrielle",AZ,08,179629,Democratic
+2008_AZ_08,2008,"Bee, Tim",AZ,08,140553,Republican
+2008_AZ_08,2008,"Davis, Paul",AZ,08,8081,"Write-In,Libertarian,Write-In"
+2008_AZ_08,2008,"Price, Paul",AZ,08,3,Write-In
+2008_AR_01,2008,"Berry, Marion",AR,01,Unopposed,Democratic
+2008_AR_02,2008,"Snyder, Vic",AR,02,212303,Democratic
+2008_AR_02,2008,"McFarland, Deb",AR,02,64398,Green
+2008_AR_02,2008,"Suits, Danial",AR,02,665,Write-In
+2008_AR_03,2008,"Boozman, John",AR,03,215196,Republican
+2008_AR_03,2008,"Tomlinson, Abel Noah",AR,03,58850,Green
+2008_AR_04,2008,"Ross, Mike",AR,04,203178,Democratic
+2008_AR_04,2008,"Drake, Joshua",AR,04,32603,Green
+2008_AR_S,2008,"Pryor, Mark",AR,S,804678,Democratic
+2008_AR_S,2008,"Kennedy, Rebekah",AR,S,207076,Green
+2008_CA_01,2008,"Thompson, Mike",CA,01,197812,Democratic
+2008_CA_01,2008,"Starkewolf, Zane",CA,01,67853,Republican
+2008_CA_01,2008,"Wolman, Carol",CA,01,24793,Green
+2008_CA_01,2008,"Elizondo, Pamela",CA,01,14,Write-In
+2008_CA_02,2008,"Herger, Wally",CA,02,163459,Republican
+2008_CA_02,2008,"Morris, Jeff",CA,02,118878,Democratic
+2008_CA_03,2008,"Lungren, Dan",CA,03,155424,Republican
+2008_CA_03,2008,"Durston, William",CA,03,137971,Democratic
+2008_CA_03,2008,"Padilla, Dina J.",CA,03,13378,Peace And Freedom
+2008_CA_03,2008,"Tuma, Douglas Arthur",CA,03,7273,Libertarian
+2008_CA_04,2008,"McClintock, Tom",CA,04,185790,Republican
+2008_CA_04,2008,"Brown, Charlie",CA,04,183990,Democratic
+2008_CA_05,2008,"Matsui, Doris",CA,05,164242,Democratic
+2008_CA_05,2008,"Smith, Paul A.",CA,05,46002,Republican
+2008_CA_05,2008,"Roberts, L. R.",CA,05,10731,Peace And Freedom
+2008_CA_05,2008,"Lynch, David B.",CA,05,180,Write-In
+2008_CA_06,2008,"Woolsey, Lynn",CA,06,229672,Democratic
+2008_CA_06,2008,"Halliwell, Michael",CA,06,77073,Republican
+2008_CA_06,2008,"Smolen, Joel R.",CA,06,13617,Libertarian
+2008_CA_07,2008,"Miller, George",CA,07,170962,Democratic
+2008_CA_07,2008,"Petersen, Roger Allen",CA,07,51166,Republican
+2008_CA_07,2008,"Callison, Bill",CA,07,6695,Peace And Freedom
+2008_CA_07,2008,"McConnell, Camden",CA,07,5950,Libertarian
+2008_CA_08,2008,"Pelosi, Nancy",CA,08,204996,Democratic
+2008_CA_08,2008,"Sheehan, Cindy",CA,08,46118,Independent
+2008_CA_08,2008,"Walsh, Dana",CA,08,27614,Republican
+2008_CA_08,2008,"Berg, Philip Z.",CA,08,6504,Libertarian
+2008_CA_08,2008,"Sherman, Lea",CA,08,11,Write-In
+2008_CA_08,2008,"Clay, Michelle Wong",CA,08,4,Write-In
+2008_CA_09,2008,"Lee, Barbara",CA,09,238915,Democratic
+2008_CA_09,2008,"Hargrave, Charles",CA,09,26917,Republican
+2008_CA_09,2008,"Eyer, James M.",CA,09,11704,Libertarian
+2008_CA_09,2008,"Heller, David",CA,09,37,Write-In
+2008_CA_09,2008,"Kula, Christopher",CA,09,27,Write-In
+2008_CA_10,2008,"Tauscher, Ellen O.",CA,10,192226,Democratic
+2008_CA_10,2008,"Gerber, Nicholas",CA,10,91877,Republican
+2008_CA_10,2008,"Ruyle, Eugene E.",CA,10,11062,Peace And Freedom
+2008_CA_11,2008,"McNerney, Jerry",CA,11,164500,Democratic
+2008_CA_11,2008,"Andal, Dean",CA,11,133104,Republican
+2008_CA_11,2008,"Christensen, David",CA,11,12,Write-In
+2008_CA_12,2008,"Speier, Jackie",CA,12,200442,Democratic
+2008_CA_12,2008,"Conlon, Greg",CA,12,49258,Republican
+2008_CA_12,2008,"Hrizi, Nathalie",CA,12,5793,Peace And Freedom
+2008_CA_12,2008,"Hermanson, Barry",CA,12,5776,Green
+2008_CA_12,2008,"Peterson, Kevin Dempsey",CA,12,5584,Libertarian
+2008_CA_13,2008,"Stark, Fortney",CA,13,166829,Democratic
+2008_CA_13,2008,"Chui, Raymond",CA,13,51447,Republican
+2008_CA_14,2008,"Eshoo, Anna G.",CA,14,190301,Democratic
+2008_CA_14,2008,"Santana, Ronny",CA,14,60610,Republican
+2008_CA_14,2008,"Holtz, Brian",CA,14,11929,Libertarian
+2008_CA_14,2008,"Brouillet, Carol",CA,14,9926,Green
+2008_CA_15,2008,"Honda, Mike",CA,15,170977,Democratic
+2008_CA_15,2008,"Cordi, Joyce Stoer",CA,15,55489,Republican
+2008_CA_15,2008,"Myers, Peter",CA,15,12123,Green
+2008_CA_16,2008,"Lofgren, Zoe",CA,16,146481,Democratic
+2008_CA_16,2008,"Winston, Charel",CA,16,49399,Republican
+2008_CA_16,2008,"Wells, Steven",CA,16,9447,Libertarian
+2008_CA_17,2008,"Farr, Sam",CA,17,168907,Democratic
+2008_CA_17,2008,"Taylor, Jeff",CA,17,59037,Republican
+2008_CA_17,2008,"Andresen, Peter",CA,17,682,Write-In
+2008_CA_18,2008,"Cardoza, Dennis A.",CA,18,130192,Democratic
+2008_CA_19,2008,"Radanovich, George P.",CA,19,179245,Republican
+2008_CA_19,2008,"Leinau, Peter",CA,19,2490,Write-In
+2008_CA_19,2008,"Rockey, Phil",CA,19,366,Write-In
+2008_CA_20,2008,"Costa, Jim",CA,20,93023,Democratic
+2008_CA_20,2008,"Lopez, Jim",CA,20,32118,Republican
+2008_CA_21,2008,"Nunes, Devin G.",CA,21,143498,Republican
+2008_CA_21,2008,"Johnson, Larry",CA,21,66317,Democratic
+2008_CA_22,2008,"McCarthy, Kevin",CA,22,224549,Republican
+2008_CA_23,2008,"Capps, Lois",CA,23,171403,Democratic
+2008_CA_23,2008,"Kokkonen, Matt T.",CA,23,80385,Republican
+2008_CA_24,2008,"Gallegly, Elton",CA,24,174492,Republican
+2008_CA_24,2008,"Jorgensen, Marta Ann",CA,24,125560,Democratic
+2008_CA_25,2008,"McKeon, Howard P. ""Buck""",CA,25,144660,Republican
+2008_CA_25,2008,"Conaway, Jackie",CA,25,105929,Democratic
+2008_CA_26,2008,"Dreier, David",CA,26,140615,Republican
+2008_CA_26,2008,"Warner, Russ",CA,26,108039,Democratic
+2008_CA_26,2008,"Brown, Ted",CA,26,18476,Libertarian
+2008_CA_27,2008,"Sherman, Brad",CA,27,145812,Democratic
+2008_CA_27,2008,"Singh, Navraj",CA,27,52852,Republican
+2008_CA_27,2008,"Denton, Tim",CA,27,14171,Libertarian
+2008_CA_28,2008,"Berman, Howard L.",CA,28,137471,Democratic
+2008_CA_28,2008,"Koch, Michael J.",CA,28,150,Write-In
+2008_CA_29,2008,"Schiff, Adam B.",CA,29,146198,Democratic
+2008_CA_29,2008,"Hahn, Charles",CA,29,56727,Republican
+2008_CA_29,2008,"Pyeatt, Alan",CA,29,9219,Libertarian
+2008_CA_30,2008,"Waxman, Henry A.",CA,30,242792,Democratic
+2008_CA_31,2008,"Becerra, Xavier",CA,31,110955,Democratic
+2008_CA_32,2008,"Solis, Hilda L.",CA,32,130142,Democratic
+2008_CA_32,2008,"Osunwa, Innocent O.",CA,32,8,Write-In
+2008_CA_33,2008,"Watson, Diane E.",CA,33,186924,Democratic
+2008_CA_33,2008,"Crowley, David C., II",CA,33,26536,Republican
+2008_CA_34,2008,"Roybal-Allard, Lucille",CA,34,98503,Democratic
+2008_CA_34,2008,"Balding, Christopher",CA,34,29266,Republican
+2008_CA_35,2008,"Waters, Maxine",CA,35,150778,Democratic
+2008_CA_35,2008,"Hayes, Ted",CA,35,24169,Republican
+2008_CA_35,2008,"Peters, Herb",CA,35,7632,Libertarian
+2008_CA_36,2008,"Harman, Jane",CA,36,171948,Democratic
+2008_CA_36,2008,"Gibson, Brian",CA,36,78543,Republican
+2008_CA_37,2008,"Richardson, Laura",CA,37,131342,Democratic
+2008_CA_37,2008,"Davis, Lee",CA,37,10,"Democratic,Write-In"
+2008_CA_37,2008,"Dibs, Nicholas ""Nick""",CA,37,42774,Independent
+2008_CA_37,2008,"Mathews, Peter",CA,37,600,Write-In
+2008_CA_37,2008,"Pouesi, June Viena",CA,37,526,Write-In
+2008_CA_38,2008,"Napolitano, Grace F.",CA,38,130211,Democratic
+2008_CA_38,2008,"Agrella, Christopher M.",CA,38,29113,Libertarian
+2008_CA_39,2008,"Sanchez, Linda T.",CA,39,125289,Democratic
+2008_CA_39,2008,"Lenning, Diane A.",CA,39,54533,Republican
+2008_CA_40,2008,"Royce, Ed",CA,40,144923,Republican
+2008_CA_40,2008,"Avalos, Christina",CA,40,86772,Democratic
+2008_CA_41,2008,"Lewis, Jerry",CA,41,159486,Republican
+2008_CA_41,2008,"Prince, Tim",CA,41,99214,Democratic
+2008_CA_42,2008,"Miller, Gary G.",CA,42,158404,Republican
+2008_CA_42,2008,"Chau, Edwin ""Ed""",CA,42,104909,Democratic
+2008_CA_43,2008,"Baca, Joe",CA,43,108259,Democratic
+2008_CA_43,2008,"Roberts, John",CA,43,48312,Republican
+2008_CA_44,2008,"Calvert, Ken",CA,44,129937,Republican
+2008_CA_44,2008,"Hedrick, Bill",CA,44,123890,Democratic
+2008_CA_45,2008,"Mack, Mary Bono",CA,45,155166,Republican
+2008_CA_45,2008,"Bornstein, Julie",CA,45,111026,Democratic
+2008_CA_46,2008,"Rohrabacher, Dana",CA,46,149818,Republican
+2008_CA_46,2008,"Cook, Debbie",CA,46,122891,Democratic
+2008_CA_46,2008,"Lash, Thomas",CA,46,8257,Green
+2008_CA_46,2008,"Gasteiger, Ernst P.",CA,46,4311,Libertarian
+2008_CA_47,2008,"Sanchez, Loretta",CA,47,85878,Democratic
+2008_CA_47,2008,"Avila, Rosemarie ""Rosie""",CA,47,31432,Republican
+2008_CA_47,2008,"Lauten, Robert",CA,47,6274,American Independent
+2008_CA_48,2008,"Campbell, John",CA,48,171658,Republican
+2008_CA_48,2008,"Young, Steve",CA,48,125537,Democratic
+2008_CA_48,2008,"Patterson, Don",CA,48,11507,Libertarian
+2008_CA_49,2008,"Issa, Darrell",CA,49,140300,Republican
+2008_CA_49,2008,"Hamilton, Robert",CA,49,90138,Democratic
+2008_CA_49,2008,"Grossmith, Lars R.",CA,49,10232,Libertarian
+2008_CA_50,2008,"Bilbray, Brian",CA,50,157502,Republican
+2008_CA_50,2008,"Leibham, Nick",CA,50,141635,Democratic
+2008_CA_50,2008,"Dunlap, Wayne",CA,50,14365,Libertarian
+2008_CA_51,2008,"Filner, Bob",CA,51,148281,Democratic
+2008_CA_51,2008,"Joy, David Lee",CA,51,49345,Republican
+2008_CA_51,2008,"Litwin, Dan ""Frodo""",CA,51,6199,Libertarian
+2008_CA_52,2008,"Hunter, Duncan D.",CA,52,160724,Republican
+2008_CA_52,2008,"Lumpkin, Mike",CA,52,111051,Democratic
+2008_CA_52,2008,"Benoit, Michael",CA,52,13316,Libertarian
+2008_CA_52,2008,"Ryan, Joseph M.",CA,52,47,Write-In
+2008_CA_53,2008,"Davis, Susan A.",CA,53,161315,Democratic
+2008_CA_53,2008,"Crimmins, Michael",CA,53,64658,Republican
+2008_CA_53,2008,"Teyssier, Edward M.",CA,53,9569,Libertarian
+2008_CO_01,2008,"DeGette, Diana",CO,01,203756,Democratic
+2008_CO_01,2008,"Lilly, George C.",CO,01,67346,Republican
+2008_CO_01,2008,"Buchanan, Martin L.",CO,01,12136,Libertarian
+2008_CO_01,2008,"Swing, Gary",CO,01,11,Write-In
+2008_CO_02,2008,"Polis, Jared",CO,02,215602,Democratic
+2008_CO_02,2008,"Starin, Scott",CO,02,116619,Republican
+2008_CO_02,2008,"Calhoun, J. A.",CO,02,10031,Green
+2008_CO_02,2008,"Hammons, William Robert ""Bill""",CO,02,2176,Unity Party of America
+2008_CO_03,2008,"Salazar, John T.",CO,03,203457,Democratic
+2008_CO_03,2008,"Wolf, Wayne",CO,03,126762,Republican
+2008_CO_04,2008,"Markey, Betsy",CO,04,187348,Democratic
+2008_CO_04,2008,"Musgrave, Marilyn N.",CO,04,146030,Republican
+2008_CO_05,2008,"Bidlack, Hal",CO,05,113027,Democratic
+2008_CO_05,2008,"Lamborn, Doug",CO,05,183179,Republican
+2008_CO_05,2008,"Scott, Brian X.",CO,05,8894,American Constitution Party
+2008_CO_05,2008,"Hand, Rich",CO,05,45,Write-In
+2008_CO_06,2008,"Coffman, Mike",CO,06,250877,Republican
+2008_CO_06,2008,"Eng, Hank",CO,06,162641,Democratic
+2008_CO_07,2008,"Perlmutter, Ed",CO,07,173937,Democratic
+2008_CO_07,2008,"Lerew, John W.",CO,07,100057,Republican
+2008_CO_S,2008,"Udall, Mark",CO,S,1231049,Democratic
+2008_CO_S,2008,"Schaffer, Bob",CO,S,990784,Republican
+2008_CO_S,2008,"Campbell, Douglas ""Dayhorse""",CO,S,59736,American Constitution Party
+2008_CO_S,2008,"Kinsey, Bob",CO,S,50008,Green
+2008_CO_S,2008,"Moore, Buddy",CO,S,116,Write-In
+2008_CO_S,2008,"Cooper, Gary",CO,S,10,Write-In
+2008_CO_S,2008,"Lohmiller, Bruce E.",CO,S,9,Write-In
+2008_CT_01,2008,"Larson, John B.",CT,01,211493,"Democratic,Working Families"
+2008_CT_01,2008,"Visconti, Joe",CT,01,76860,Republican
+2008_CT_01,2008,"Fournier, Stephen E.D.",CT,01,7201,Green
+2008_CT_01,2008,"Coleman, Matthew",CT,01,3,Write-In
+2008_CT_02,2008,"Courtney, Joe",CT,02,212148,"Democratic,Working Families"
+2008_CT_02,2008,"Sullivan, Sean",CT,02,104574,Republican
+2008_CT_02,2008,"Deshefy, G. Scott",CT,02,6300,Green
+2008_CT_02,2008,"Vachon, Todd",CT,02,19,Write-In
+2008_CT_03,2008,"DeLauro, Rosa L.",CT,03,230172,"Democratic,Working Families"
+2008_CT_03,2008,"Itshaky, Bo",CT,03,58583,Republican
+2008_CT_03,2008,"Ferrucci, Ralph A.",CT,03,8613,Green
+2008_CT_04,2008,"Himes, Jim",CT,04,158475,"Democratic,Working Families"
+2008_CT_04,2008,"Shays, Christopher",CT,04,146854,Republican
+2008_CT_04,2008,"Carrano, Michael Anthony",CT,04,2049,Libertarian
+2008_CT_04,2008,"Duffee, Richard Z.",CT,04,1388,Green
+2008_CT_04,2008,"Flanagan, Eugene",CT,04,10,Write-In
+2008_CT_05,2008,"Murphy, Chris",CT,05,179327,"Democratic,Working Families"
+2008_CT_05,2008,"Cappiello, David J.",CT,05,117914,Republican
+2008_CT_05,2008,"Winn, Thomas L.",CT,05,3082,Independent
+2008_CT_05,2008,"Burbank, Harold H., II",CT,05,2324,Green
+2008_CT_05,2008,"Gengarelly, Walter",CT,05,10,Write-In
+2008_DE_00,2008,"Castle, Michael N.",DE,00,235437,Republican
+2008_DE_00,2008,"Hartley-Nagle, Karen",DE,00,146434,Democratic
+2008_DE_00,2008,"Parks, Mark Anthony",DE,00,3586,Libertarian
+2008_DE_S,2008,"Biden, Joseph R., Jr.",DE,S,257539,Democratic
+2008_DE_S,2008,"O'Donnell, Christine",DE,S,140595,Republican
+2008_FL_01,2008,"Miller, Jeff",FL,01,232559,Republican
+2008_FL_01,2008,"Bryan, James Jim",FL,01,98797,Democratic
+2008_FL_02,2008,"Boyd, Allen",FL,02,216804,Democratic
+2008_FL_02,2008,"Mulligan, Mark",FL,02,133404,Republican
+2008_FL_02,2008,"Ortiz, Robert",FL,02,159,Write-In
+2008_FL_03,2008,"Brown, Corrine",FL,03,Unopposed,Democratic
+2008_FL_04,2008,"Crenshaw, Ander",FL,04,224112,Republican
+2008_FL_04,2008,"McGovern, Jay",FL,04,119330,Democratic
+2008_FL_05,2008,"Brown-Waite, Virginia ""Ginny""",FL,05,265186,Republican
+2008_FL_05,2008,"Russell, John",FL,05,168446,Democratic
+2008_FL_06,2008,"Stearns, Clifford B. (Cliff)",FL,06,228302,Republican
+2008_FL_06,2008,"Cunha, Tim",FL,06,146655,Democratic
+2008_FL_07,2008,"Mica, John L.",FL,07,238721,Republican
+2008_FL_07,2008,"Armitage, Faye",FL,07,146292,Democratic
+2008_FL_08,2008,"Grayson, Alan",FL,08,172854,Democratic
+2008_FL_08,2008,"Keller, Ric",FL,08,159490,Republican
+2008_FL_09,2008,"Bilirakis, Gus Michael",FL,09,216591,Republican
+2008_FL_09,2008,"Mitchell, Bill",FL,09,126346,Democratic
+2008_FL_09,2008,"Kalimnios, John (Johnny K.)",FL,09,3394,No Party Affiliation
+2008_FL_09,2008,"Emmons, Richard O.",FL,09,2042,Term Limits for the United States Congress Party
+2008_FL_09,2008,"Pasayan, Andrew",FL,09,5,Write-In
+2008_FL_10,2008,"Young, C. W. Bill",FL,10,182781,Republican
+2008_FL_10,2008,"Hackworth, Bob",FL,10,118430,Democratic
+2008_FL_10,2008,"Callahan, Don",FL,10,9,Write-In
+2008_FL_11,2008,"Castor, Kathy",FL,11,184106,Democratic
+2008_FL_11,2008,"Adams, Eddie, Jr.",FL,11,72825,Republican
+2008_FL_12,2008,"Putnam, Adam H.",FL,12,185698,Republican
+2008_FL_12,2008,"Tudor, Doug",FL,12,137465,Democratic
+2008_FL_13,2008,"Buchanan, Vern",FL,13,204382,Republican
+2008_FL_13,2008,"Jennings, Christine",FL,13,137967,Democratic
+2008_FL_13,2008,"Schneider, Jan",FL,13,20289,No Party Affiliation
+2008_FL_13,2008,"Baldauf, Don",FL,13,5358,No Party Affiliation
+2008_FL_14,2008,"Mack, Connie",FL,14,224602,Republican
+2008_FL_14,2008,"Neeld, Robert M.",FL,14,93590,Democratic
+2008_FL_14,2008,"Saunders, Burt",FL,14,54750,No Party Affiliation
+2008_FL_14,2008,"George, Jeff",FL,14,4949,No Party Affiliation
+2008_FL_15,2008,"Posey, Bill",FL,15,192151,Republican
+2008_FL_15,2008,"Blythe, Stephen",FL,15,151951,Democratic
+2008_FL_15,2008,"Zilaitis, Frank",FL,15,14274,No Party Affiliation
+2008_FL_15,2008,"Lowing, Trevor",FL,15,3495,No Party Affiliation
+2008_FL_16,2008,"Rooney, Tom",FL,16,209874,Republican
+2008_FL_16,2008,"Mahoney, Tim",FL,16,139373,Democratic
+2008_FL_17,2008,"Meek, Kendrick B.",FL,17,Unopposed,Democratic
+2008_FL_18,2008,"Ros-Lehtinen, Ileana",FL,18,140617,Republican
+2008_FL_18,2008,"Taddeo, Annette",FL,18,102372,Democratic
+2008_FL_19,2008,"Wexler, Robert",FL,19,202465,Democratic
+2008_FL_19,2008,"Lynch, Edward J.",FL,19,83357,Republican
+2008_FL_19,2008,"Graber, Ben",FL,19,20214,No Party Affiliation
+2008_FL_20,2008,"Schultz, Debbie Wasserman",FL,20,202832,Democratic
+2008_FL_20,2008,"Hostetter, Margaret",FL,20,58958,No Party Affiliation
+2008_FL_20,2008,"Luzietti, Marc",FL,20,9,Write-In
+2008_FL_21,2008,"Diaz-Balart, Lincoln",FL,21,137226,Republican
+2008_FL_21,2008,"Martinez, Raul L.",FL,21,99776,Democratic
+2008_FL_22,2008,"Klein, Ron",FL,22,169041,Democratic
+2008_FL_22,2008,"West, Allen",FL,22,140104,Republican
+2008_FL_22,2008,"Blass, Piotr",FL,22,6,Write-In
+2008_FL_23,2008,"Hastings, Alcee L.",FL,23,172835,Democratic
+2008_FL_23,2008,"Thorpe, Marion D., Jr.",FL,23,37431,Republican
+2008_FL_23,2008,"Cook, April",FL,23,40,Write-In
+2008_FL_24,2008,"Kosmas, Suzanne M.",FL,24,211284,Democratic
+2008_FL_24,2008,"Feeney, Tom",FL,24,151863,Republican
+2008_FL_24,2008,"Bhola, Gaurav",FL,24,6223,No Party Affiliation
+2008_FL_25,2008,"Diaz-Balart, Mario",FL,25,130891,Republican
+2008_FL_25,2008,"Garcia, Joe",FL,25,115820,Democratic
+2008_GA_01,2008,"Kingston, Jack",GA,01,165890,Republican
+2008_GA_01,2008,"Gillespie, Bill",GA,01,83444,Democratic
+2008_GA_02,2008,"Bishop, Sanford",GA,02,158435,Democratic
+2008_GA_02,2008,"Ferrell, Lee",GA,02,71351,Republican
+2008_GA_03,2008,"Westmoreland, Lynn",GA,03,225055,Republican
+2008_GA_03,2008,"Camp, Stephen",GA,03,117522,Democratic
+2008_GA_03,2008,"VanPelt, Loretta",GA,03,3,Write-In
+2008_GA_04,2008,"Johnson, Henry C. ""Hank,"" Jr.",GA,04,224494,Democratic
+2008_GA_04,2008,"Collins, Loren Christopher",GA,04,159,Write-In
+2008_GA_04,2008,"Coffield, Faye",GA,04,35,Write-In
+2008_GA_04,2008,"Perasso, Jacob",GA,04,6,Write-In
+2008_GA_05,2008,"Lewis, John",GA,05,231368,Democratic
+2008_GA_05,2008,"Kash, Shira",GA,05,81,Write-In
+2008_GA_05,2008,"Fitzmaurice, Jeanne",GA,05,25,Write-In
+2008_GA_06,2008,"Price, Tom",GA,06,231520,Republican
+2008_GA_06,2008,"Jones, Bill",GA,06,106551,Democratic
+2008_GA_07,2008,"Linder, John",GA,07,209354,Republican
+2008_GA_07,2008,"Heckman, Doug",GA,07,128159,Democratic
+2008_GA_08,2008,"Marshall, Jim",GA,08,157241,Democratic
+2008_GA_08,2008,"Goddard, Rick",GA,08,117446,Republican
+2008_GA_09,2008,"Deal, Nathan",GA,09,217493,Republican
+2008_GA_09,2008,"Scott, Jeff",GA,09,70537,Democratic
+2008_GA_10,2008,"Broun, Paul",GA,10,177265,Republican
+2008_GA_10,2008,"Saxon, Bobby",GA,10,114638,Democratic
+2008_GA_11,2008,"Gingrey, Phil",GA,11,204082,Republican
+2008_GA_11,2008,"Gammon, Hugh ""Bud""",GA,11,95220,Democratic
+2008_GA_12,2008,"Barrow, John",GA,12,164562,Democratic
+2008_GA_12,2008,"Stone, John",GA,12,84773,Republican
+2008_GA_13,2008,"Scott, David",GA,13,205919,Democratic
+2008_GA_13,2008,"Honeycutt, Deborah",GA,13,92320,Republican
+2008_GA_S,2008,"Chambliss, Saxby",GA,S,1867097,Republican
+2008_GA_S,2008,"Martin, Jim",GA,S,1757393,Democratic
+2008_GA_S,2008,"Buckley, Allen",GA,S,127923,Libertarian
+2008_GA_S,2008,"Garcia, Eleanor",GA,S,43,Write-In
+2008_GA_S,2008,"Salomone, William, Jr.",GA,S,29,Write-In
+2008_HI_01,2008,"Abercrombie, Neil",HI,01,154208,Democratic
+2008_HI_01,2008,"Tataii, Steve",HI,01,38115,Republican
+2008_HI_01,2008,"Zhao, Li",HI,01,7594,Libertarian
+2008_HI_02,2008,"Hirono, Mazie",HI,02,165748,Democratic
+2008_HI_02,2008,"Evans, Roger B.",HI,02,44425,Republican
+2008_HI_02,2008,"Stenshol, Shaun",HI,02,4042,Independent
+2008_HI_02,2008,"Mallan, Lloyd J. (Jeff)",HI,02,3699,Libertarian
+2008_ID_01,2008,"Minnick, Walt",ID,01,175898,Democratic
+2008_ID_01,2008,"Sali, Bill",ID,01,171687,Republican
+2008_ID_02,2008,"Simpson, Mike",ID,02,205777,Republican
+2008_ID_02,2008,"Holmes, Deborah",ID,02,83878,Democratic
+2008_ID_02,2008,"Nemitz, Gregory",ID,02,612,Write-In
+2008_ID_S,2008,"Risch, Jim",ID,S,371744,Republican
+2008_ID_S,2008,"LaRocco, Larry",ID,S,219903,Democratic
+2008_ID_S,2008,"Volkmann, Kevin",ID,S,3,"Write-In,Democratic,Write-In"
+2008_ID_S,2008,"Rammell, Rex",ID,S,34510,Independent
+2008_ID_S,2008,"Marmon, Kent A.",ID,S,9958,Libertarian
+2008_ID_S,2008,Pro-Life,ID,S,8662,Independent
+2008_IL_01,2008,"Rush, Bobby L.",IL,01,233036,Democratic
+2008_IL_01,2008,"Members, Antoine",IL,01,38361,Republican
+2008_IL_02,2008,"Jackson, Jesse L., Jr.",IL,02,251052,Democratic
+2008_IL_02,2008,"Williams, Anthony W.",IL,02,29721,Republican
+2008_IL_02,2008,"Peoples, Nathan",IL,02,3,Write-In
+2008_IL_03,2008,"Lipinski, Daniel William",IL,03,172581,Democratic
+2008_IL_03,2008,"Hawkins, Michael",IL,03,50336,Republican
+2008_IL_03,2008,"Pohlen, Jerome",IL,03,12607,Green
+2008_IL_04,2008,"Gutierrez, Luis V.",IL,04,112529,Democratic
+2008_IL_04,2008,"Cunningham, Daniel",IL,04,16024,Republican
+2008_IL_04,2008,"López, Omar N.",IL,04,11053,Green
+2008_IL_05,2008,"Emanuel, Rahm",IL,05,170728,Democratic
+2008_IL_05,2008,"Hanson, Tom",IL,05,50881,Republican
+2008_IL_05,2008,"Augustson, Alan",IL,05,9283,Green
+2008_IL_06,2008,"Roskam, Peter J.",IL,06,147906,Republican
+2008_IL_06,2008,"Morgenthaler, Jill",IL,06,109007,Democratic
+2008_IL_07,2008,"Davis, Danny K.",IL,07,235343,Democratic
+2008_IL_07,2008,"Miller, Steve",IL,07,41474,Republican
+2008_IL_08,2008,"Bean, Melissa",IL,08,179444,Democratic
+2008_IL_08,2008,"Greenberg, Steve",IL,08,116081,Republican
+2008_IL_09,2008,"Schakowsky, Janice D.",IL,09,181948,Democratic
+2008_IL_09,2008,"Younan, Michael Benjamin",IL,09,53593,Republican
+2008_IL_09,2008,"Shanfield, Morris",IL,09,8140,Green
+2008_IL_09,2008,"Atanus, Susanne",IL,09,13,Write-In
+2008_IL_10,2008,"Kirk, Mark Steven",IL,10,153082,Republican
+2008_IL_10,2008,"Seals, Daniel J.",IL,10,138176,Democratic
+2008_IL_11,2008,"Halvorson, Deborah ""Debbie""",IL,11,185652,Democratic
+2008_IL_11,2008,"Ozinga, Marty ",IL,11,109608,Republican
+2008_IL_11,2008,"Wallace, Jason M.",IL,11,22635,Green
+2008_IL_12,2008,"Costello, Jerry F.",IL,12,212891,Democratic
+2008_IL_12,2008,"Richardson, Timmy Jay, Jr.",IL,12,74382,Republican
+2008_IL_12,2008,"Jennings, Rodger W.",IL,12,10907,Green
+2008_IL_12,2008,"Wiegand, Harold",IL,12,1,Write-In
+2008_IL_13,2008,"Biggert, Judy",IL,13,180888,Republican
+2008_IL_13,2008,"Harper, Scott",IL,13,147430,Democratic
+2008_IL_13,2008,"Alesch, Steve",IL,13,9402,Green
+2008_IL_13,2008,"Knapp, Theodore",IL,13,51,Write-In
+2008_IL_14,2008,"Foster, Bill",IL,14,185404,Democratic
+2008_IL_14,2008,"Oberweis, Jim",IL,14,135653,Republican
+2008_IL_15,2008,"Johnson, Timothy V.",IL,15,187121,Republican
+2008_IL_15,2008,"Cox, Steve",IL,15,104393,Democratic
+2008_IL_16,2008,"Manzullo, Donald A.",IL,16,190039,Republican
+2008_IL_16,2008,"Abboud, Robert G.",IL,16,112648,Democratic
+2008_IL_16,2008,"Summers, Scott",IL,16,9533,Green
+2008_IL_17,2008,"Hare, Phil",IL,17,220961,Democratic
+2008_IL_17,2008,"Lioen, Mark Edward",IL,17,517,Write-In
+2008_IL_18,2008,"Schock, Aaron",IL,18,182589,Republican
+2008_IL_18,2008,"Callahan, Colleen",IL,18,117642,Democratic
+2008_IL_18,2008,"Schafer, Sheldon",IL,18,9857,Green
+2008_IL_19,2008,"Shimkus, John M.",IL,19,203434,Republican
+2008_IL_19,2008,"Davis, Daniel",IL,19,105338,Democratic
+2008_IL_19,2008,"Dennis, Troy ",IL,19,6817,Green
+2008_IL_S,2008,"Durbin, Richard J.",IL,S,3615844,Democratic
+2008_IL_S,2008,"Sauerberg, Steve",IL,S,1520621,Republican
+2008_IL_S,2008,"Cummings, Kathy",IL,S,119135,Green
+2008_IL_S,2008,"Stafford, Larry A.",IL,S,50224,Libertarian
+2008_IL_S,2008,"Koppie, Chad N.",IL,S,24059,Constitution Party of Illinois
+2008_IL_S,2008,"Beard, Patricia Elaine",IL,S,1,Write-In
+2008_IN_01,2008,"Visclosky, Peter J.",IN,01,199954,Democratic
+2008_IN_01,2008,"Leyva, Mark",IN,01,76647,Republican
+2008_IN_01,2008,"Duensing, Jeff",IN,01,5421,Libertarian
+2008_IN_02,2008,"Donnelly, Joe",IN,02,187416,Democratic
+2008_IN_02,2008,"Puckett, Luke",IN,02,84455,Republican
+2008_IN_02,2008,"Vogel, Mark",IN,02,7475,Libertarian
+2008_IN_03,2008,"Souder, Mark Edward",IN,03,155693,Republican
+2008_IN_03,2008,"Montagano, Michael A. (Mike)",IN,03,112309,Democratic
+2008_IN_03,2008,"Larsen, William R.",IN,03,14877,Libertarian
+2008_IN_04,2008,"Buyer, Steve",IN,04,192526,Republican
+2008_IN_04,2008,"Ackerson, Nels",IN,04,129038,Democratic
+2008_IN_05,2008,"Burton, Dan",IN,05,234705,Republican
+2008_IN_05,2008,"Ruley, Mary Etta",IN,05,123357,Democratic
+2008_IN_06,2008,"Pence, Mike",IN,06,180608,Republican
+2008_IN_06,2008,"Welsh, Barry A.",IN,06,94265,Democratic
+2008_IN_06,2008,"Holland, George T.",IN,06,7539,Libertarian
+2008_IN_07,2008,"Carson, Andre D.",IN,07,172650,Democratic
+2008_IN_07,2008,"Campo, Gabrielle ",IN,07,92645,Republican
+2008_IN_07,2008,"Suits, Delbert",IN,07,4,Write-In
+2008_IN_08,2008,"Ellsworth, Brad",IN,08,188693,Democratic
+2008_IN_08,2008,"Goode, Greg",IN,08,102769,Republican
+2008_IN_09,2008,"Hill, Baron P.",IN,09,181281,Democratic
+2008_IN_09,2008,"Sodrel, Mike",IN,09,120529,Republican
+2008_IN_09,2008,"Schansberg, D. Eric",IN,09,11994,Libertarian
+2008_IA_01,2008,"Braley, Bruce",IA,01,186991,Democratic
+2008_IA_01,2008,"Hartusch, David",IA,01,102439,Republican
+2008_IA_02,2008,"Loebsack, Dave",IA,02,175218,Democratic
+2008_IA_02,2008,"Miller-Meeks, Mariannette",IA,02,118778,Republican
+2008_IA_02,2008,"Barth, Wendy",IA,02,6664,Green
+2008_IA_02,2008,"White, Brian",IA,02,5437,Nominated by Petition
+2008_IA_03,2008,"Boswell, Leonard L.",IA,03,176904,Democratic
+2008_IA_03,2008,"Schmett, Kim",IA,03,132136,Republican
+2008_IA_03,2008,"Forrestal, Frank V.",IA,03,4599,Socialist Workers Party
+2008_IA_04,2008,"Latham, Tom",IA,04,185458,Republican
+2008_IA_04,2008,"Greenwald, Becky",IA,04,120746,Democratic
+2008_IA_05,2008,"King, Steve",IA,05,159430,Republican
+2008_IA_05,2008,"Hubler, Rob",IA,05,99601,Democratic
+2008_IA_05,2008,"Vara, Victor",IA,05,7406,Independent
+2008_IA_S,2008,"Harkin, Tom",IA,S,941665,Democratic
+2008_IA_S,2008,"Reed, Christopher",IA,S,560006,Republican
+2008_KS_01,2008,"Moran, Jerry",KS,01,214549,Republican
+2008_KS_01,2008,"Bordonaro, James",KS,01,34771,Democratic
+2008_KS_01,2008,"Burton, Kathleen M.",KS,01,7145,Reform
+2008_KS_01,2008,"Warner, Jack",KS,01,5562,Libertarian
+2008_KS_02,2008,"Jenkins, Lynn",KS,02,155532,Republican
+2008_KS_02,2008,"Boyda, Nancy E.",KS,02,142013,Democratic
+2008_KS_02,2008,"Martin, Leslie S.",KS,02,5080,Reform
+2008_KS_02,2008,"Garrard, Robert",KS,02,4683,Libertarian
+2008_KS_03,2008,"Moore, Dennis",KS,03,202541,Democratic
+2008_KS_03,2008,"Jordan, Nick",KS,03,142307,Republican
+2008_KS_03,2008,"Bellis, Joe",KS,03,10073,Libertarian
+2008_KS_03,2008,"Tucker, Roger D.",KS,03,3937,Reform
+2008_KS_04,2008,"Tiahrt, Todd",KS,04,177617,Republican
+2008_KS_04,2008,"Betts, Donald, Jr.",KS,04,90706,Democratic
+2008_KS_04,2008,"Ducey, Susan G.",KS,04,6441,Reform
+2008_KS_04,2008,"Rosile, Steven A.",KS,04,5345,Libertarian
+2008_KS_S,2008,"Roberts, Pat",KS,S,727121,Republican
+2008_KS_S,2008,"Slattery, Jim",KS,S,441399,Democratic
+2008_KS_S,2008,"Hodgkinson, Randall L.",KS,S,25727,Libertarian
+2008_KS_S,2008,"Martin, Joseph L.",KS,S,16443,Reform
+2008_KY_01,2008,"Whitfield, Edward",KY,01,178107,Republican
+2008_KY_01,2008,"Ryan, Heather A.",KY,01,98674,Democratic
+2008_KY_01,2008,"Hatchett, Charles K.",KY,01,5,Write-In
+2008_KY_02,2008,"Guthrie, S. Brett",KY,02,158936,Republican
+2008_KY_02,2008,"Boswell, David E.",KY,02,143379,Democratic
+2008_KY_03,2008,"Yarmuth, John",KY,03,203843,Democratic
+2008_KY_03,2008,"Northup, Anne M.",KY,03,139527,Republican
+2008_KY_04,2008,"Davis, Geoff",KY,04,190210,Republican
+2008_KY_04,2008,"Kelley, Michael",KY,04,111549,Democratic
+2008_KY_05,2008,"Rogers, Harold ""Hal""",KY,05,177024,Republican
+2008_KY_05,2008,"Holbert, Jim",KY,05,33444,Independent
+2008_KY_06,2008,"Chandler, Ben",KY,06,203764,Democratic
+2008_KY_06,2008,"Larson, Jon",KY,06,111378,Republican
+2008_KY_S,2008,"McConnell, Mitch",KY,S,953816,Republican
+2008_KY_S,2008,"Lunsford, Bruce",KY,S,847005,Democratic
+2008_LA_01,2008,"Scalise, ""Steve""",LA,01,189168,Republican
+2008_LA_01,2008,"Harlan, ""Jim""",LA,01,98839,Democratic
+2008_LA_02,2008,"Cao, Anh ""Joseph""",LA,02,33132,Republican
+2008_LA_02,2008,"Jefferson, William J.",LA,02,31318,Democratic
+2008_LA_02,2008,"Rahim, Malik",LA,02,1883,Green
+2008_LA_02,2008,"Kahn, Gregory W.",LA,02,549,Libertarian
+2008_LA_03,2008,"Melancon, ""Charlie""",LA,03,Unopposed,Democratic
+2008_LA_04,2008,"Fleming, John",LA,04,44501,Republican
+2008_LA_04,2008,"Carmouche, Paul J.",LA,04,44151,Democratic
+2008_LA_04,2008,"Kelley, Chester T. ""Catfish""",LA,04,3245,No Party Affiliation
+2008_LA_04,2008,"Bowen, Gerard J.",LA,04,675,Other
+2008_LA_05,2008,"Alexander, Rodney",LA,05,Unopposed,Republican
+2008_LA_06,2008,"Cassidy, William ""Bill""",LA,06,150332,Republican
+2008_LA_06,2008,"Cazayoux, ""Don""",LA,06,125886,Democratic
+2008_LA_06,2008,"Jackson, Michael",LA,06,36198,No Party Affiliation
+2008_LA_07,2008,"Boustany, Charles W., Jr.",LA,07,177173,Republican
+2008_LA_07,2008,"Cravins, Donald ""Don,"" Jr.",LA,07,98280,Democratic
+2008_LA_07,2008,"Vidrine, Peter",LA,07,10846,Other
+2008_LA_S,2008,"Landrieu, Mary",LA,S,988298,Democratic
+2008_LA_S,2008,"Kennedy, John",LA,S,867177,Republican
+2008_LA_S,2008,"Fontanesi, Richard",LA,S,18590,Libertarian
+2008_LA_S,2008,"Patel, ""Jay""",LA,S,13729,No Party Affiliation
+2008_LA_S,2008,"Stewart, Robert",LA,S,8780,Other
+2008_ME_01,2008,"Pingree, Chellie",ME,01,205629,Democratic
+2008_ME_01,2008,"Summers, Charles E.",ME,01,168930,Republican
+2008_ME_02,2008,"Michaud, Michael H.",ME,02,226274,Democratic
+2008_ME_02,2008,"Frary, John N.",ME,02,109268,Republican
+2008_ME_S,2008,"Collins, Susan M.",ME,S,444300,Republican
+2008_ME_S,2008,"Allen, Thomas H.",ME,S,279510,Democratic
+2008_ME_S,2008,Others,ME,S,620,Write-In
+2008_MD_01,2008,"Kratovil, Frank M., Jr.",MD,01,177065,Democratic
+2008_MD_01,2008,"Harris, Andy",MD,01,174213,Republican
+2008_MD_01,2008,"Davis, Richard James",MD,01,8873,Libertarian
+2008_MD_02,2008,"Ruppersberger, C. A. Dutch",MD,02,198578,Democratic
+2008_MD_02,2008,"Matthews, Richard Pryce",MD,02,68561,Republican
+2008_MD_02,2008,"Gaztanaga, Lorenzo",MD,02,8786,Libertarian
+2008_MD_03,2008,"Sarbanes, John P.",MD,03,203711,Democratic
+2008_MD_03,2008,"Harris, Thomas E. ""Pinkston""",MD,03,87971,Republican
+2008_MD_04,2008,"Edwards, Donna ",MD,04,258704,Democratic
+2008_MD_04,2008,"James, Peter",MD,04,38739,Republican
+2008_MD_04,2008,"Broadus, Robert",MD,04,48,"Republican,Write-In"
+2008_MD_04,2008,"Lincecum, Thibeaux",MD,04,3384,Libertarian
+2008_MD_04,2008,"Schulin, Steve",MD,04,75,Write-In
+2008_MD_04,2008,"Jackson, Darryn O'Shea, Sr.",MD,04,28,Write-In
+2008_MD_05,2008,"Hoyer, Steny H.",MD,05,253854,Democratic
+2008_MD_05,2008,"Bailey, Collins",MD,05,82631,Republican
+2008_MD_05,2008,"Nicholas, Darlene H.",MD,05,7829,Libertarian
+2008_MD_06,2008,"Bartlett, Roscoe",MD,06,190926,Republican
+2008_MD_06,2008,"Dougherty, Jennifer P.",MD,06,128207,Democratic
+2008_MD_06,2008,"Hoover, Gary W., Sr.",MD,06,11060,Libertarian
+2008_MD_07,2008,"Cummings, Elijah",MD,07,227379,Democratic
+2008_MD_07,2008,"Smith, Charles U.",MD,07,8,"Democratic,Write-In"
+2008_MD_07,2008,"Hargadon, Michael T.",MD,07,53147,Republican
+2008_MD_07,2008,"Bly, Ray",MD,07,13,"Republican,Write-In"
+2008_MD_07,2008,"Owens-Bey, Ronald M.",MD,07,5214,Libertarian
+2008_MD_08,2008,"Van Hollen, Chris",MD,08,229740,Democratic
+2008_MD_08,2008,"Vollmer, Deborah A.",MD,08,188,"Democratic,Write-In"
+2008_MD_08,2008,"Young, Lih",MD,08,28,"Democratic,Write-In"
+2008_MD_08,2008,"Hudson, Steve",MD,08,66351,Republican
+2008_MD_08,2008,"Clark, Gordon",MD,08,6828,Green
+2008_MD_08,2008,"Thomas, Ian",MD,08,2562,Libertarian
+2008_MA_01,2008,"Olver, John W.",MA,01,215696,Democratic
+2008_MA_01,2008,"Bech, Nathan A.",MA,01,80067,Republican
+2008_MA_02,2008,"Neal, Richard E.",MA,02,234369,Democratic
+2008_MA_03,2008,"McGovern, James P.",MA,03,227619,Democratic
+2008_MA_04,2008,"Frank, Barney",MA,04,203032,Democratic
+2008_MA_04,2008,"Sholley, Earl H.",MA,04,75571,Republican
+2008_MA_04,2008,"Allen, Susan",MA,04,19848,Independent
+2008_MA_05,2008,"Tsongas, Nicola S.",MA,05,225947,Democratic
+2008_MA_06,2008,"Tierney, John F.",MA,06,226216,Democratic
+2008_MA_06,2008,"Baker, Richard A.",MA,06,94845,Republican
+2008_MA_07,2008,"Markey, Edward J.",MA,07,212304,Democratic
+2008_MA_07,2008,"Cunningham, John",MA,07,67978,Republican
+2008_MA_08,2008,"Capuano, Michael E.",MA,08,185530,Democratic
+2008_MA_09,2008,"Lynch, Stephen F.",MA,09,242166,Democratic
+2008_MA_10,2008,"Delahunt, William D.",MA,10,272899,Democratic
+2008_MA_S,2008,"Kerry, John F.",MA,S,1971974,Democratic
+2008_MA_S,2008,"Beatty, Jeffrey K.",MA,S,926044,Republican
+2008_MA_S,2008,"Underwood, Robert J.",MA,S,93713,Libertarian
+2008_MI_01,2008,"Stupak, Bart",MI,01,213216,Democratic
+2008_MI_01,2008,"Casperson, Tom",MI,01,107340,Republican
+2008_MI_01,2008,"Hooper, Don",MI,01,8,"Republican,Write-In"
+2008_MI_01,2008,"Treacy, Jean",MI,01,2669,Green
+2008_MI_01,2008,"Grow, Daniel W.",MI,01,2533,Libertarian
+2008_MI_01,2008,"Warren, Joshua J.",MI,01,2070,U.S. Taxpayers
+2008_MI_02,2008,"Hoekstra, Peter",MI,02,214100,Republican
+2008_MI_02,2008,"Johnson, Fred",MI,02,119506,Democratic
+2008_MI_02,2008,"Johnson, Dan",MI,02,5496,Libertarian
+2008_MI_02,2008,"Graeser, Ronald E.",MI,02,4200,U.S. Taxpayers
+2008_MI_02,2008,"Bailey, William",MI,02,7,Write-In
+2008_MI_03,2008,"Ehlers, Vernon J.",MI,03,203799,Republican
+2008_MI_03,2008,"Sanchez, Henry",MI,03,117961,Democratic
+2008_MI_03,2008,"Haas, Erwin J.",MI,03,11758,Libertarian
+2008_MI_04,2008,"Camp, Dave",MI,04,204259,Republican
+2008_MI_04,2008,"Concannon, Andrew D.",MI,04,117665,Democratic
+2008_MI_04,2008,"Emerick, John",MI,04,4055,U.S. Taxpayers
+2008_MI_04,2008,"Hren, Allitta",MI,04,3785,Libertarian
+2008_MI_05,2008,"Kildee, Dale E.",MI,05,221841,Democratic
+2008_MI_05,2008,"Sawicki, Matt",MI,05,85017,Republican
+2008_MI_05,2008,"Schwartz, Leonard",MI,05,4293,Libertarian
+2008_MI_05,2008,"Mathenia, Ken",MI,05,4144,Green
+2008_MI_06,2008,"Upton, Fred",MI,06,188157,Republican
+2008_MI_06,2008,"Cooney, Don",MI,06,123257,Democratic
+2008_MI_06,2008,"Merle, Greg",MI,06,4720,Libertarian
+2008_MI_06,2008,"Pinkney, Edward",MI,06,3512,Green
+2008_MI_07,2008,"Schauer, Mark",MI,07,157213,Democratic
+2008_MI_07,2008,"Renier, Sharon Marie",MI,07,89,"Democratic,Write-In"
+2008_MI_07,2008,"Walberg, Tim",MI,07,149781,Republican
+2008_MI_07,2008,"Meadows, Lynn",MI,07,9528,Green
+2008_MI_07,2008,"Proctor, Ken",MI,07,5675,Libertarian
+2008_MI_08,2008,"Rogers, Mike",MI,08,204408,Republican
+2008_MI_08,2008,"Alexander, Robert D.",MI,08,145491,Democratic
+2008_MI_08,2008,"White, Will Tyler",MI,08,4373,Libertarian
+2008_MI_08,2008,"Stuttman, Aaron",MI,08,3836,Green
+2008_MI_08,2008,"Zimmer, George M.",MI,08,3499,U.S. Taxpayers
+2008_MI_09,2008,"Peters, Gary",MI,09,183311,Democratic
+2008_MI_09,2008,"Knollenberg, Joe",MI,09,150035,Republican
+2008_MI_09,2008,"Kevorkian, Jack",MI,09,8987,No Party Affiliation
+2008_MI_09,2008,"Goodman, Adam",MI,09,4893,Libertarian
+2008_MI_09,2008,"Campbell, Douglas",MI,09,4737,Green
+2008_MI_10,2008,"Miller, Candice S.",MI,10,230471,Republican
+2008_MI_10,2008,"Denison, Robert",MI,10,108354,Democratic
+2008_MI_10,2008,"Stephenson, Neil Kiernan",MI,10,4632,Libertarian
+2008_MI_10,2008,"Caveny, Candace R.",MI,10,4146,Green
+2008_MI_11,2008,"McCotter, Thaddeus G.",MI,11,177461,Republican
+2008_MI_11,2008,"Larkin, Joseph W.",MI,11,156625,Democratic
+2008_MI_11,2008,"Tatar, John J.",MI,11,6001,Libertarian
+2008_MI_11,2008,"Shelley, Erik",MI,11,5072,Green
+2008_MI_11,2008,"Dashairya, Bhagwan",MI,11,23,Write-In
+2008_MI_12,2008,"Levin, Sander",MI,12,225094,Democratic
+2008_MI_12,2008,"Copple, Bert",MI,12,74565,Republican
+2008_MI_12,2008,"Vico, John",MI,12,4767,Libertarian
+2008_MI_12,2008,"Townsend, Les",MI,12,4076,U.S. Taxpayers
+2008_MI_12,2008,"Opalicky, William J.",MI,12,3842,Green
+2008_MI_13,2008,"Kilpatrick, Carolyn Cheeks",MI,13,167481,Democratic
+2008_MI_13,2008,"Gubics, Edward J.",MI,13,43098,Republican
+2008_MI_13,2008,"Corsetti, George L.",MI,13,9579,Green
+2008_MI_13,2008,"Creswell, Gregory",MI,13,5764,Libertarian
+2008_MI_14,2008,"Conyers, John, Jr.",MI,14,227841,Democratic
+2008_MI_14,2008,"Secula, Richard J.",MI,14,10732,Libertarian
+2008_MI_14,2008,"Shabazz, Clyde K.",MI,14,8015,Green
+2008_MI_15,2008,"Dingell, John D.",MI,15,231784,Democratic
+2008_MI_15,2008,"Lynch, John J.",MI,15,81802,Republican
+2008_MI_15,2008,"Smith, Aimee",MI,15,7082,Green
+2008_MI_15,2008,"Stempfle, Gregory Scott",MI,15,4002,Libertarian
+2008_MI_15,2008,"Wagner, James H.",MI,15,3157,U.S. Taxpayers
+2008_MI_S,2008,"Levin, Carl",MI,S,3038386,Democratic
+2008_MI_S,2008,"Hoogendyk, Jack, Jr.",MI,S,1641070,Republican
+2008_MI_S,2008,"Boman, Scotty",MI,S,76347,Libertarian
+2008_MI_S,2008,"Mikkelson, Harley G.",MI,S,43440,Green
+2008_MI_S,2008,"Nikitin, Michael N.",MI,S,30827,U.S. Taxpayers
+2008_MI_S,2008,"Dern, Doug",MI,S,18550,Natural Law Party
+2008_MN_01,2008,"Walz, Tim",MN,01,207753,Democratic-Farmer Labor
+2008_MN_01,2008,"Davis, Brian J.",MN,01,109453,Republican
+2008_MN_01,2008,"Mikkelson, Gregory",MN,01,14904,Independence
+2008_MN_02,2008,"Kline, John",MN,02,220924,Republican
+2008_MN_02,2008,"Sarvi, Steve",MN,02,164093,Democratic-Farmer Labor
+2008_MN_02,2008,"Masrud, Kevin",MN,02,41,Write-In
+2008_MN_02,2008,"Walor, Curt",MN,02,1,Write-In
+2008_MN_03,2008,"Paulsen, Erik",MN,03,178932,Republican
+2008_MN_03,2008,"Madia, Ashwin",MN,03,150787,Democratic-Farmer Labor
+2008_MN_03,2008,"Dillon, David",MN,03,38970,Independence
+2008_MN_03,2008,"Swarm, Harley, Jr.",MN,03,9,Write-In
+2008_MN_04,2008,"McCollum, Betty",MN,04,216267,Democratic-Farmer Labor
+2008_MN_04,2008,"Matthews, Ed",MN,04,98936,Republican
+2008_MN_04,2008,"Garlan, Amber",MN,04,1,Write-In
+2008_MN_05,2008,"Ellison, Keith",MN,05,228776,Democratic-Farmer Labor
+2008_MN_05,2008,"Davis White, Barb",MN,05,71020,Republican
+2008_MN_05,2008,"McGaughey, Bill",MN,05,22318,Independence
+2008_MN_06,2008,"Bachmann, Michele",MN,06,187817,Republican
+2008_MN_06,2008,"Immelman, Aubrey",MN,06,20,"Republican,Write-In"
+2008_MN_06,2008,"Tinklenberg, El",MN,06,175786,Democratic-Farmer Labor
+2008_MN_06,2008,"Anderson, Bob",MN,06,40643,Independence
+2008_MN_07,2008,"Peterson, Collin C.",MN,07,227187,Democratic-Farmer Labor
+2008_MN_07,2008,"Menze, Glen",MN,07,87062,Republican
+2008_MN_08,2008,"Oberstar, James L.",MN,08,241831,Democratic-Farmer Labor
+2008_MN_08,2008,"Cummins, Michael",MN,08,114871,Republican
+2008_MN_S,2008,"Franken, Al",MN,S,1212629,Democratic-Farmer Labor
+2008_MN_S,2008,"Coleman, Norm",MN,S,1212317,Republican
+2008_MN_S,2008,"Barkley, Dean",MN,S,437505,Independence
+2008_MN_S,2008,"Aldrich, Charles",MN,S,13923,Libertarian
+2008_MN_S,2008,"Niemackl, James",MN,S,8907,Constitution
+2008_MN_S,2008,"Cavlan, Michael",MN,S,13,Write-In
+2008_MN_S,2008,"Price, Anthony Keith",MN,S,12,Write-In
+2008_MS_01,2008,"Childers, Travis W. ",MS,01,185959,Democratic
+2008_MS_01,2008,"Davis, Greg",MS,01,149818,Republican
+2008_MS_01,2008,"Pang, Wally",MS,01,3736,Independent
+2008_MS_01,2008,"Wages, John M., Jr.",MS,01,1876,Green
+2008_MS_02,2008,"Thompson, Bennie G.",MS,02,201606,Democratic
+2008_MS_02,2008,"Cook, Richard",MS,02,90364,Republican
+2008_MS_03,2008,"Harper, Gregg",MS,03,213171,Republican
+2008_MS_03,2008,"Gill, Joel L.",MS,03,127698,Democratic
+2008_MS_04,2008,"Taylor, Gene",MS,04,216542,Democratic
+2008_MS_04,2008,"McCay, John, III",MS,04,73977,Republican
+2008_MS_S,2008,"Cochran, Thad",MS,S - FULL TERM,766111,Republican
+2008_MS_S,2008,"Fleming, Erik R.",MS,S - FULL TERM,480915,Democratic
+2008_MO_01,2008,"Clay, Wm. Lacy",MO,01,242570,Democratic
+2008_MO_01,2008,"Cunningham, Robb E.",MO,01,36700,Libertarian
+2008_MO_02,2008,"Akin, Todd",MO,02,232276,Republican
+2008_MO_02,2008,"Haas, William C. (Bill)",MO,02,132068,Democratic
+2008_MO_02,2008,"Knapp, Thomas L.",MO,02,8628,Libertarian
+2008_MO_02,2008,"Johnson, Damien",MO,02,7,Write-In
+2008_MO_03,2008,"Carnahan, Russ",MO,03,202470,Democratic
+2008_MO_03,2008,"Sander, Chris",MO,03,92759,Republican
+2008_MO_03,2008,"Babcock, Kevin C.",MO,03,5518,Libertarian
+2008_MO_03,2008,"Redburn, Cynthia (Cindy)",MO,03,4324,Constitution
+2008_MO_04,2008,"Skelton, Ike",MO,04,200009,Democratic
+2008_MO_04,2008,"Parnell, Jeff",MO,04,103446,Republican
+2008_MO_05,2008,"Cleaver, Emanuel, II",MO,05,197249,Democratic
+2008_MO_05,2008,"Turk, Jacob",MO,05,109166,Republican
+2008_MO_06,2008,"Graves, Sam",MO,06,196526,Republican
+2008_MO_06,2008,"Barnes, Kay",MO,06,121894,Democratic
+2008_MO_06,2008,"Browning, Dave",MO,06,12279,Libertarian
+2008_MO_07,2008,"Blunt, Roy",MO,07,219016,Republican
+2008_MO_07,2008,"Monroe, Richard",MO,07,91010,Democratic
+2008_MO_07,2008,"Craig, Kevin",MO,07,6971,Libertarian
+2008_MO_07,2008,"Maddox, Travis",MO,07,6166,Constitution
+2008_MO_07,2008,"Potts, Midge",MO,07,49,Write-In
+2008_MO_08,2008,"Allen, Joe",MO,08,72790,Democratic
+2008_MO_08,2008,"Emerson, Jo Ann",MO,08,198798,Republican
+2008_MO_08,2008,"McCullough, Branden C.",MO,08,4443,Libertarian
+2008_MO_08,2008,"Smith, Richard L.",MO,08,2257,Constitution
+2008_MO_09,2008,"Luetkemeyer, Blaine",MO,09,161031,Republican
+2008_MO_09,2008,"Baker, Judy",MO,09,152956,Democratic
+2008_MO_09,2008,"Millay, Tamara A.",MO,09,8108,Libertarian
+2008_MT_00,2008,"Rehberg, Denny",MT,00,308470,Republican
+2008_MT_00,2008,"Driscoll, John",MT,00,155930,Democratic
+2008_MT_00,2008,"Fellows, Mike",MT,00,16500,Libertarian
+2008_MT_S,2008,"Baucus, Max",MT,S,348289,Democratic
+2008_MT_S,2008,"Kelleher, Bob",MT,S,129369,Republican
+2008_NE_01,2008,"Fortenberry, Jeff",NE,01,184923,Republican
+2008_NE_01,2008,"Yashirin, Max",NE,01,77897,Democratic
+2008_NE_02,2008,"Terry, Lee",NE,02,142473,Republican
+2008_NE_02,2008,"Esch, Jim",NE,02,131901,Democratic
+2008_NE_03,2008,"Smith, Adrian",NE,03,183117,Republican
+2008_NE_03,2008,"Stoddard, Jay C.",NE,03,55087,Democratic
+2008_NE_S,2008,"Johanns, Mike",NE,S,455854,Republican
+2008_NE_S,2008,"Kleeb, Scott",NE,S,317456,Democratic
+2008_NE_S,2008,"Rosberg, Kelly Renee",NE,S,11438,Nebraska Party
+2008_NE_S,2008,"Larrick, Steven R.",NE,S,7763,Green
+2008_NV_01,2008,"Berkley, Shelley",NV,01,154860,Democratic
+2008_NV_01,2008,"Wegner, Kenneth",NV,01,64837,Republican
+2008_NV_01,2008,"Alexander, Caren",NV,01,4697,Independent American  Party
+2008_NV_01,2008,"Duensing, Raymond James, Jr.",NV,01,4528,Libertarian
+2008_NV_02,2008,"Heller, Dean",NV,02,170771,Republican
+2008_NV_02,2008,"Derby, Jill",NV,02,136548,Democratic
+2008_NV_02,2008,"Everhart, John",NV,02,11179,Independent American  Party
+2008_NV_02,2008,"Morse, Sean Patrick",NV,02,5740,Libertarian
+2008_NV_02,2008,"Bergland, Craig",NV,02,5282,Green
+2008_NV_03,2008,"Titus, Dina",NV,03,165912,Democratic
+2008_NV_03,2008,"Porter, Jon",NV,03,147940,Republican
+2008_NV_03,2008,"Reeves, Jeffrey C.",NV,03,14922,Independent
+2008_NV_03,2008,"Silvestri, Joseph P.",NV,03,10164,Libertarian
+2008_NV_03,2008,"Fitzgibbons, Floyd",NV,03,6937,Independent American  Party
+2008_NV_03,2008,"Giaquinta, Bob",NV,03,3937,Green
+2008_NH_01,2008,"Shea-Porter, Carol",NH,01,176435,Democratic
+2008_NH_01,2008,"Bradley, Jeb",NH,01,156338,Republican
+2008_NH_01,2008,"Kingsbury, Robert",NH,01,8100,Libertarian
+2008_NH_02,2008,"Hodes, Paul W.",NH,02,188332,Democratic
+2008_NH_02,2008,"Horn, Jennifer",NH,02,138222,Republican
+2008_NH_02,2008,"Lapointe, Chester L., II",NH,02,7121,Libertarian
+2008_NH_S,2008,"Shaheen, Jeanne",NH,S,358438,Democratic
+2008_NH_S,2008,"Sununu, John E.",NH,S,314403,Republican
+2008_NH_S,2008,"Blevens, ""Ken""",NH,S,21516,Libertarian
+2008_NJ_01,2008,"Andrews, Robert E. ",NJ,01,206453,Democratic
+2008_NJ_01,2008,"Glading, Dale M.",NJ,01,74001,Republican
+2008_NJ_01,2008,"Thieke, Matthew",NJ,01,1927,Green
+2008_NJ_01,2008,"Chapman, Margaret M.",NJ,01,1258,Back to Basics
+2008_NJ_01,2008,"Williams, Everitt M., III",NJ,01,1010,Think Independently
+2008_NJ_01,2008,"Lindsay, Alvin, Jr.",NJ,01,508,Lindsay for Congress
+2008_NJ_02,2008,"Lo Biondo, Frank A.",NJ,02,167701,Republican
+2008_NJ_02,2008,"Kurkowski, David",NJ,02,110990,Democratic
+2008_NJ_02,2008,"Grover, Jason M.",NJ,02,1763,Green
+2008_NJ_02,2008,"Boyce, Peter F.",NJ,02,1551,Constitution Party NJ
+2008_NJ_02,2008,"Stein, Gary",NJ,02,1312,Rock the Boat
+2008_NJ_02,2008,"Rozzo, Costantino",NJ,02,648,Socialist Party USA
+2008_NJ_03,2008,"Adler, John",NJ,03,166390,Democratic
+2008_NJ_03,2008,"Myers, Chris",NJ,03,153122,Republican
+2008_NJ_04,2008,"Smith, Christopher H.",NJ,04,202972,Republican
+2008_NJ_04,2008,"Zeitz, Joshua M.",NJ,04,100036,Democratic
+2008_NJ_04,2008,"Welzer, Steven",NJ,04,3543,Green
+2008_NJ_05,2008,"Garrett, Scott",NJ,05,172653,Republican
+2008_NJ_05,2008,"Shulman , Dennis",NJ,05,131033,Democratic
+2008_NJ_05,2008,"Fanning, Ed",NJ,05,5321,Green
+2008_NJ_06,2008,"Pallone, Frank, Jr.",NJ,06,164077,Democratic
+2008_NJ_06,2008,"McLeod, Robert E.",NJ,06,77469,Republican
+2008_NJ_06,2008,"Tarbous, Herb",NJ,06,3531,Regular Independent
+2008_NJ_07,2008,"Stender, Linda",NJ,07,124818,Democratic
+2008_NJ_07,2008,"Lance, Leonard",NJ,07,148461,Republican
+2008_NJ_07,2008,"Hsing, Michael P.",NJ,07,16419,Hsing for Congress
+2008_NJ_07,2008,"Greco, Dean",NJ,07,3259,All-Day Breakfast Party
+2008_NJ_07,2008,"Abrams, Thomas D.",NJ,07,2671,Prosperity Not War
+2008_NJ_08,2008,"Pascrell, Bill, Jr.",NJ,08,159279,Democratic
+2008_NJ_08,2008,"Straten, Roland",NJ,08,63107,Republican
+2008_NJ_08,2008,"DeMarco, Derek",NJ,08,1600,Libertarian
+2008_NJ_09,2008,"Rothman, Steven R.",NJ,09,151182,Democratic
+2008_NJ_09,2008,"Micco, Vincent",NJ,09,69503,Republican
+2008_NJ_09,2008,"Perrone, Jr., Michael",NJ,09,3200,Independent/Progressive
+2008_NJ_10,2008,"Payne, Donald M.",NJ,10,169945,Democratic
+2008_NJ_10,2008,"Taber, Michael",NJ,10,1848,Socialist Workers Party
+2008_NJ_11,2008,"Frelinghuysen, Rodney",NJ,11,189696,Republican
+2008_NJ_11,2008,"Wyka, Tom",NJ,11,113510,Democratic
+2008_NJ_11,2008,"Tedholm, Chandler",NJ,11,3526,For The People
+2008_NJ_12,2008,"Holt, Rush",NJ,12,193732,Democratic
+2008_NJ_12,2008,"Bateman , Alan R.",NJ,12,108400,Republican
+2008_NJ_12,2008,"Corsi, David",NJ,12,4802,Common Sense Ideas
+2008_NJ_13,2008,"Sires, Albio",NJ,13,120382,Democratic
+2008_NJ_13,2008,"Turula, Joseph",NJ,13,34735,Republican
+2008_NJ_13,2008,"Fernandez, Julio A.",NJ,13,3661,No Slogan Provided
+2008_NJ_13,2008,"Vernotico, Louis",NJ,13,975,Eliminate the Primary
+2008_NJ_S,2008,"Lautenberg, Frank",NJ,S,1951218,Democratic
+2008_NJ_S,2008,"Zimmer, Dick",NJ,S,1461025,Republican
+2008_NJ_S,2008,"Scheurer, Jason",NJ,S,18810,Libertarian
+2008_NJ_S,2008,"Carter, J. M.",NJ,S,15935,God We Trust
+2008_NJ_S,2008,"Brooks, Daryl Mikell",NJ,S,15925,"Poor People's Campaign"
+2008_NJ_S,2008,"Boss, Jeffrey",NJ,S,10345,Boss for Senate
+2008_NJ_S,2008,"Lobman, Sara J.",NJ,S,9187,Socialist Workers Party
+2008_NM_01,2008,"Heinrich, Martin T.",NM,01,166271,Democratic
+2008_NM_01,2008,"White, Darren",NM,01,132485,Republican
+2008_NM_02,2008,"Teague, Harry",NM,02,129572,Democratic
+2008_NM_02,2008,"Tinsley, Edward R.",NM,02,101980,Republican
+2008_NM_03,2008,"Lujan, Ben R.",NM,03,161292,Democratic
+2008_NM_03,2008,"East, Daniel K.",NM,03,86618,Republican
+2008_NM_03,2008,"Miller, Carol",NM,03,36348,Independent
+2008_NM_S,2008,"Udall, Tom",NM,S,505128,Democratic
+2008_NM_S,2008,"Pearce, Stevan E.",NM,S,318522,Republican
+2008_NY_01,2008,"Bishop, Timothy H.",NY,01,162083,"Democratic,Independence,Working Families"
+2008_NY_01,2008,"Zeldin, Lee M.",NY,01,115545,"Republican,Conservative"
+2008_NY_02,2008,"Israel, Steve J.",NY,02,161279,"Democratic,Independence,Working Families"
+2008_NY_02,2008,"Stalzer, Frank J.",NY,02,79641,"Republican,Conservative"
+2008_NY_03,2008,"King, Peter T.",NY,03,172774,"Independence,Conservative,Republican"
+2008_NY_03,2008,"Long, Graham E.",NY,03,97525,"Democratic,Working Families"
+2008_NY_04,2008,"McCarthy, Carolyn",NY,04,164028,"Democratic,Independence,Working Families"
+2008_NY_04,2008,"Martins, Jack M.",NY,04,92242,"Republican,Conservative"
+2008_NY_05,2008,"Ackerman, Gary L.",NY,05,112724,"Democratic,Independence,Working Families"
+2008_NY_05,2008,"Berney, Elizabeth",NY,05,43039,Republican
+2008_NY_05,2008,"Policarpio, Jun",NY,05,3010,Conservative
+2008_NY_06,2008,"Meeks, Gregory W.",NY,06,141180,Democratic
+2008_NY_07,2008,"Crowley, Joseph",NY,07,118459,"Democratic,Working Families"
+2008_NY_07,2008,"Britt, William E., Jr.",NY,07,21477,"Republican,Conservative"
+2008_NY_08,2008,"Nadler, Jerrold L.",NY,08,160775,"Democratic,Working Families"
+2008_NY_08,2008,"Lin, Grace",NY,08,39062,"Republican,Conservative"
+2008_NY_09,2008,"Weiner, Anthony D.",NY,09,112205,"Democratic,Working Families"
+2008_NY_09,2008,"Donohue, Alfred F.",NY,09,8378,Conservative
+2008_NY_10,2008,"Towns, Edolphus",NY,10,155090,Democratic
+2008_NY_10,2008,"Grupico, Salvatore",NY,10,9565,"Republican,Conservative"
+2008_NY_11,2008,"Clarke, Yvette D.",NY,11,168562,"Democratic,Working Families"
+2008_NY_11,2008,"Carr, Hugh C.",NY,11,11644,Republican
+2008_NY_11,2008,"Gore, Cartrell",NY,11,1517,Conservative
+2008_NY_12,2008,"Velazquez, Nydia M.",NY,12,123053,"Democratic,Working Families"
+2008_NY_12,2008,"Romaguera, Allen E.",NY,12,13748,"Republican,Conservative"
+2008_NY_13,2008,"McMahon, Michael E.",NY,13,114219,"Working Families,Democratic"
+2008_NY_13,2008,"Straniere, Robert A.",NY,13,62441,Republican
+2008_NY_13,2008,"Cochrane, Timothy J.",NY,13,5799,Conservative
+2008_NY_13,2008,"Morano, Carmine A.",NY,13,4947,Independence
+2008_NY_14,2008,"Maloney, Carolyn B.",NY,14,183239,"Democratic,Working Families"
+2008_NY_14,2008,"Heim, Robert G.",NY,14,43385,Republican
+2008_NY_14,2008,"Matos, Isaiah",NY,14,2659,Libertarian
+2008_NY_15,2008,"Rangel, Charles B.",NY,15,177151,"Democratic,Working Families"
+2008_NY_15,2008,"Daniels, Edward",NY,15,15676,Republican
+2008_NY_15,2008,"Schley, Craig",NY,15,3708,Vote People Change
+2008_NY_15,2008,"Koppel, Martin",NY,15,2141,Socialist Workers Party
+2008_NY_16,2008,"Serrano, Jose E.",NY,16,127179,"Democratic,Working Families"
+2008_NY_16,2008,"Mohamed, Ali",NY,16,4488,"Republican,Conservative"
+2008_NY_17,2008,"Engel, Eliot L.",NY,17,161594,"Democratic,Independence,Working Families"
+2008_NY_17,2008,"Goodman, Robert",NY,17,40707,"Republican,Conservative"
+2008_NY_18,2008,"Lowey, Nita M.",NY,18,174791,"Democratic,Working Families"
+2008_NY_18,2008,"Russell, Jim",NY,18,80498,"Republican,Conservative"
+2008_NY_19,2008,"Hall, John",NY,19,164859,"Democratic,Independence,Working Families"
+2008_NY_19,2008,"Lalor, Kieran Michael",NY,19,116120,"Republican,Conservative"
+2008_NY_20,2008,"Gillibrand, Kirsten E.",NY,20,193651,"Democratic,Working Families"
+2008_NY_20,2008,"Treadwell, Sandy",NY,20,118031,"Republican,Independence,Conservative"
+2008_NY_21,2008,"Tonko, Paul D.",NY,21,171286,"Working Families,Democratic"
+2008_NY_21,2008,"Buhrmaster, James R.",NY,21,96599,"Republican,Conservative"
+2008_NY_21,2008,"Steck, Phillip G.",NY,21,7965,Independence
+2008_NY_22,2008,"Hinchey, Maurice D.",NY,22,168558,"Democratic,Independence,Working Families"
+2008_NY_22,2008,"Phillips, George K.",NY,22,85126,"Republican,Conservative"
+2008_NY_23,2008,"McHugh, John M.",NY,23,143029,"Republican,Independence,Conservative"
+2008_NY_23,2008,"Oot, Michael P.",NY,23,75871,"Democratic,Working Families"
+2008_NY_24,2008,"Arcuri, Michael A.",NY,24,130799,"Democratic,Working Families"
+2008_NY_24,2008,"Hanna, Richard L.",NY,24,120880,"Republican,Independence,Conservative"
+2008_NY_25,2008,"Maffei, Daniel B.",NY,25,157375,"Democratic,Working Families"
+2008_NY_25,2008,"Sweetland, Dale A.",NY,25,120217,"Republican,Conservative"
+2008_NY_25,2008,"Hawkins, Howie",NY,25,9483,Green Populist
+2008_NY_26,2008,"Lee, Christopher J.",NY,26,138711,"Republican,Conservative"
+2008_NY_26,2008,"Lee, Christopher J. ",NY,26,9896,Independence
+2008_NY_26,2008,"Kryzan, Alice",NY,26,109615,Democratic
+2008_NY_26,2008,"Powers, Jonathan P.",NY,26,12104,Working Families
+2008_NY_27,2008,"Higgins, Brian",NY,27,185713,"Democratic,Working Families"
+2008_NY_27,2008,"Humiston, Daniel J.",NY,27,56354,"Republican,Independence"
+2008_NY_27,2008,"Schroeder, Harold W.",NY,27,7478,Conservative
+2008_NY_28,2008,"Slaughter, Louise M.",NY,28,172655,"Democratic,Independence,Working Families"
+2008_NY_28,2008,"Crimmen, David W.",NY,28,48690,"Republican,Conservative"
+2008_NY_29,2008,"Massa, Eric J. J.",NY,29,140529,"Democratic,Working Families"
+2008_NY_29,2008,"Kuhl, John Randy, Jr.",NY,29,135199,"Republican,Independence,Conservative"
+2008_NC_01,2008,"Butterfield, G.K.",NC,01,192765,Democratic
+2008_NC_01,2008,"Stephens, Dean",NC,01,81506,Republican
+2008_NC_02,2008,"Etheridge, Bob",NC,02,199730,Democratic
+2008_NC_02,2008,"Mansell, Dan",NC,02,93323,Republican
+2008_NC_02,2008,"Adkins, Will",NC,02,5377,Libertarian
+2008_NC_03,2008,"Jones, Walter B.",NC,03,201686,Republican
+2008_NC_03,2008,"Weber, Craig",NC,03,104364,Democratic
+2008_NC_04,2008,"Price, David",NC,04,265751,Democratic
+2008_NC_04,2008,"Lawson, William (B.J.)",NC,04,153947,Republican
+2008_NC_05,2008,"Foxx, Virginia",NC,05,190820,Republican
+2008_NC_05,2008,"Carter, Roy",NC,05,136103,Democratic
+2008_NC_06,2008,"Coble, Howard",NC,06,221018,Republican
+2008_NC_06,2008,"Bratton, Teresa Sue",NC,06,108873,Democratic
+2008_NC_07,2008,"McIntyre, Mike",NC,07,215383,Democratic
+2008_NC_07,2008,"Breazeale, Will",NC,07,97472,Republican
+2008_NC_08,2008,"Kissell, Larry",NC,08,157185,Democratic
+2008_NC_08,2008,"Hayes, Robert C. (Robin)",NC,08,126634,Republican
+2008_NC_09,2008,"Myrick, Sue",NC,09,241053,Republican
+2008_NC_09,2008,"Taylor, Harry",NC,09,138719,Democratic
+2008_NC_09,2008,"Grum, Andy",NC,09,6711,Libertarian
+2008_NC_10,2008,"McHenry, Patrick",NC,10,171774,Republican
+2008_NC_10,2008,"Johnson, Daniel",NC,10,126699,Democratic
+2008_NC_11,2008,"Shuler, Heath",NC,11,211112,Democratic
+2008_NC_11,2008,"Mumpower, Carl",NC,11,122087,Republican
+2008_NC_11,2008,"Smith, Keith",NC,11,7517,Libertarian
+2008_NC_12,2008,"Watt, Mel",NC,12,215908,Democratic
+2008_NC_12,2008,"Cobb, Ty, Jr.",NC,12,85814,Republican
+2008_NC_13,2008,"Miller, Brad",NC,13,221379,Democratic
+2008_NC_13,2008,"Webster, Hugh",NC,13,114383,Republican
+2008_NC_S,2008,"Hagan, Kay",NC,S,2249311,Democratic
+2008_NC_S,2008,"Dole, Elizabeth",NC,S,1887510,Republican
+2008_NC_S,2008,"Cole, Christopher",NC,S,133430,Libertarian
+2008_NC_S,2008,"Rucker, Walter Fry",NC,S,64,Write-In
+2008_ND_00,2008,"Pomeroy, Earl",ND,00,194577,Democratic-Nonpartisan League
+2008_ND_00,2008,"Sand, Duane",ND,00,119388,Republican
+2008_OH_01,2008,"Driehaus, Steve",OH,01,155455,Democratic
+2008_OH_01,2008,"Chabot, Steve",OH,01,140683,Republican
+2008_OH_01,2008,"Wilson, Eric",OH,01,85,Write-In
+2008_OH_01,2008,"Stevenson, Rich",OH,01,67,Write-In
+2008_OH_02,2008,"Schmidt, Jean",OH,02,148671,Republican
+2008_OH_02,2008,"Wulsin, Victoria",OH,02,124213,Democratic
+2008_OH_02,2008,"Krikorian, David H.",OH,02,58710,Independent
+2008_OH_02,2008,"Condit, James, Jr.",OH,02,30,Write-In
+2008_OH_03,2008,"Turner, Michael R.",OH,03,200204,Republican
+2008_OH_03,2008,"Mitakides, Jane",OH,03,115976,Democratic
+2008_OH_04,2008,"Jordan, James D.",OH,04,186154,Republican
+2008_OH_04,2008,"Carroll, Mike",OH,04,99499,Democratic
+2008_OH_05,2008,"Latta, Bob",OH,05,188905,Republican
+2008_OH_05,2008,"Mays, George F.",OH,05,105840,Democratic
+2008_OH_06,2008,"Wilson, Charlie",OH,06,176330,Democratic
+2008_OH_06,2008,"Stobbs, Richard D.",OH,06,92968,Republican
+2008_OH_06,2008,"Spisak, Dennis",OH,06,13812,Green
+2008_OH_07,2008,"Austria, Steve",OH,07,174915,Republican
+2008_OH_07,2008,"Neuhardt, Sharon Swartz",OH,07,125547,Democratic
+2008_OH_08,2008,"Boehner, John A.",OH,08,202063,Republican
+2008_OH_08,2008,"Von Stein, Nicholas A.",OH,08,95510,Democratic
+2008_OH_09,2008,"Kaptur, Marcy",OH,09,222054,Democratic
+2008_OH_09,2008,"Leavitt, Bradley S.",OH,09,76512,Republican
+2008_OH_10,2008,"Kucinich, Dennis J.",OH,10,157268,Democratic
+2008_OH_10,2008,"Trakas, Jim",OH,10,107918,Republican
+2008_OH_10,2008,"Conroy, Paul",OH,10,10623,Libertarian
+2008_OH_11,2008,"Fudge, Marcia L. ",OH,11,212667,Democratic
+2008_OH_11,2008,"Pekarek, Thomas",OH,11,36708,Republican
+2008_OH_11,2008,"Willis, Craig E.",OH,11,144,Write-In
+2008_OH_11,2008,"Johnson, Eric",OH,11,23,Write-In
+2008_OH_12,2008,"Tiberi, Pat",OH,12,197447,Republican
+2008_OH_12,2008,"Robinson, David",OH,12,152234,Democratic
+2008_OH_12,2008,"Linnabary, Steven R.",OH,12,10707,Libertarian
+2008_OH_13,2008,"Sutton, Betty",OH,13,192593,Democratic
+2008_OH_13,2008,"Potter, David S.",OH,13,105050,Republican
+2008_OH_13,2008,"Crow, Robert",OH,13,37,Write-In
+2008_OH_14,2008,"LaTourette, Steven C.",OH,14,188488,Republican
+2008_OH_14,2008,"O'Neill, Bill",OH,14,125214,Democratic
+2008_OH_14,2008,"Macko, David",OH,14,9511,Libertarian
+2008_OH_15,2008,"Kilroy, Mary Jo",OH,15,139584,Democratic
+2008_OH_15,2008,"Stivers, Steve",OH,15,137272,Republican
+2008_OH_15,2008,"Noble, Mark Michael",OH,15,14061,Libertarian
+2008_OH_15,2008,"Eckhart, Don Elijah",OH,15,12915,Independent
+2008_OH_15,2008,"Casper, Travis",OH,15,6,Write-In
+2008_OH_16,2008,"Boccieri, John A.",OH,16,169044,Democratic
+2008_OH_16,2008,"Schuring, Kirk",OH,16,136293,Republican
+2008_OH_17,2008,"Ryan, Tim",OH,17,218896,Democratic
+2008_OH_17,2008,"Grassell, Duane V.",OH,17,61216,Republican
+2008_OH_18,2008,"Space, Zack",OH,18,164187,Democratic
+2008_OH_18,2008,"Dailey, Fred",OH,18,110031,Republican
+2008_OK_01,2008,"Sullivan, John",OK,01,193404,Republican
+2008_OK_01,2008,"Oliver, Georgianna W.",OK,01,98890,Democratic
+2008_OK_02,2008,"Boren, Dan",OK,02,173757,Democratic
+2008_OK_02,2008,"Wickson, Raymond J.",OK,02,72815,Republican
+2008_OK_03,2008,"Lucas, Frank D.",OK,03,184306,Republican
+2008_OK_03,2008,"Robbins, Frankie",OK,03,62297,Democratic
+2008_OK_03,2008,"Michael, Forrest",OK,03,17756,Independent
+2008_OK_04,2008,"Cole, Tom",OK,04,180080,Republican
+2008_OK_04,2008,"Cummings, Blake",OK,04,79674,Democratic
+2008_OK_04,2008,"Joyce, David E.",OK,04,13027,Independent
+2008_OK_05,2008,"Fallin, Mary",OK,05,171925,Republican
+2008_OK_05,2008,"Perry, Steven L.",OK,05,88996,Democratic
+2008_OK_S,2008,"Inhofe, Jim",OK,S,763375,Republican
+2008_OK_S,2008,"Rice, Andrew",OK,S,527736,Democratic
+2008_OK_S,2008,"Wallace, Stephen P.",OK,S,55708,Independent
+2008_OR_01,2008,"Wu, David",OR,01,237567,Democratic
+2008_OR_01,2008,"Semrau, Scott",OR,01,14172,Constitution
+2008_OR_01,2008,"Tabor, H. Joe",OR,01,10992,Libertarian
+2008_OR_01,2008,"Henry, Chris",OR,01,7128,Pacific Green
+2008_OR_01,2008,"Haugen, Joel  ",OR,01,58279,"Republican,Independent Party"
+2008_OR_02,2008,"Walden, Greg",OR,02,236560,Republican
+2008_OR_02,2008,"Lemas, Noah",OR,02,87649,Democratic
+2008_OR_02,2008,"Mock, Tristin",OR,02,9668,Pacific Green
+2008_OR_02,2008,"Hake, Richard D.",OR,02,5817,Constitution
+2008_OR_03,2008,"Blumenauer, Earl",OR,03,254235,Democratic
+2008_OR_03,2008,"Lopez, Delia",OR,03,71063,Republican
+2008_OR_03,2008,"Meo, Michael",OR,03,15063,Pacific Green
+2008_OR_04,2008,"DeFazio, Peter A.",OR,04,275143,Democratic
+2008_OR_04,2008,"Germond, Jaynee",OR,04,43133,Constitution
+2008_OR_04,2008,"Beilstein, Mike",OR,04,13162,Pacific Green
+2008_OR_05,2008,"Schrader, Kurt",OR,05,181577,Democratic
+2008_OR_05,2008,"Erickson, Mike",OR,05,128297,Republican
+2008_OR_05,2008,"Bates, Sean",OR,05,6830,Independent Party
+2008_OR_05,2008,"Patterson, Douglas",OR,05,6558,Constitution
+2008_OR_05,2008,"Polikoff, Alex",OR,05,5272,Pacific Green
+2008_OR_05,2008,"Milligan, Steve",OR,05,4814,Libertarian
+2008_OR_S,2008,"Merkley, Jeff",OR,S,864392,"Democratic,Independent Party"
+2008_OR_S,2008,"Smith, Gordon H.",OR,S,805159,Republican
+2008_OR_S,2008,"Brownlow, David",OR,S,92565,Constitution
+2008_PA_01,2008,"Brady, Robert A.",PA,01,242799,Democratic
+2008_PA_01,2008,"Muhammad, Mike",PA,01,24714,Republican
+2008_PA_02,2008,"Fattah, Chaka",PA,02,276870,Democratic
+2008_PA_02,2008,"Lang, Adam A. ",PA,02,34466,Republican
+2008_PA_03,2008,"Dahlkemper, Kathy",PA,03,146846,Democratic
+2008_PA_03,2008,"English, Phil",PA,03,139757,Republican
+2008_PA_04,2008,"Altmire, Jason",PA,04,186536,Democratic
+2008_PA_04,2008,"Hart, Melissa",PA,04,147411,Republican
+2008_PA_05,2008,"Thompson, Glenn W.",PA,05,155513,Republican
+2008_PA_05,2008,"McCracken, Mark B.",PA,05,112509,Democratic
+2008_PA_05,2008,"Fryman, James",PA,05,6155,Libertarian
+2008_PA_06,2008,"Gerlach, Jim",PA,06,179423,Republican
+2008_PA_06,2008,"Roggio, Bob",PA,06,164952,Democratic
+2008_PA_07,2008,"Sestak, Joe",PA,07,209955,Democratic
+2008_PA_07,2008,"Williams, W. Craig",PA,07,142362,Republican
+2008_PA_08,2008,"Murphy, Patrick J.",PA,08,197869,Democratic
+2008_PA_08,2008,"Manion, Tom",PA,08,145103,Republican
+2008_PA_08,2008,"Lingenfelter, Tom",PA,08,5543,Independent
+2008_PA_09,2008,"Shuster, Bill",PA,09,174951,Republican
+2008_PA_09,2008,"Barr, Tony",PA,09,98735,Democratic
+2008_PA_10,2008,"Carney, Christopher P.",PA,10,160837,Democratic
+2008_PA_10,2008,"Hackett, Chris",PA,10,124681,Republican
+2008_PA_11,2008,"Kanjorski, Paul E.",PA,11,146379,Democratic
+2008_PA_11,2008,"Barletta, Lou",PA,11,137151,Republican
+2008_PA_12,2008,"Murtha, John P.",PA,12,155268,Democratic
+2008_PA_12,2008,"Russell, William",PA,12,113120,"Write-In,Republican,Republican"
+2008_PA_13,2008,"Schwartz, Allyson",PA,13,196868,Democratic
+2008_PA_13,2008,"Kats, Marina",PA,13,108271,Republican
+2008_PA_13,2008,"McDermott, John P.",PA,13,8374,Constitution
+2008_PA_14,2008,"Doyle, Mike",PA,14,242326,Democratic
+2008_PA_14,2008,"North, Titus",PA,14,23214,Green
+2008_PA_15,2008,"Dent, Charles W.",PA,15,181433,Republican
+2008_PA_15,2008,"Bennett, Sam",PA,15,128333,Democratic
+2008_PA_16,2008,"Pitts, Joseph R.",PA,16,170329,Republican
+2008_PA_16,2008,"Slater, Bruce A.",PA,16,120193,Democratic
+2008_PA_16,2008,"Murphy, John A.",PA,16,11768,Independent
+2008_PA_16,2008,"Frank, Daniel",PA,16,2877,Constitution
+2008_PA_17,2008,"Holden, Tim",PA,17,192699,Democratic
+2008_PA_17,2008,"Gilhooley, Toni",PA,17,109909,Republican
+2008_PA_18,2008,"Murphy, Tim",PA,18,213349,Republican
+2008_PA_18,2008,"O'Donnell, Steve",PA,18,119661,Democratic
+2008_PA_19,2008,"Platts, Todd",PA,19,218862,Republican
+2008_PA_19,2008,"Avillo, Philip J., Jr.",PA,19,109533,Democratic
+2008_RI_01,2008,"Kennedy, Patrick J.",RI,01,145254,Democratic
+2008_RI_01,2008,"Scott, Jonathan P.",RI,01,51340,Republican
+2008_RI_01,2008,"Capalbo, Kenneth A.",RI,01,15108,Independent
+2008_RI_01,2008,"Lanasse, David",RI,01,29,Write-In
+2008_RI_01,2008,Blank,RI,01,20,Write-In
+2008_RI_01,2008,The Jockey,RI,01,20,Write-In
+2008_RI_01,2008,"Chaffee, Lincoln",RI,01,8,Write-In
+2008_RI_01,2008,"Mouse, Mickey",RI,01,5,Write-In
+2008_RI_02,2008,"Langevin, James R.",RI,02,158416,Democratic
+2008_RI_02,2008,"Zaccaria, Mark S.",RI,02,67433,Republican
+2008_RI_02,2008,Blank,RI,02,31,Write-In
+2008_RI_02,2008,The Jockey,RI,02,17,Write-In
+2008_RI_02,2008,"Driver, Rod",RI,02,14,Write-In
+2008_RI_02,2008,"Young, Christopher",RI,02,6,Write-In
+2008_RI_02,2008,"Mouse, Mickey",RI,02,5,Write-In
+2008_RI_02,2008,"Lawless, Jennifer",RI,02,5,Write-In
+2008_RI_S,2008,"Reed, John F.",RI,S,320644,Democratic
+2008_RI_S,2008,"Tingle, Robert G.",RI,S,116174,Republican
+2008_RI_S,2008,The Jockey,RI,S,809,Write-In
+2008_RI_S,2008,"Young, Christopher",RI,S,262,Write-In
+2008_RI_S,2008,Blank,RI,S,67,Write-In
+2008_RI_S,2008,"Chaffee, Lincoln",RI,S,33,Write-In
+2008_RI_S,2008,None of the Above,RI,S,13,Write-In
+2008_RI_S,2008,"Mouse, Mickey",RI,S,10,Write-In
+2008_RI_S,2008,"Healey, Robert",RI,S,10,Write-In
+2008_RI_S,2008,"Cianci, Buddy",RI,S,9,Write-In
+2008_RI_S,2008,"Brown, Michael",RI,S,8,Write-In
+2008_RI_S,2008,"Duck, Donald",RI,S,7,Write-In
+2008_RI_S,2008,"Laffey, Steve",RI,S,5,Write-In
+2008_SC_01,2008,"Brown, Henry E., Jr.",SC,01,177540,Republican
+2008_SC_01,2008,"Ketner, Linda",SC,01,163724,Democratic
+2008_SC_02,2008,"Wilson, Joe",SC,02,184583,Republican
+2008_SC_02,2008,"Miller, Rob",SC,02,158627,Democratic
+2008_SC_03,2008,"Barrett, J. Gresham",SC,03,186799,Republican
+2008_SC_03,2008,"Dyer, Jane Ballard",SC,03,101724,Democratic
+2008_SC_04,2008,"Inglis, Bob",SC,04,184440,Republican
+2008_SC_04,2008,"Corden, Paul",SC,04,113291,Democratic
+2008_SC_04,2008,"Walters, C. Faye",SC,04,7332,Green
+2008_SC_05,2008,"Spratt, John",SC,05,188785,Democratic
+2008_SC_05,2008,"Spencer, Albert F.",SC,05,113282,Republican
+2008_SC_05,2008,"Waggoner, Frank",SC,05,4093,Constitution
+2008_SC_06,2008,"Clyburn, James E. ""Jim""",SC,06,193378,Democratic
+2008_SC_06,2008,"Harrelson, Nancy",SC,06,93059,Republican
+2008_SC_S,2008,"Graham, Lindsey",SC,S,1076534,Republican
+2008_SC_S,2008,"Conley, Bob",SC,S,790621,Democratic
+2008_SD_00,2008,"Sandlin, Stephanie Herseth",SD,00,256041,Democratic
+2008_SD_00,2008,"Lien, Chris",SD,00,122966,Republican
+2008_SD_S,2008,"Johnson, Tim",SD,S,237889,Democratic
+2008_SD_S,2008,"Dykstra, Joel",SD,S,142784,Republican
+2008_TN_01,2008,"Roe, Phil",TN,01,168343,Republican
+2008_TN_01,2008,"Russell, Rob",TN,01,57525,Democratic
+2008_TN_01,2008,"Goodman, Joel",TN,01,3988,"Write-In,Libertarian,Independent"
+2008_TN_01,2008,"Reeves, James W.",TN,01,2544,Independent
+2008_TN_01,2008,"Owens, Thomas (T.K.)",TN,01,1981,Independent
+2008_TN_02,2008,"Duncan, Jr., John J.",TN,02,227120,Republican
+2008_TN_02,2008,"Scott, Bob",TN,02,63639,Democratic
+2008_TN_03,2008,"Wamp, Zach",TN,03,184964,Republican
+2008_TN_03,2008,"Vandagriff, Doug",TN,03,73059,Democratic
+2008_TN_03,2008,"Howard-Hill, Jean",TN,03,4848,Independent
+2008_TN_03,2008,"Choate, Ed",TN,03,3750,Independent
+2008_TN_03,2008,"Griffin, June",TN,03,7,Write-In
+2008_TN_04,2008,"Davis, Lincoln",TN,04,146776,Democratic
+2008_TN_04,2008,"Lankford, Monty J.",TN,04,94447,Republican
+2008_TN_04,2008,"Gray, James Anthony",TN,04,4869,Independent
+2008_TN_04,2008,"Ragsdale, Kevin",TN,04,3713,Independent
+2008_TN_05,2008,"Cooper, Jim",TN,05,181467,Democratic
+2008_TN_05,2008,"Donovan, Gerard",TN,05,85471,Republican
+2008_TN_05,2008,"Jackson, Jon",TN,05,5464,Independent
+2008_TN_05,2008,"Miglietta, John P.",TN,05,3196,Independent
+2008_TN_05,2008,"Kovach, Thomas F.",TN,05,4,Write-In
+2008_TN_06,2008,"Gordon, Bart",TN,06,194264,Democratic
+2008_TN_06,2008,"Baker, Chris",TN,06,66764,Independent
+2008_TN_07,2008,"Blackburn, Marsha",TN,07,217332,Republican
+2008_TN_07,2008,"Morris, Randy G.",TN,07,99549,Democratic
+2008_TN_08,2008,"Tanner, John",TN,08,180465,Democratic
+2008_TN_08,2008,"Hart, James",TN,08,54,"Write-In,Republican,Write-In"
+2008_TN_09,2008,"Cohen, Steve",TN,09,198798,Democratic
+2008_TN_09,2008,"Ford, Jake",TN,09,11003,Independent
+2008_TN_09,2008,"Clark, Dewey",TN,09,10047,Independent
+2008_TN_09,2008,"Wright, Mary ""Taylor Shelby""",TN,09,6434,Independent
+2008_TN_S,2008,"Alexander, Lamar",TN,S,1579477,Republican
+2008_TN_S,2008,"Tuke, Robert D.",TN,S,767236,Democratic
+2008_TN_S,2008,"Buck, Edward L.",TN,S,31631,Independent
+2008_TN_S,2008,"Fenner, Christopher G.",TN,S,11073,Independent
+2008_TN_S,2008,"Lewis, Daniel Towers",TN,S,9367,Independent
+2008_TN_S,2008,"Lugo, Chris",TN,S,9170,Independent
+2008_TN_S,2008,"Lawhorn, Ed",TN,S,8986,Independent
+2008_TN_S,2008,"Gatchell, David",TN,S,7645,Independent
+2008_TX_01,2008,"Gohmert, Louie",TX,01,189012,Republican
+2008_TX_01,2008,"Owen, Roger L.",TX,01,26814,Independent
+2008_TX_02,2008,"Poe, Ted",TX,02,175101,Republican
+2008_TX_02,2008,"Wolfe, Craig",TX,02,21813,Libertarian
+2008_TX_03,2008,"Johnson, Sam",TX,03,170742,Republican
+2008_TX_03,2008,"Daley, Tom",TX,03,108693,Democratic
+2008_TX_03,2008,"Claytor, Christopher J.",TX,03,6348,Libertarian
+2008_TX_04,2008,"Hall, Ralph M.",TX,04,206906,Republican
+2008_TX_04,2008,"Melancon, Glenn",TX,04,88067,Democratic
+2008_TX_04,2008,"Annett, Fred",TX,04,5771,Libertarian
+2008_TX_05,2008,"Hensarling, Jeb",TX,05,162894,Republican
+2008_TX_05,2008,"Ashby, Ken",TX,05,31967,Libertarian
+2008_TX_06,2008,"Barton, Joe",TX,06,174008,Republican
+2008_TX_06,2008,"Otto, Ludwig",TX,06,99919,Democratic
+2008_TX_06,2008,"Koch, Max W., III",TX,06,6655,Libertarian
+2008_TX_07,2008,"Culberson, John",TX,07,162635,Republican
+2008_TX_07,2008,"Skelly, Michael",TX,07,123242,Democratic
+2008_TX_07,2008,"Parks, Drew",TX,07,5057,Libertarian
+2008_TX_08,2008,"Brady, Kevin",TX,08,207128,Republican
+2008_TX_08,2008,"Hargett, Kent",TX,08,70758,Democratic
+2008_TX_08,2008,"Stevens, Brian",TX,08,7565,Libertarian
+2008_TX_09,2008,"Green, Al",TX,09,143868,Democratic
+2008_TX_09,2008,"Walters, Brad",TX,09,9760,Libertarian
+2008_TX_10,2008,"McCaul, Michael T.",TX,10,179493,Republican
+2008_TX_10,2008,"Doherty, Larry Joe",TX,10,143719,Democratic
+2008_TX_10,2008,"Finkel, Matt",TX,10,9871,Libertarian
+2008_TX_11,2008,"Conaway, Mike",TX,11,189625,Republican
+2008_TX_11,2008,"Strohm, John R.",TX,11,25051,Libertarian
+2008_TX_12,2008,"Granger, Kay",TX,12,181662,Republican
+2008_TX_12,2008,"Smith, Tracey",TX,12,82250,Democratic
+2008_TX_12,2008,"Shambaugh, Shiloh Sidney",TX,12,4842,Libertarian
+2008_TX_13,2008,"Thornberry, Mac",TX,13,180078,Republican
+2008_TX_13,2008,"Waun, Roger James",TX,13,51841,Democratic
+2008_TX_14,2008,"Paul, Ron",TX,14,191293,Republican
+2008_TX_15,2008,"Hinojosa, Rubén",TX,15,107578,Democratic
+2008_TX_15,2008,"Zamora, Eddie",TX,15,52303,Republican
+2008_TX_15,2008,"Raether, Gricha",TX,15,3827,Libertarian
+2008_TX_16,2008,"Reyes, Silvestre",TX,16,130375,Democratic
+2008_TX_16,2008,"Mendoza, Benjamin Eloy ""Ben""",TX,16,16348,Independent
+2008_TX_16,2008,"Baker, Mette A.",TX,16,12000,Libertarian
+2008_TX_17,2008,"Edwards, Chet",TX,17,134592,Democratic
+2008_TX_17,2008,"Curnock, Rob",TX,17,115581,Republican
+2008_TX_17,2008,"Osborne, Gardner C.",TX,17,3849,Libertarian
+2008_TX_18,2008,"Lee, Sheila Jackson",TX,18,148617,Democratic
+2008_TX_18,2008,"Faulk, John",TX,18,39095,Republican
+2008_TX_18,2008,"Taylor, Mike",TX,18,4486,Libertarian
+2008_TX_19,2008,"Neugebauer, Randy",TX,19,168501,Republican
+2008_TX_19,2008,"Fullingim, Dwight",TX,19,58030,Democratic
+2008_TX_19,2008,"Peterson, Richard ""Chip""",TX,19,6080,Libertarian
+2008_TX_20,2008,"Gonzalez, Charles A.",TX,20,127298,Democratic
+2008_TX_20,2008,"Litoff, Robert",TX,20,44585,Republican
+2008_TX_20,2008,"Idrogo, Michael",TX,20,5172,Libertarian
+2008_TX_21,2008,"Smith, Lamar",TX,21,243471,Republican
+2008_TX_21,2008,"Strohm, James Arthur",TX,21,60879,Libertarian
+2008_TX_22,2008,"Olson, Pete",TX,22,161996,Republican
+2008_TX_22,2008,"Lampson, Nick",TX,22,140160,Democratic
+2008_TX_22,2008,"Wieder, John",TX,22,6839,Libertarian
+2008_TX_23,2008,"Rodriguez, Ciro D.",TX,23,134090,Democratic
+2008_TX_23,2008,"Larson, Lyle",TX,23,100799,Republican
+2008_TX_23,2008,"Connolly, Lani",TX,23,5581,Libertarian
+2008_TX_24,2008,"Marchant, Kenny E.",TX,24,151434,Republican
+2008_TX_24,2008,"Love, Tom",TX,24,111089,Democratic
+2008_TX_24,2008,"Casey, David A.",TX,24,7972,Libertarian
+2008_TX_25,2008,"Doggett, Lloyd",TX,25,191755,Democratic
+2008_TX_25,2008,"Morovich, George L.",TX,25,88693,Republican
+2008_TX_25,2008,"Stutsman, Jim",TX,25,10848,Libertarian
+2008_TX_26,2008,"Burgess, Michael C.",TX,26,195181,Republican
+2008_TX_26,2008,"Leach, Ken",TX,26,118167,Democratic
+2008_TX_26,2008,"Weiss, Stephanie B.",TX,26,11028,Libertarian
+2008_TX_27,2008,"Ortiz, Solomon P.",TX,27,104864,Democratic
+2008_TX_27,2008,"Vaden, William Willie",TX,27,69458,Republican
+2008_TX_27,2008,"Powell, Robert E.",TX,27,6629,Libertarian
+2008_TX_28,2008,"Cuellar, Henry",TX,28,123494,Democratic
+2008_TX_28,2008,"Fish, Jim",TX,28,52524,Republican
+2008_TX_28,2008,"Leone, Ross Lynn",TX,28,3722,Libertarian
+2008_TX_29,2008,"Green, Gene",TX,29,79718,Democratic
+2008_TX_29,2008,"Story, Eric",TX,29,25512,Republican
+2008_TX_29,2008,"Grace, Joel",TX,29,1564,Libertarian
+2008_TX_30,2008,"Johnson, Eddie Bernice",TX,30,168249,Democratic
+2008_TX_30,2008,"Wood, Fred",TX,30,32361,Republican
+2008_TX_30,2008,"Woods, Jarrett",TX,30,3366,Libertarian
+2008_TX_31,2008,"Carter, John",TX,31,175563,Republican
+2008_TX_31,2008,"Ruiz, Brian P.",TX,31,106559,Democratic
+2008_TX_31,2008,"Cooper, Barry N.",TX,31,9182,Libertarian
+2008_TX_32,2008,"Sessions, Pete",TX,32,116283,Republican
+2008_TX_32,2008,"Roberson, Eric",TX,32,82406,Democratic
+2008_TX_32,2008,"Bischoff, Alex",TX,32,4421,Libertarian
+2008_TX_S,2008,"Cornyn, John",TX,S,4337469,Republican
+2008_TX_S,2008,"Noriega, Richard J. (Rick)",TX,S,3389365,Democratic
+2008_TX_S,2008,"Schick, Yvonne Adams",TX,S,185241,Libertarian
+2008_UT_01,2008,"Bishop, Rob",UT,01,196799,Republican
+2008_UT_01,2008,"Bowen, Morgan",UT,01,92469,Democratic
+2008_UT_01,2008,"Pearson, Kirk D.",UT,01,7397,Constitution
+2008_UT_01,2008,"Buchman, Joseph Geddes",UT,01,6780,Libertarian
+2008_UT_02,2008,"Matheson, Jim",UT,02,220666,Democratic
+2008_UT_02,2008,"Dew, Bill",UT,02,120083,Republican
+2008_UT_02,2008,"Arndt, Mathew",UT,02,4576,Libertarian
+2008_UT_02,2008,"Emery, Dennis Ray",UT,02,3000,Constitution
+2008_UT_03,2008,"Chaffetz, Jason",UT,03,187035,Republican
+2008_UT_03,2008,"Spencer, Bennion L.",UT,03,80626,Democratic
+2008_UT_03,2008,"Noorlander, Jim",UT,03,17408,Constitution
+2008_VT_00,2008,"Welch, Peter",VT,00,248203,"Democratic,Republican"
+2008_VT_00,2008,"Bethel, Mike",VT,00,14349,Independent
+2008_VT_00,2008,"Trudell, Jerry",VT,00,10818,Energy Independence
+2008_VT_00,2008,"Hermann, Thomas J.",VT,00,9081,Progressive
+2008_VT_00,2008,"Ericson, Cris",VT,00,7841,Independent
+2008_VT_00,2008,"Newton, Jane",VT,00,5307,Liberty Union
+2008_VA_01,2008,"Wittman, Robert J. ""Rob""",VA,01,203839,Republican
+2008_VA_01,2008,"Day, Bill S., Jr. ",VA,01,150432,Democratic
+2008_VA_01,2008,"Larson, Nathan D.",VA,01,5265,Libertarian
+2008_VA_02,2008,"Nye, Glenn C., III",VA,02,141857,Democratic
+2008_VA_02,2008,"Drake, Thelma D.",VA,02,128486,Republican
+2008_VA_03,2008,"Scott, Robert C. ""Bobby""",VA,03,239911,Democratic
+2008_VA_04,2008,"Forbes, J. Randy",VA,04,199075,Republican
+2008_VA_04,2008,"Miller, Andrea R.",VA,04,135041,Democratic
+2008_VA_05,2008,"Perriello, Tom S. P.",VA,05,158810,Democratic
+2008_VA_05,2008,"Goode, Virgil H., Jr.",VA,05,158083,Republican
+2008_VA_06,2008,"Goodlatte, R. W. ""Bob""",VA,06,192350,Republican
+2008_VA_06,2008,"Rasoul, S. ""Sam""",VA,06,114367,Democratic
+2008_VA_06,2008,"Allen, Janice Lee",VA,06,5413,Independent
+2008_VA_07,2008,"Cantor, Eric I.",VA,07,233531,Republican
+2008_VA_07,2008,"Hartke, Anita",VA,07,138123,Democratic
+2008_VA_08,2008,"Moran, James P. ""Jim,"" Jr.",VA,08,222986,Democratic
+2008_VA_08,2008,"Ellmore, Mark W.",VA,08,97425,Republican
+2008_VA_08,2008,"Fisher, J. Ron",VA,08,6829,Independent Green Party
+2008_VA_09,2008,"Boucher, Rick C.",VA,09,207306,Democratic
+2008_VA_10,2008,"Wolf, Frank R.",VA,10,223140,Republican
+2008_VA_10,2008,"Feder, Judy M.",VA,10,147357,Democratic
+2008_VA_10,2008,"Nigam, Neeraj C.",VA,10,8457,Independent
+2008_VA_11,2008,"Connolly, Gerald E.  ""Gerry""",VA,11,196598,Democratic
+2008_VA_11,2008,"Fimian, Keith S.",VA,11,154758,Republican
+2008_VA_11,2008,"Oddo, Joseph P.",VA,11,7271,Independent Green Party
+2008_VA_S,2008,"Warner, Mark R.",VA,S,2369327,Democratic
+2008_VA_S,2008,"Gilmore, Jim",VA,S,1228830,Republican
+2008_VA_S,2008,"Parker, Glenda Gail",VA,S,21690,Independent Green Party
+2008_VA_S,2008,"Redpath, William B.",VA,S,20269,Libertarian
+2008_WA_01,2008,"Inslee, Jay",WA,01,233780,Democratic
+2008_WA_01,2008,"Ishmael, Larry",WA,01,111240,Grand Old Party
+2008_WA_02,2008,"Larsen, Rick",WA,02,217416,Democratic
+2008_WA_02,2008,"Bart, Rick",WA,02,131051,Republican
+2008_WA_03,2008,"Baird, Brian",WA,03,216701,Democratic
+2008_WA_03,2008,"Delavar, Michael",WA,03,121828,Republican
+2008_WA_04,2008,"Hastings, Doc",WA,04,169940,Republican
+2008_WA_04,2008,"Fearing, George",WA,04,99430,Democratic
+2008_WA_05,2008,"Rodgers, Cathy McMorris",WA,05,211305,Republican
+2008_WA_05,2008,"Mays, Mark",WA,05,112382,Democratic
+2008_WA_06,2008,"Dicks, Norm",WA,06,205991,Democratic
+2008_WA_06,2008,"Cloud, Doug",WA,06,102081,Republican
+2008_WA_07,2008,"McDermott, Jim",WA,07,291963,Democratic
+2008_WA_07,2008,"Beren, Steve",WA,07,57054,Republican
+2008_WA_08,2008,"Reichert, Dave",WA,08,191568,Republican
+2008_WA_08,2008,"Burner, Darcy",WA,08,171358,Democratic
+2008_WA_09,2008,"Smith, Adam",WA,09,176295,Democratic
+2008_WA_09,2008,"Postma, James",WA,09,93080,Republican
+2008_WV_01,2008,"Mollohan, Alan B.",WV,01,187734,Democratic
+2008_WV_01,2008,"Osgood, Ted",WV,01,69,Write-In
+2008_WV_01,2008,"Smith, R. J.",WV,01,61,Write-In
+2008_WV_02,2008,"Capito, Shelley Moore",WV,02,147334,Republican
+2008_WV_02,2008,"Barth, Anne",WV,02,110819,Democratic
+2008_WV_02,2008,"Mills, Aaron",WV,02,16,Write-In
+2008_WV_03,2008,"Rahall, Nick Joe, II",WV,03,133522,Democratic
+2008_WV_03,2008,"Gearheart, Marty",WV,03,66005,Republican
+2008_WV_S,2008,"Rockefeller, Jay",WV,S,447560,Democratic
+2008_WV_S,2008,"Wolfe, Jay",WV,S,254629,Republican
+2008_WV_S,2008,"Bartlett, John R. ""Rick""",WV,S,83,Write-In
+2008_WV_S,2008,"Shaffer, Chad",WV,S,36,Write-In
+2008_WI_01,2008,"Ryan, Paul",WI,01,231009,Republican
+2008_WI_01,2008,"Krupp, Marge",WI,01,125268,Democratic
+2008_WI_01,2008,"Kexel, Joseph",WI,01,4606,Libertarian
+2008_WI_02,2008,"Baldwin, Tammy",WI,02,277914,Democratic
+2008_WI_02,2008,"Theron, Peter",WI,02,122513,Republican
+2008_WI_03,2008,"Kind, Ron",WI,03,225208,Democratic
+2008_WI_03,2008,"Stark, Paul",WI,03,122760,Republican
+2008_WI_03,2008,"Barrett, Kevin",WI,03,8236,Libertarian
+2008_WI_04,2008,"Moore, Gwendolynne",WI,04,222728,Democratic
+2008_WI_04,2008,"LaForest, Michael D.",WI,04,29282,Independent
+2008_WI_05,2008,"Sensenbrenner, F. James, Jr.",WI,05,275271,Republican
+2008_WI_05,2008,"Raymond, Robert R.",WI,05,69715,Independent
+2008_WI_06,2008,"Petri, Tom",WI,06,221875,Republican
+2008_WI_06,2008,"Kittelson, Roger A.",WI,06,126090,Democratic
+2008_WI_07,2008,"Obey, David R.",WI,07,212666,Democratic
+2008_WI_07,2008,"Mielke, Dan",WI,07,136938,Republican
+2008_WI_08,2008,"Kagen, Steve",WI,08,193662,Democratic
+2008_WI_08,2008,"Gard, John",WI,08,164621,Republican
+2008_WY_00,2008,"Lummis, Cynthia M.",WY,00,131244,Republican
+2008_WY_00,2008,"Trauner, Gary",WY,00,106758,Democratic
+2008_WY_00,2008,"Herbert, W. David",WY,00,11030,Libertarian
+2008_WY_S,2008,"Enzi, Mike",WY,S - FULL TERM,189046,Republican
+2008_WY_S,2008,"Rothfuss, Chris",WY,S - FULL TERM,60631,Democratic
