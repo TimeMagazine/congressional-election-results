@@ -1,7 +1,7 @@
 #!/usr/bin/env node
 
 var fs = require("fs"),
-	xlsToJSON = require("./lib/xlsToJSON"),
+	xlsToJSON = require("excel-to-clean-json"),
 	csv = require("fast-csv");
 
 var standards = require("./fields.json");
@@ -47,7 +47,7 @@ function parse(year) {
 // get the party labels from the FEC doc
 function partyLabels(filename, worksheet_name) {
 	var parties = {};
-	xlsToJSON.worksheetToRows(filename, worksheet_name).forEach(function(party) {
+	xlsToJSON.rows(filename, worksheet_name).forEach(function(party) {
 		if (party.length >= 3) {
 			parties[party[0]] = party[2];
 		}
@@ -57,7 +57,7 @@ function partyLabels(filename, worksheet_name) {
 
 
 function electionResults(year, opts, parties) {
-	var candidates = xlsToJSON.worksheetToJSON("fec/" + opts.filename, opts.results),
+	var candidates = xlsToJSON.json("fec/" + opts.filename, opts.results),
 		races = {};
 
 	candidates.forEach(function(candidate, c) {

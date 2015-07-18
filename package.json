@@ -17,6 +17,7 @@
   "author": "Chris Wilson",
   "license": "MIT",
   "dependencies": {
+    "excel-to-clean-json": "0.0.1",
     "fast-csv": "^0.6.0",
     "minimist": "^1.1.1",
     "xlsjs": "^0.7.5"
