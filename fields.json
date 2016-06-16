@@ -1,4 +1,12 @@
 {
+	"2014": { 
+		"filename": "results14.xls", 
+		"results":  [ "2014 US Senate Results by State", "2014 US House Results by State" ],
+		"parties":  "2014 Party Labels",
+		"district": "D",
+		"fullname": "CANDIDATE NAME",
+		"general":  "GENERAL VOTES"
+	},
 	"2012": { 
 		"filename": "2012congresults.xls", 
 		"results":  "2012 US House & Senate Resuts",

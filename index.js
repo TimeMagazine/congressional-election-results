@@ -57,8 +57,19 @@ function partyLabels(filename, worksheet_name) {
 
 
 function electionResults(year, opts, parties) {
-	var candidates = xlsToJSON.json("fec/" + opts.filename, opts.results),
-		races = {};
+	// starting in 2014, house and senate are divided into two tabs
+	if (typeof opts.results == "object") {
+		var candidates = [];
+		opts.results.forEach(function(chamber) {
+			candidates = candidates.concat(xlsToJSON.json("fec/" + opts.filename, chamber));
+		});
+	} else {
+		var candidates = xlsToJSON.json("fec/" + opts.filename, opts.results);
+	}
+
+	var races = {};
+
+	//console.log(year, candidates.length);
 
 	candidates.forEach(function(candidate, c) {
 		if (!candidate[opts.fullname]) {
@@ -145,7 +156,7 @@ function electionResults(year, opts, parties) {
 function combineJSON() {
 	var elections = [];
 
-	for(var y = 2004; y <= 2012; y += 2) {
+	for(var y = 2004; y <= 2014; y += 2) {
 		var data = require("./data/results_" + y + ".json");
 		for (var election_id in data) {
 			var race = {
@@ -171,11 +182,11 @@ function combineJSON() {
 
 if (args.year) {
 	if (args.year === "all") {
-		parse(2004); parse(2006); parse(2008); parse(2010); parse(2012);
+		parse(2004); parse(2006); parse(2008); parse(2010); parse(2012); parse(2014);
 	} else {
 		parse(args.year);
 	}
 } else if (args._[0] == "combine") {
-	parse(2004); parse(2006); parse(2008); parse(2010); parse(2012);
+	parse(2004); parse(2006); parse(2008); parse(2010); parse(2012); parse(2014);
 	combineJSON();
 }
